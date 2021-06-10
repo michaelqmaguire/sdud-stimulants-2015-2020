@@ -26,14 +26,20 @@ states <-
 
 ## Create vector containing states of interest.
 
+statesFile <-
+  readxl::read_xlsx(
+    path = "./data/raw/statesSDUDanalyses.xlsx"
+  ) %>%
+  select(State) %>%
+  filter(State != "Minnesota")
+
 statesOfInterest <-
-  states %>%
-    filter(
-      state %in% c("Florida", "Colorado", "Tennessee", "South Carolina", "Tennessee", "Mississippi") 
+  statesFile %>%
+    inner_join(
+      states,
+      by = c("State" = "state")
     ) %>%
-    select(
-      abbreviation
-    ) %>%
+  select(abbreviation) %>%
   as_vector()
 
 ## Read in base file.
