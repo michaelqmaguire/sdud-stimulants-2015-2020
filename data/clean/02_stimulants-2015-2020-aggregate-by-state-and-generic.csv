@@ -1,4 +1,55 @@
 year,gennme,state,quarter,suppression,totalRX
+2015,Amphetamine Salt Combination,AK,1,F,513
+2015,Amphetamine Salt Combination,AK,1,T,0
+2015,Dextroamphetamine Sulfate,AK,1,F,34
+2015,Dextroamphetamine Sulfate,AK,1,T,0
+2015,Lisdexamfetamine Dimesylate,AK,1,F,699
+2015,Methamphetamine Hydrochloride,AK,1,T,0
+2015,Amphetamine Salt Combination,AK,2,F,569
+2015,Amphetamine Salt Combination,AK,2,T,0
+2015,Dextroamphetamine Sulfate,AK,2,F,47
+2015,Dextroamphetamine Sulfate,AK,2,T,0
+2015,Lisdexamfetamine Dimesylate,AK,2,F,819
+2015,Methamphetamine Hydrochloride,AK,2,T,0
+2015,Amphetamine Salt Combination,AK,3,F,563
+2015,Amphetamine Salt Combination,AK,3,T,0
+2015,Dextroamphetamine Sulfate,AK,3,F,46
+2015,Dextroamphetamine Sulfate,AK,3,T,0
+2015,Lisdexamfetamine Dimesylate,AK,3,F,740
+2015,Methamphetamine Hydrochloride,AK,3,T,0
+2015,Amphetamine Salt Combination,AK,4,F,563
+2015,Amphetamine Salt Combination,AK,4,T,0
+2015,Dextroamphetamine Sulfate,AK,4,F,60
+2015,Dextroamphetamine Sulfate,AK,4,T,0
+2015,Lisdexamfetamine Dimesylate,AK,4,F,782
+2015,Methamphetamine Hydrochloride,AK,4,T,0
+2015,Amphetamine Salt Combination,AZ,1,F,9867
+2015,Amphetamine Salt Combination,AZ,1,T,0
+2015,Dextroamphetamine Sulfate,AZ,1,F,883
+2015,Dextroamphetamine Sulfate,AZ,1,T,0
+2015,Lisdexamfetamine Dimesylate,AZ,1,F,5173
+2015,Lisdexamfetamine Dimesylate,AZ,1,T,0
+2015,Methamphetamine Hydrochloride,AZ,1,F,13
+2015,Amphetamine Salt Combination,AZ,2,F,15957
+2015,Amphetamine Salt Combination,AZ,2,T,0
+2015,Dextroamphetamine Sulfate,AZ,2,F,1697
+2015,Dextroamphetamine Sulfate,AZ,2,T,0
+2015,Lisdexamfetamine Dimesylate,AZ,2,F,9189
+2015,Lisdexamfetamine Dimesylate,AZ,2,T,0
+2015,Methamphetamine Hydrochloride,AZ,2,F,19
+2015,Amphetamine Salt Combination,AZ,3,F,12411
+2015,Amphetamine Salt Combination,AZ,3,T,0
+2015,Dextroamphetamine Sulfate,AZ,3,F,938
+2015,Dextroamphetamine Sulfate,AZ,3,T,0
+2015,Lisdexamfetamine Dimesylate,AZ,3,F,6403
+2015,Methamphetamine Hydrochloride,AZ,3,T,0
+2015,Amphetamine Salt Combination,AZ,4,F,12510
+2015,Amphetamine Salt Combination,AZ,4,T,0
+2015,Dextroamphetamine Sulfate,AZ,4,F,940
+2015,Dextroamphetamine Sulfate,AZ,4,T,0
+2015,Lisdexamfetamine Dimesylate,AZ,4,F,7874
+2015,Lisdexamfetamine Dimesylate,AZ,4,T,0
+2015,Methamphetamine Hydrochloride,AZ,4,T,0
 2015,Amphetamine Salt Combination,CO,1,F,14103
 2015,Amphetamine Salt Combination,CO,1,T,0
 2015,Dextroamphetamine Sulfate,CO,1,F,367
@@ -23,6 +74,53 @@ year,gennme,state,quarter,suppression,totalRX
 2015,Dextroamphetamine Sulfate,CO,4,T,0
 2015,Lisdexamfetamine Dimesylate,CO,4,F,8666
 2015,Methamphetamine Hydrochloride,CO,4,T,0
+2015,Amphetamine Salt Combination,CT,1,F,14321
+2015,Amphetamine Salt Combination,CT,1,T,0
+2015,Dextroamphetamine Sulfate,CT,1,F,342
+2015,Dextroamphetamine Sulfate,CT,1,T,0
+2015,Lisdexamfetamine Dimesylate,CT,1,F,10129
+2015,Methamphetamine Hydrochloride,CT,1,T,0
+2015,Amphetamine Salt Combination,CT,2,F,15720
+2015,Amphetamine Salt Combination,CT,2,T,0
+2015,Dextroamphetamine Sulfate,CT,2,F,433
+2015,Dextroamphetamine Sulfate,CT,2,T,0
+2015,Lisdexamfetamine Dimesylate,CT,2,F,11092
+2015,Methamphetamine Hydrochloride,CT,2,T,0
+2015,Amphetamine Salt Combination,CT,3,F,15465
+2015,Amphetamine Salt Combination,CT,3,T,0
+2015,Dextroamphetamine Sulfate,CT,3,F,441
+2015,Dextroamphetamine Sulfate,CT,3,T,0
+2015,Lisdexamfetamine Dimesylate,CT,3,F,10787
+2015,Methamphetamine Hydrochloride,CT,3,T,0
+2015,Amphetamine Salt Combination,CT,4,F,16332
+2015,Amphetamine Salt Combination,CT,4,T,0
+2015,Dextroamphetamine Sulfate,CT,4,F,451
+2015,Dextroamphetamine Sulfate,CT,4,T,0
+2015,Lisdexamfetamine Dimesylate,CT,4,F,12103
+2015,Methamphetamine Hydrochloride,CT,4,T,0
+2015,Amphetamine Salt Combination,DE,1,F,4433
+2015,Amphetamine Salt Combination,DE,1,T,0
+2015,Dextroamphetamine Sulfate,DE,1,F,14
+2015,Dextroamphetamine Sulfate,DE,1,T,0
+2015,Lisdexamfetamine Dimesylate,DE,1,F,7370
+2015,Amphetamine Salt Combination,DE,2,F,4783
+2015,Amphetamine Salt Combination,DE,2,T,0
+2015,Dextroamphetamine Sulfate,DE,2,F,31
+2015,Dextroamphetamine Sulfate,DE,2,T,0
+2015,Lisdexamfetamine Dimesylate,DE,2,F,7426
+2015,Amphetamine Salt Combination,DE,3,F,5232
+2015,Amphetamine Salt Combination,DE,3,T,0
+2015,Dextroamphetamine Sulfate,DE,3,F,13
+2015,Dextroamphetamine Sulfate,DE,3,T,0
+2015,Lisdexamfetamine Dimesylate,DE,3,F,7178
+2015,Lisdexamfetamine Dimesylate,DE,3,T,0
+2015,Methamphetamine Hydrochloride,DE,3,T,0
+2015,Amphetamine Salt Combination,DE,4,F,5614
+2015,Amphetamine Salt Combination,DE,4,T,0
+2015,Dextroamphetamine Sulfate,DE,4,T,0
+2015,Lisdexamfetamine Dimesylate,DE,4,F,7709
+2015,Lisdexamfetamine Dimesylate,DE,4,T,0
+2015,Methamphetamine Hydrochloride,DE,4,T,0
 2015,Amphetamine Salt Combination,FL,1,F,55535
 2015,Amphetamine Salt Combination,FL,1,T,0
 2015,Dextroamphetamine Sulfate,FL,1,F,897
@@ -44,6 +142,177 @@ year,gennme,state,quarter,suppression,totalRX
 2015,Dextroamphetamine Sulfate,FL,4,F,802
 2015,Dextroamphetamine Sulfate,FL,4,T,0
 2015,Lisdexamfetamine Dimesylate,FL,4,F,65205
+2015,Amphetamine Salt Combination,HI,1,F,1124
+2015,Amphetamine Salt Combination,HI,1,T,0
+2015,Dextroamphetamine Sulfate,HI,1,F,131
+2015,Dextroamphetamine Sulfate,HI,1,T,0
+2015,Lisdexamfetamine Dimesylate,HI,1,F,197
+2015,Amphetamine Salt Combination,HI,2,F,1236
+2015,Amphetamine Salt Combination,HI,2,T,0
+2015,Dextroamphetamine Sulfate,HI,2,F,131
+2015,Dextroamphetamine Sulfate,HI,2,T,0
+2015,Lisdexamfetamine Dimesylate,HI,2,F,165
+2015,Lisdexamfetamine Dimesylate,HI,2,T,0
+2015,Amphetamine Salt Combination,HI,3,F,1361
+2015,Amphetamine Salt Combination,HI,3,T,0
+2015,Dextroamphetamine Sulfate,HI,3,F,128
+2015,Dextroamphetamine Sulfate,HI,3,T,0
+2015,Lisdexamfetamine Dimesylate,HI,3,F,142
+2015,Lisdexamfetamine Dimesylate,HI,3,T,0
+2015,Amphetamine Salt Combination,HI,4,F,1456
+2015,Amphetamine Salt Combination,HI,4,T,0
+2015,Dextroamphetamine Sulfate,HI,4,F,169
+2015,Dextroamphetamine Sulfate,HI,4,T,0
+2015,Lisdexamfetamine Dimesylate,HI,4,F,115
+2015,Lisdexamfetamine Dimesylate,HI,4,T,0
+2015,Amphetamine Salt Combination,IL,1,F,23206
+2015,Amphetamine Salt Combination,IL,1,T,0
+2015,Dextroamphetamine Sulfate,IL,1,F,60
+2015,Dextroamphetamine Sulfate,IL,1,T,0
+2015,Lisdexamfetamine Dimesylate,IL,1,F,2538
+2015,Lisdexamfetamine Dimesylate,IL,1,T,0
+2015,Amphetamine Salt Combination,IL,2,F,26293
+2015,Amphetamine Salt Combination,IL,2,T,0
+2015,Dextroamphetamine Sulfate,IL,2,F,67
+2015,Dextroamphetamine Sulfate,IL,2,T,0
+2015,Lisdexamfetamine Dimesylate,IL,2,F,2696
+2015,Lisdexamfetamine Dimesylate,IL,2,T,0
+2015,Amphetamine Salt Combination,IL,3,F,29738
+2015,Amphetamine Salt Combination,IL,3,T,0
+2015,Dextroamphetamine Sulfate,IL,3,F,155
+2015,Dextroamphetamine Sulfate,IL,3,T,0
+2015,Lisdexamfetamine Dimesylate,IL,3,F,3292
+2015,Lisdexamfetamine Dimesylate,IL,3,T,0
+2015,Amphetamine Salt Combination,IL,4,F,36031
+2015,Amphetamine Salt Combination,IL,4,T,0
+2015,Dextroamphetamine Sulfate,IL,4,F,156
+2015,Dextroamphetamine Sulfate,IL,4,T,0
+2015,Lisdexamfetamine Dimesylate,IL,4,F,3601
+2015,Lisdexamfetamine Dimesylate,IL,4,T,0
+2015,Methamphetamine Hydrochloride,IL,4,T,0
+2015,Amphetamine Salt Combination,IN,1,F,34113
+2015,Amphetamine Salt Combination,IN,1,T,0
+2015,Dextroamphetamine Sulfate,IN,1,F,476
+2015,Dextroamphetamine Sulfate,IN,1,T,0
+2015,Lisdexamfetamine Dimesylate,IN,1,F,36586
+2015,Lisdexamfetamine Dimesylate,IN,1,T,0
+2015,Methamphetamine Hydrochloride,IN,1,T,0
+2015,Amphetamine Salt Combination,IN,2,F,34379
+2015,Amphetamine Salt Combination,IN,2,T,0
+2015,Dextroamphetamine Sulfate,IN,2,F,458
+2015,Dextroamphetamine Sulfate,IN,2,T,0
+2015,Lisdexamfetamine Dimesylate,IN,2,F,36708
+2015,Lisdexamfetamine Dimesylate,IN,2,T,0
+2015,Methamphetamine Hydrochloride,IN,2,T,0
+2015,Amphetamine Salt Combination,IN,3,F,32584
+2015,Amphetamine Salt Combination,IN,3,T,0
+2015,Dextroamphetamine Sulfate,IN,3,F,405
+2015,Dextroamphetamine Sulfate,IN,3,T,0
+2015,Lisdexamfetamine Dimesylate,IN,3,F,35305
+2015,Methamphetamine Hydrochloride,IN,3,T,0
+2015,Amphetamine Salt Combination,IN,4,F,36395
+2015,Amphetamine Salt Combination,IN,4,T,0
+2015,Dextroamphetamine Sulfate,IN,4,F,491
+2015,Dextroamphetamine Sulfate,IN,4,T,0
+2015,Lisdexamfetamine Dimesylate,IN,4,F,40110
+2015,Methamphetamine Hydrochloride,IN,4,T,0
+2015,Amphetamine Salt Combination,KY,1,F,7655
+2015,Amphetamine Salt Combination,KY,1,T,0
+2015,Dextroamphetamine Sulfate,KY,1,F,52
+2015,Dextroamphetamine Sulfate,KY,1,T,0
+2015,Lisdexamfetamine Dimesylate,KY,1,F,2001
+2015,Lisdexamfetamine Dimesylate,KY,1,T,0
+2015,Methamphetamine Hydrochloride,KY,1,T,0
+2015,Amphetamine Salt Combination,KY,2,F,8171
+2015,Amphetamine Salt Combination,KY,2,T,0
+2015,Dextroamphetamine Sulfate,KY,2,F,169
+2015,Dextroamphetamine Sulfate,KY,2,T,0
+2015,Lisdexamfetamine Dimesylate,KY,2,F,2013
+2015,Lisdexamfetamine Dimesylate,KY,2,T,0
+2015,Methamphetamine Hydrochloride,KY,2,T,0
+2015,Amphetamine Salt Combination,KY,3,F,10486
+2015,Amphetamine Salt Combination,KY,3,T,0
+2015,Dextroamphetamine Sulfate,KY,3,F,499
+2015,Dextroamphetamine Sulfate,KY,3,T,0
+2015,Lisdexamfetamine Dimesylate,KY,3,F,8785
+2015,Lisdexamfetamine Dimesylate,KY,3,T,0
+2015,Methamphetamine Hydrochloride,KY,3,T,0
+2015,Amphetamine Salt Combination,KY,4,F,5530
+2015,Amphetamine Salt Combination,KY,4,T,0
+2015,Dextroamphetamine Sulfate,KY,4,F,219
+2015,Dextroamphetamine Sulfate,KY,4,T,0
+2015,Lisdexamfetamine Dimesylate,KY,4,F,4749
+2015,Lisdexamfetamine Dimesylate,KY,4,T,0
+2015,Methamphetamine Hydrochloride,KY,4,T,0
+2015,Amphetamine Salt Combination,LA,1,F,35835
+2015,Amphetamine Salt Combination,LA,1,T,0
+2015,Dextroamphetamine Sulfate,LA,1,F,1660
+2015,Dextroamphetamine Sulfate,LA,1,T,0
+2015,Lisdexamfetamine Dimesylate,LA,1,F,67551
+2015,Amphetamine Salt Combination,LA,2,F,28451
+2015,Amphetamine Salt Combination,LA,2,T,0
+2015,Dextroamphetamine Sulfate,LA,2,F,1121
+2015,Dextroamphetamine Sulfate,LA,2,T,0
+2015,Lisdexamfetamine Dimesylate,LA,2,F,49736
+2015,Lisdexamfetamine Dimesylate,LA,2,T,0
+2015,Methamphetamine Hydrochloride,LA,2,T,0
+2015,Amphetamine Salt Combination,LA,3,F,27661
+2015,Amphetamine Salt Combination,LA,3,T,0
+2015,Dextroamphetamine Sulfate,LA,3,F,918
+2015,Dextroamphetamine Sulfate,LA,3,T,0
+2015,Lisdexamfetamine Dimesylate,LA,3,F,43342
+2015,Methamphetamine Hydrochloride,LA,3,T,0
+2015,Amphetamine Salt Combination,LA,4,F,29220
+2015,Amphetamine Salt Combination,LA,4,T,0
+2015,Dextroamphetamine Sulfate,LA,4,F,874
+2015,Dextroamphetamine Sulfate,LA,4,T,0
+2015,Lisdexamfetamine Dimesylate,LA,4,F,43766
+2015,Methamphetamine Hydrochloride,LA,4,T,0
+2015,Amphetamine Salt Combination,MI,1,F,52363
+2015,Amphetamine Salt Combination,MI,1,T,0
+2015,Dextroamphetamine Sulfate,MI,1,F,541
+2015,Dextroamphetamine Sulfate,MI,1,T,0
+2015,Lisdexamfetamine Dimesylate,MI,1,F,26736
+2015,Methamphetamine Hydrochloride,MI,1,T,0
+2015,Amphetamine Salt Combination,MI,2,F,49943
+2015,Amphetamine Salt Combination,MI,2,T,0
+2015,Dextroamphetamine Sulfate,MI,2,F,557
+2015,Dextroamphetamine Sulfate,MI,2,T,0
+2015,Lisdexamfetamine Dimesylate,MI,2,F,25498
+2015,Methamphetamine Hydrochloride,MI,2,T,0
+2015,Amphetamine Salt Combination,MI,3,F,52760
+2015,Amphetamine Salt Combination,MI,3,T,0
+2015,Dextroamphetamine Sulfate,MI,3,F,579
+2015,Dextroamphetamine Sulfate,MI,3,T,0
+2015,Lisdexamfetamine Dimesylate,MI,3,F,26136
+2015,Lisdexamfetamine Dimesylate,MI,3,T,0
+2015,Amphetamine Salt Combination,MI,4,F,61601
+2015,Amphetamine Salt Combination,MI,4,T,0
+2015,Dextroamphetamine Sulfate,MI,4,F,653
+2015,Dextroamphetamine Sulfate,MI,4,T,0
+2015,Lisdexamfetamine Dimesylate,MI,4,F,31229
+2015,Methamphetamine Hydrochloride,MI,4,T,0
+2015,Amphetamine Salt Combination,MO,1,F,20477
+2015,Amphetamine Salt Combination,MO,1,T,0
+2015,Dextroamphetamine Sulfate,MO,1,F,640
+2015,Dextroamphetamine Sulfate,MO,1,T,0
+2015,Lisdexamfetamine Dimesylate,MO,1,F,19844
+2015,Amphetamine Salt Combination,MO,2,F,17627
+2015,Amphetamine Salt Combination,MO,2,T,0
+2015,Dextroamphetamine Sulfate,MO,2,F,566
+2015,Dextroamphetamine Sulfate,MO,2,T,0
+2015,Lisdexamfetamine Dimesylate,MO,2,F,17468
+2015,Amphetamine Salt Combination,MO,3,F,19092
+2015,Amphetamine Salt Combination,MO,3,T,0
+2015,Dextroamphetamine Sulfate,MO,3,F,602
+2015,Dextroamphetamine Sulfate,MO,3,T,0
+2015,Lisdexamfetamine Dimesylate,MO,3,F,18824
+2015,Amphetamine Salt Combination,MO,4,F,20218
+2015,Amphetamine Salt Combination,MO,4,T,0
+2015,Dextroamphetamine Sulfate,MO,4,F,660
+2015,Dextroamphetamine Sulfate,MO,4,T,0
+2015,Lisdexamfetamine Dimesylate,MO,4,F,19666
+2015,Methamphetamine Hydrochloride,MO,4,T,0
 2015,Amphetamine Salt Combination,MS,1,F,14001
 2015,Amphetamine Salt Combination,MS,1,T,0
 2015,Dextroamphetamine Sulfate,MS,1,F,623
@@ -69,6 +338,204 @@ year,gennme,state,quarter,suppression,totalRX
 2015,Dextroamphetamine Sulfate,MS,4,T,0
 2015,Lisdexamfetamine Dimesylate,MS,4,F,23237
 2015,Methamphetamine Hydrochloride,MS,4,T,0
+2015,Amphetamine Salt Combination,NC,1,F,48414
+2015,Amphetamine Salt Combination,NC,1,T,0
+2015,Dextroamphetamine Sulfate,NC,1,F,2047
+2015,Dextroamphetamine Sulfate,NC,1,T,0
+2015,Lisdexamfetamine Dimesylate,NC,1,F,47635
+2015,Methamphetamine Hydrochloride,NC,1,T,0
+2015,Amphetamine Salt Combination,NC,2,F,43754
+2015,Amphetamine Salt Combination,NC,2,T,0
+2015,Dextroamphetamine Sulfate,NC,2,F,1922
+2015,Dextroamphetamine Sulfate,NC,2,T,0
+2015,Lisdexamfetamine Dimesylate,NC,2,F,43575
+2015,Methamphetamine Hydrochloride,NC,2,T,0
+2015,Amphetamine Salt Combination,NC,3,F,47577
+2015,Amphetamine Salt Combination,NC,3,T,0
+2015,Dextroamphetamine Sulfate,NC,3,F,1928
+2015,Dextroamphetamine Sulfate,NC,3,T,0
+2015,Lisdexamfetamine Dimesylate,NC,3,F,46262
+2015,Methamphetamine Hydrochloride,NC,3,T,0
+2015,Amphetamine Salt Combination,NC,4,F,48294
+2015,Amphetamine Salt Combination,NC,4,T,0
+2015,Dextroamphetamine Sulfate,NC,4,F,1918
+2015,Dextroamphetamine Sulfate,NC,4,T,0
+2015,Lisdexamfetamine Dimesylate,NC,4,F,48729
+2015,Amphetamine Salt Combination,NH,1,F,4612
+2015,Amphetamine Salt Combination,NH,1,T,0
+2015,Dextroamphetamine Sulfate,NH,1,F,94
+2015,Dextroamphetamine Sulfate,NH,1,T,0
+2015,Lisdexamfetamine Dimesylate,NH,1,F,4031
+2015,Amphetamine Salt Combination,NH,2,F,4787
+2015,Amphetamine Salt Combination,NH,2,T,0
+2015,Dextroamphetamine Sulfate,NH,2,F,65
+2015,Dextroamphetamine Sulfate,NH,2,T,0
+2015,Lisdexamfetamine Dimesylate,NH,2,F,3603
+2015,Lisdexamfetamine Dimesylate,NH,2,T,0
+2015,Amphetamine Salt Combination,NH,3,F,4767
+2015,Amphetamine Salt Combination,NH,3,T,0
+2015,Dextroamphetamine Sulfate,NH,3,F,74
+2015,Dextroamphetamine Sulfate,NH,3,T,0
+2015,Lisdexamfetamine Dimesylate,NH,3,F,3473
+2015,Lisdexamfetamine Dimesylate,NH,3,T,0
+2015,Amphetamine Salt Combination,NH,4,F,3766
+2015,Amphetamine Salt Combination,NH,4,T,0
+2015,Dextroamphetamine Sulfate,NH,4,F,71
+2015,Dextroamphetamine Sulfate,NH,4,T,0
+2015,Lisdexamfetamine Dimesylate,NH,4,F,3941
+2015,Lisdexamfetamine Dimesylate,NH,4,T,0
+2015,Amphetamine Salt Combination,NJ,1,F,15639
+2015,Amphetamine Salt Combination,NJ,1,T,0
+2015,Dextroamphetamine Sulfate,NJ,1,F,381
+2015,Dextroamphetamine Sulfate,NJ,1,T,0
+2015,Lisdexamfetamine Dimesylate,NJ,1,F,8875
+2015,Lisdexamfetamine Dimesylate,NJ,1,T,0
+2015,Methamphetamine Hydrochloride,NJ,1,T,0
+2015,Amphetamine Salt Combination,NJ,2,F,11335
+2015,Amphetamine Salt Combination,NJ,2,T,0
+2015,Dextroamphetamine Sulfate,NJ,2,F,219
+2015,Dextroamphetamine Sulfate,NJ,2,T,0
+2015,Lisdexamfetamine Dimesylate,NJ,2,F,6223
+2015,Lisdexamfetamine Dimesylate,NJ,2,T,0
+2015,Methamphetamine Hydrochloride,NJ,2,T,0
+2015,Amphetamine Salt Combination,NJ,3,F,14552
+2015,Amphetamine Salt Combination,NJ,3,T,0
+2015,Dextroamphetamine Sulfate,NJ,3,F,322
+2015,Dextroamphetamine Sulfate,NJ,3,T,0
+2015,Lisdexamfetamine Dimesylate,NJ,3,F,7842
+2015,Lisdexamfetamine Dimesylate,NJ,3,T,0
+2015,Methamphetamine Hydrochloride,NJ,3,T,0
+2015,Amphetamine Salt Combination,NJ,4,F,15005
+2015,Amphetamine Salt Combination,NJ,4,T,0
+2015,Dextroamphetamine Sulfate,NJ,4,F,287
+2015,Dextroamphetamine Sulfate,NJ,4,T,0
+2015,Lisdexamfetamine Dimesylate,NJ,4,F,7801
+2015,Lisdexamfetamine Dimesylate,NJ,4,T,0
+2015,Methamphetamine Hydrochloride,NJ,4,T,0
+2015,Amphetamine Salt Combination,NV,1,F,3883
+2015,Amphetamine Salt Combination,NV,1,T,0
+2015,Dextroamphetamine Sulfate,NV,1,F,83
+2015,Dextroamphetamine Sulfate,NV,1,T,0
+2015,Lisdexamfetamine Dimesylate,NV,1,F,2321
+2015,Lisdexamfetamine Dimesylate,NV,1,T,0
+2015,Methamphetamine Hydrochloride,NV,1,T,0
+2015,Amphetamine Salt Combination,NV,2,F,4241
+2015,Amphetamine Salt Combination,NV,2,T,0
+2015,Dextroamphetamine Sulfate,NV,2,F,86
+2015,Dextroamphetamine Sulfate,NV,2,T,0
+2015,Lisdexamfetamine Dimesylate,NV,2,F,2726
+2015,Lisdexamfetamine Dimesylate,NV,2,T,0
+2015,Methamphetamine Hydrochloride,NV,2,T,0
+2015,Amphetamine Salt Combination,NV,3,F,4016
+2015,Amphetamine Salt Combination,NV,3,T,0
+2015,Dextroamphetamine Sulfate,NV,3,F,58
+2015,Dextroamphetamine Sulfate,NV,3,T,0
+2015,Lisdexamfetamine Dimesylate,NV,3,F,2362
+2015,Lisdexamfetamine Dimesylate,NV,3,T,0
+2015,Methamphetamine Hydrochloride,NV,3,T,0
+2015,Amphetamine Salt Combination,NV,4,F,4430
+2015,Amphetamine Salt Combination,NV,4,T,0
+2015,Dextroamphetamine Sulfate,NV,4,F,146
+2015,Dextroamphetamine Sulfate,NV,4,T,0
+2015,Lisdexamfetamine Dimesylate,NV,4,F,2670
+2015,Methamphetamine Hydrochloride,NV,4,T,0
+2015,Amphetamine Salt Combination,NY,1,F,34118
+2015,Amphetamine Salt Combination,NY,1,T,0
+2015,Dextroamphetamine Sulfate,NY,1,F,2373
+2015,Dextroamphetamine Sulfate,NY,1,T,0
+2015,Lisdexamfetamine Dimesylate,NY,1,F,20154
+2015,Lisdexamfetamine Dimesylate,NY,1,T,0
+2015,Methamphetamine Hydrochloride,NY,1,F,24
+2015,Methamphetamine Hydrochloride,NY,1,T,0
+2015,Amphetamine Salt Combination,NY,2,F,38223
+2015,Amphetamine Salt Combination,NY,2,T,0
+2015,Dextroamphetamine Sulfate,NY,2,F,2566
+2015,Dextroamphetamine Sulfate,NY,2,T,0
+2015,Lisdexamfetamine Dimesylate,NY,2,F,21898
+2015,Methamphetamine Hydrochloride,NY,2,F,24
+2015,Methamphetamine Hydrochloride,NY,2,T,0
+2015,Amphetamine Salt Combination,NY,3,F,35656
+2015,Amphetamine Salt Combination,NY,3,T,0
+2015,Dextroamphetamine Sulfate,NY,3,F,2220
+2015,Dextroamphetamine Sulfate,NY,3,T,0
+2015,Lisdexamfetamine Dimesylate,NY,3,F,18980
+2015,Methamphetamine Hydrochloride,NY,3,F,24
+2015,Methamphetamine Hydrochloride,NY,3,T,0
+2015,Amphetamine Salt Combination,NY,4,F,37600
+2015,Amphetamine Salt Combination,NY,4,T,0
+2015,Dextroamphetamine Sulfate,NY,4,F,2424
+2015,Dextroamphetamine Sulfate,NY,4,T,0
+2015,Lisdexamfetamine Dimesylate,NY,4,F,20528
+2015,Methamphetamine Hydrochloride,NY,4,T,0
+2015,Amphetamine Salt Combination,OH,1,F,48436
+2015,Amphetamine Salt Combination,OH,1,T,0
+2015,Dextroamphetamine Sulfate,OH,1,F,1298
+2015,Dextroamphetamine Sulfate,OH,1,T,0
+2015,Lisdexamfetamine Dimesylate,OH,1,F,43337
+2015,Lisdexamfetamine Dimesylate,OH,1,T,0
+2015,Methamphetamine Hydrochloride,OH,1,T,0
+2015,Amphetamine Salt Combination,OH,2,F,53766
+2015,Amphetamine Salt Combination,OH,2,T,0
+2015,Dextroamphetamine Sulfate,OH,2,F,1429
+2015,Dextroamphetamine Sulfate,OH,2,T,0
+2015,Lisdexamfetamine Dimesylate,OH,2,F,45356
+2015,Methamphetamine Hydrochloride,OH,2,T,0
+2015,Amphetamine Salt Combination,OH,3,F,50184
+2015,Amphetamine Salt Combination,OH,3,T,0
+2015,Dextroamphetamine Sulfate,OH,3,F,1243
+2015,Dextroamphetamine Sulfate,OH,3,T,0
+2015,Lisdexamfetamine Dimesylate,OH,3,F,41771
+2015,Methamphetamine Hydrochloride,OH,3,T,0
+2015,Amphetamine Salt Combination,OH,4,F,51085
+2015,Amphetamine Salt Combination,OH,4,T,0
+2015,Dextroamphetamine Sulfate,OH,4,F,1171
+2015,Dextroamphetamine Sulfate,OH,4,T,0
+2015,Lisdexamfetamine Dimesylate,OH,4,F,44577
+2015,Methamphetamine Hydrochloride,OH,4,T,0
+2015,Amphetamine Salt Combination,OK,1,F,9217
+2015,Amphetamine Salt Combination,OK,1,T,0
+2015,Dextroamphetamine Sulfate,OK,1,T,0
+2015,Lisdexamfetamine Dimesylate,OK,1,F,18392
+2015,Amphetamine Salt Combination,OK,2,F,9306
+2015,Amphetamine Salt Combination,OK,2,T,0
+2015,Dextroamphetamine Sulfate,OK,2,T,0
+2015,Lisdexamfetamine Dimesylate,OK,2,F,20505
+2015,Amphetamine Salt Combination,OK,3,F,9268
+2015,Amphetamine Salt Combination,OK,3,T,0
+2015,Dextroamphetamine Sulfate,OK,3,T,0
+2015,Lisdexamfetamine Dimesylate,OK,3,F,21124
+2015,Amphetamine Salt Combination,OK,4,F,9730
+2015,Amphetamine Salt Combination,OK,4,T,0
+2015,Dextroamphetamine Sulfate,OK,4,T,0
+2015,Lisdexamfetamine Dimesylate,OK,4,F,23411
+2015,Amphetamine Salt Combination,PA,1,F,41466
+2015,Amphetamine Salt Combination,PA,1,T,0
+2015,Dextroamphetamine Sulfate,PA,1,F,1568
+2015,Dextroamphetamine Sulfate,PA,1,T,0
+2015,Lisdexamfetamine Dimesylate,PA,1,F,22630
+2015,Lisdexamfetamine Dimesylate,PA,1,T,0
+2015,Methamphetamine Hydrochloride,PA,1,T,0
+2015,Amphetamine Salt Combination,PA,2,F,60159
+2015,Amphetamine Salt Combination,PA,2,T,0
+2015,Dextroamphetamine Sulfate,PA,2,F,2630
+2015,Dextroamphetamine Sulfate,PA,2,T,0
+2015,Lisdexamfetamine Dimesylate,PA,2,F,35988
+2015,Lisdexamfetamine Dimesylate,PA,2,T,0
+2015,Methamphetamine Hydrochloride,PA,2,T,0
+2015,Amphetamine Salt Combination,PA,3,F,59070
+2015,Amphetamine Salt Combination,PA,3,T,0
+2015,Dextroamphetamine Sulfate,PA,3,F,2144
+2015,Dextroamphetamine Sulfate,PA,3,T,0
+2015,Lisdexamfetamine Dimesylate,PA,3,F,28922
+2015,Lisdexamfetamine Dimesylate,PA,3,T,0
+2015,Methamphetamine Hydrochloride,PA,3,F,18
+2015,Amphetamine Salt Combination,PA,4,F,69488
+2015,Amphetamine Salt Combination,PA,4,T,0
+2015,Dextroamphetamine Sulfate,PA,4,F,2407
+2015,Dextroamphetamine Sulfate,PA,4,T,0
+2015,Lisdexamfetamine Dimesylate,PA,4,F,34239
+2015,Methamphetamine Hydrochloride,PA,4,F,26
+2015,Methamphetamine Hydrochloride,PA,4,T,0
 2015,Amphetamine Salt Combination,SC,1,F,22266
 2015,Amphetamine Salt Combination,SC,1,T,0
 2015,Dextroamphetamine Sulfate,SC,1,F,425
@@ -114,6 +581,180 @@ year,gennme,state,quarter,suppression,totalRX
 2015,Dextroamphetamine Sulfate,TN,4,T,0
 2015,Lisdexamfetamine Dimesylate,TN,4,F,33487
 2015,Methamphetamine Hydrochloride,TN,4,T,0
+2015,Amphetamine Salt Combination,UT,1,F,2662
+2015,Amphetamine Salt Combination,UT,1,T,0
+2015,Dextroamphetamine Sulfate,UT,1,F,451
+2015,Dextroamphetamine Sulfate,UT,1,T,0
+2015,Lisdexamfetamine Dimesylate,UT,1,F,3718
+2015,Methamphetamine Hydrochloride,UT,1,T,0
+2015,Amphetamine Salt Combination,UT,2,F,2683
+2015,Amphetamine Salt Combination,UT,2,T,0
+2015,Dextroamphetamine Sulfate,UT,2,F,465
+2015,Dextroamphetamine Sulfate,UT,2,T,0
+2015,Lisdexamfetamine Dimesylate,UT,2,F,3779
+2015,Methamphetamine Hydrochloride,UT,2,T,0
+2015,Amphetamine Salt Combination,UT,3,F,2499
+2015,Amphetamine Salt Combination,UT,3,T,0
+2015,Dextroamphetamine Sulfate,UT,3,F,423
+2015,Dextroamphetamine Sulfate,UT,3,T,0
+2015,Lisdexamfetamine Dimesylate,UT,3,F,3540
+2015,Methamphetamine Hydrochloride,UT,3,T,0
+2015,Amphetamine Salt Combination,UT,4,F,2537
+2015,Amphetamine Salt Combination,UT,4,T,0
+2015,Dextroamphetamine Sulfate,UT,4,F,402
+2015,Dextroamphetamine Sulfate,UT,4,T,0
+2015,Lisdexamfetamine Dimesylate,UT,4,F,3935
+2015,Methamphetamine Hydrochloride,UT,4,T,0
+2015,Amphetamine Salt Combination,VA,1,F,16686
+2015,Amphetamine Salt Combination,VA,1,T,0
+2015,Dextroamphetamine Sulfate,VA,1,F,855
+2015,Dextroamphetamine Sulfate,VA,1,T,0
+2015,Lisdexamfetamine Dimesylate,VA,1,F,19712
+2015,Lisdexamfetamine Dimesylate,VA,1,T,0
+2015,Methamphetamine Hydrochloride,VA,1,T,0
+2015,Amphetamine Salt Combination,VA,2,F,17026
+2015,Amphetamine Salt Combination,VA,2,T,0
+2015,Dextroamphetamine Sulfate,VA,2,F,863
+2015,Dextroamphetamine Sulfate,VA,2,T,0
+2015,Lisdexamfetamine Dimesylate,VA,2,F,19198
+2015,Methamphetamine Hydrochloride,VA,2,T,0
+2015,Amphetamine Salt Combination,VA,3,F,17207
+2015,Amphetamine Salt Combination,VA,3,T,0
+2015,Dextroamphetamine Sulfate,VA,3,F,815
+2015,Dextroamphetamine Sulfate,VA,3,T,0
+2015,Lisdexamfetamine Dimesylate,VA,3,F,18443
+2015,Methamphetamine Hydrochloride,VA,3,T,0
+2015,Amphetamine Salt Combination,VA,4,F,17790
+2015,Amphetamine Salt Combination,VA,4,T,0
+2015,Dextroamphetamine Sulfate,VA,4,F,843
+2015,Dextroamphetamine Sulfate,VA,4,T,0
+2015,Lisdexamfetamine Dimesylate,VA,4,F,19941
+2015,Methamphetamine Hydrochloride,VA,4,T,0
+2015,Amphetamine Salt Combination,WA,1,F,10052
+2015,Amphetamine Salt Combination,WA,1,T,0
+2015,Dextroamphetamine Sulfate,WA,1,F,1231
+2015,Dextroamphetamine Sulfate,WA,1,T,0
+2015,Lisdexamfetamine Dimesylate,WA,1,F,6763
+2015,Lisdexamfetamine Dimesylate,WA,1,T,0
+2015,Methamphetamine Hydrochloride,WA,1,F,24
+2015,Amphetamine Salt Combination,WA,2,F,11798
+2015,Amphetamine Salt Combination,WA,2,T,0
+2015,Dextroamphetamine Sulfate,WA,2,F,1375
+2015,Dextroamphetamine Sulfate,WA,2,T,0
+2015,Lisdexamfetamine Dimesylate,WA,2,F,7250
+2015,Methamphetamine Hydrochloride,WA,2,F,13
+2015,Amphetamine Salt Combination,WA,3,F,10293
+2015,Amphetamine Salt Combination,WA,3,T,0
+2015,Dextroamphetamine Sulfate,WA,3,F,1185
+2015,Dextroamphetamine Sulfate,WA,3,T,0
+2015,Lisdexamfetamine Dimesylate,WA,3,F,6222
+2015,Methamphetamine Hydrochloride,WA,3,T,0
+2015,Amphetamine Salt Combination,WA,4,F,10957
+2015,Amphetamine Salt Combination,WA,4,T,0
+2015,Dextroamphetamine Sulfate,WA,4,F,1494
+2015,Dextroamphetamine Sulfate,WA,4,T,0
+2015,Lisdexamfetamine Dimesylate,WA,4,F,7439
+2015,Methamphetamine Hydrochloride,WA,4,T,0
+2015,Amphetamine Salt Combination,WV,1,F,5541
+2015,Amphetamine Salt Combination,WV,1,T,0
+2015,Dextroamphetamine Sulfate,WV,1,F,334
+2015,Dextroamphetamine Sulfate,WV,1,T,0
+2015,Lisdexamfetamine Dimesylate,WV,1,F,16990
+2015,Lisdexamfetamine Dimesylate,WV,1,T,0
+2015,Methamphetamine Hydrochloride,WV,1,T,0
+2015,Amphetamine Salt Combination,WV,2,F,5921
+2015,Amphetamine Salt Combination,WV,2,T,0
+2015,Dextroamphetamine Sulfate,WV,2,F,375
+2015,Dextroamphetamine Sulfate,WV,2,T,0
+2015,Lisdexamfetamine Dimesylate,WV,2,F,17778
+2015,Lisdexamfetamine Dimesylate,WV,2,T,0
+2015,Methamphetamine Hydrochloride,WV,2,T,0
+2015,Amphetamine Salt Combination,WV,3,F,5330
+2015,Amphetamine Salt Combination,WV,3,T,0
+2015,Dextroamphetamine Sulfate,WV,3,F,334
+2015,Dextroamphetamine Sulfate,WV,3,T,0
+2015,Lisdexamfetamine Dimesylate,WV,3,F,15220
+2015,Lisdexamfetamine Dimesylate,WV,3,T,0
+2015,Amphetamine Salt Combination,WV,4,F,5914
+2015,Amphetamine Salt Combination,WV,4,T,0
+2015,Dextroamphetamine Sulfate,WV,4,F,447
+2015,Dextroamphetamine Sulfate,WV,4,T,0
+2015,Lisdexamfetamine Dimesylate,WV,4,F,17709
+2015,Amphetamine Salt Combination,WY,1,F,475
+2015,Amphetamine Salt Combination,WY,1,T,0
+2015,Dextroamphetamine Sulfate,WY,1,T,0
+2015,Lisdexamfetamine Dimesylate,WY,1,F,1333
+2015,Lisdexamfetamine Dimesylate,WY,1,T,0
+2015,Methamphetamine Hydrochloride,WY,1,T,0
+2015,Amphetamine Salt Combination,WY,2,F,466
+2015,Amphetamine Salt Combination,WY,2,T,0
+2015,Dextroamphetamine Sulfate,WY,2,F,12
+2015,Dextroamphetamine Sulfate,WY,2,T,0
+2015,Lisdexamfetamine Dimesylate,WY,2,F,1290
+2015,Amphetamine Salt Combination,WY,3,F,450
+2015,Amphetamine Salt Combination,WY,3,T,0
+2015,Dextroamphetamine Sulfate,WY,3,T,0
+2015,Lisdexamfetamine Dimesylate,WY,3,F,1237
+2015,Amphetamine Salt Combination,WY,4,F,444
+2015,Amphetamine Salt Combination,WY,4,T,0
+2015,Dextroamphetamine Sulfate,WY,4,T,0
+2015,Lisdexamfetamine Dimesylate,WY,4,F,1268
+2015,Methamphetamine Hydrochloride,WY,4,T,0
+2016,Amphetamine Salt Combination,AK,1,F,603
+2016,Amphetamine Salt Combination,AK,1,T,0
+2016,Dextroamphetamine Sulfate,AK,1,F,86
+2016,Dextroamphetamine Sulfate,AK,1,T,0
+2016,Lisdexamfetamine Dimesylate,AK,1,F,929
+2016,Methamphetamine Hydrochloride,AK,1,T,0
+2016,Amphetamine Salt Combination,AK,2,F,576
+2016,Amphetamine Salt Combination,AK,2,T,0
+2016,Dextroamphetamine Sulfate,AK,2,F,29
+2016,Dextroamphetamine Sulfate,AK,2,T,0
+2016,Lisdexamfetamine Dimesylate,AK,2,F,855
+2016,Methamphetamine Hydrochloride,AK,2,T,0
+2016,Amphetamine Salt Combination,AK,3,F,863
+2016,Amphetamine Salt Combination,AK,3,T,0
+2016,Dextroamphetamine Sulfate,AK,3,F,89
+2016,Dextroamphetamine Sulfate,AK,3,T,0
+2016,Lisdexamfetamine Dimesylate,AK,3,F,1059
+2016,Methamphetamine Hydrochloride,AK,3,T,0
+2016,Amphetamine,AK,4,T,0
+2016,Amphetamine Salt Combination,AK,4,F,951
+2016,Amphetamine Salt Combination,AK,4,T,0
+2016,Dextroamphetamine Sulfate,AK,4,F,49
+2016,Dextroamphetamine Sulfate,AK,4,T,0
+2016,Lisdexamfetamine Dimesylate,AK,4,F,969
+2016,Methamphetamine Hydrochloride,AK,4,T,0
+2016,Amphetamine Salt Combination,AZ,1,F,17307
+2016,Amphetamine Salt Combination,AZ,1,T,0
+2016,Dextroamphetamine Sulfate,AZ,1,F,1238
+2016,Dextroamphetamine Sulfate,AZ,1,T,0
+2016,Lisdexamfetamine Dimesylate,AZ,1,F,10227
+2016,Lisdexamfetamine Dimesylate,AZ,1,T,0
+2016,Methamphetamine Hydrochloride,AZ,1,T,0
+2016,Amphetamine Salt Combination,AZ,2,F,13058
+2016,Amphetamine Salt Combination,AZ,2,T,0
+2016,Dextroamphetamine Sulfate,AZ,2,F,849
+2016,Dextroamphetamine Sulfate,AZ,2,T,0
+2016,Lisdexamfetamine Dimesylate,AZ,2,F,8065
+2016,Lisdexamfetamine Dimesylate,AZ,2,T,0
+2016,Methamphetamine Hydrochloride,AZ,2,T,0
+2016,Amphetamine,AZ,3,T,0
+2016,Amphetamine Salt Combination,AZ,3,F,13276
+2016,Amphetamine Salt Combination,AZ,3,T,0
+2016,Dextroamphetamine Sulfate,AZ,3,F,811
+2016,Dextroamphetamine Sulfate,AZ,3,T,0
+2016,Lisdexamfetamine Dimesylate,AZ,3,F,8382
+2016,Lisdexamfetamine Dimesylate,AZ,3,T,0
+2016,Methamphetamine Hydrochloride,AZ,3,T,0
+2016,Amphetamine,AZ,4,T,0
+2016,Amphetamine Salt Combination,AZ,4,F,17801
+2016,Amphetamine Salt Combination,AZ,4,T,0
+2016,Dextroamphetamine Sulfate,AZ,4,F,868
+2016,Dextroamphetamine Sulfate,AZ,4,T,0
+2016,Lisdexamfetamine Dimesylate,AZ,4,F,9176
+2016,Lisdexamfetamine Dimesylate,AZ,4,T,0
+2016,Methamphetamine Hydrochloride,AZ,4,T,0
 2016,Amphetamine Salt Combination,CO,1,F,16421
 2016,Amphetamine Salt Combination,CO,1,T,0
 2016,Dextroamphetamine Sulfate,CO,1,F,331
@@ -145,6 +786,63 @@ year,gennme,state,quarter,suppression,totalRX
 2016,Lisdexamfetamine Dimesylate,CO,4,F,9467
 2016,Lisdexamfetamine Dimesylate,CO,4,T,0
 2016,Methamphetamine Hydrochloride,CO,4,T,0
+2016,Amphetamine Salt Combination,CT,1,F,16161
+2016,Amphetamine Salt Combination,CT,1,T,0
+2016,Dextroamphetamine Sulfate,CT,1,F,454
+2016,Dextroamphetamine Sulfate,CT,1,T,0
+2016,Lisdexamfetamine Dimesylate,CT,1,F,12502
+2016,Methamphetamine Hydrochloride,CT,1,T,0
+2016,Amphetamine,CT,2,T,0
+2016,Amphetamine Salt Combination,CT,2,F,14068
+2016,Amphetamine Salt Combination,CT,2,T,0
+2016,Dextroamphetamine Sulfate,CT,2,F,404
+2016,Dextroamphetamine Sulfate,CT,2,T,0
+2016,Lisdexamfetamine Dimesylate,CT,2,F,13055
+2016,Methamphetamine Hydrochloride,CT,2,T,0
+2016,Amphetamine,CT,3,T,0
+2016,Amphetamine Salt Combination,CT,3,F,13842
+2016,Amphetamine Salt Combination,CT,3,T,0
+2016,Dextroamphetamine Sulfate,CT,3,F,462
+2016,Dextroamphetamine Sulfate,CT,3,T,0
+2016,Lisdexamfetamine Dimesylate,CT,3,F,12835
+2016,Methamphetamine Hydrochloride,CT,3,T,0
+2016,Amphetamine,CT,4,F,37
+2016,Amphetamine,CT,4,T,0
+2016,Amphetamine Salt Combination,CT,4,F,14234
+2016,Amphetamine Salt Combination,CT,4,T,0
+2016,Dextroamphetamine Sulfate,CT,4,F,451
+2016,Dextroamphetamine Sulfate,CT,4,T,0
+2016,Lisdexamfetamine Dimesylate,CT,4,F,13222
+2016,Methamphetamine Hydrochloride,CT,4,T,0
+2016,Amphetamine Salt Combination,DE,1,F,6002
+2016,Amphetamine Salt Combination,DE,1,T,0
+2016,Dextroamphetamine Sulfate,DE,1,F,34
+2016,Dextroamphetamine Sulfate,DE,1,T,0
+2016,Lisdexamfetamine Dimesylate,DE,1,F,8205
+2016,Lisdexamfetamine Dimesylate,DE,1,T,0
+2016,Methamphetamine Hydrochloride,DE,1,T,0
+2016,Amphetamine Salt Combination,DE,2,F,5657
+2016,Amphetamine Salt Combination,DE,2,T,0
+2016,Dextroamphetamine Sulfate,DE,2,F,16
+2016,Dextroamphetamine Sulfate,DE,2,T,0
+2016,Lisdexamfetamine Dimesylate,DE,2,F,7999
+2016,Lisdexamfetamine Dimesylate,DE,2,T,0
+2016,Methamphetamine Hydrochloride,DE,2,T,0
+2016,Amphetamine Salt Combination,DE,3,F,5739
+2016,Amphetamine Salt Combination,DE,3,T,0
+2016,Dextroamphetamine Sulfate,DE,3,F,22
+2016,Dextroamphetamine Sulfate,DE,3,T,0
+2016,Lisdexamfetamine Dimesylate,DE,3,F,7845
+2016,Lisdexamfetamine Dimesylate,DE,3,T,0
+2016,Methamphetamine Hydrochloride,DE,3,T,0
+2016,Amphetamine,DE,4,T,0
+2016,Amphetamine Salt Combination,DE,4,F,5504
+2016,Amphetamine Salt Combination,DE,4,T,0
+2016,Dextroamphetamine Sulfate,DE,4,F,22
+2016,Dextroamphetamine Sulfate,DE,4,T,0
+2016,Lisdexamfetamine Dimesylate,DE,4,F,7777
+2016,Lisdexamfetamine Dimesylate,DE,4,T,0
+2016,Methamphetamine Hydrochloride,DE,4,T,0
 2016,Amphetamine Salt Combination,FL,1,F,54330
 2016,Amphetamine Salt Combination,FL,1,T,0
 2016,Dextroamphetamine Sulfate,FL,1,F,747
@@ -169,6 +867,193 @@ year,gennme,state,quarter,suppression,totalRX
 2016,Dextroamphetamine Sulfate,FL,4,F,705
 2016,Dextroamphetamine Sulfate,FL,4,T,0
 2016,Lisdexamfetamine Dimesylate,FL,4,F,68201
+2016,Amphetamine Salt Combination,HI,1,F,1297
+2016,Amphetamine Salt Combination,HI,1,T,0
+2016,Dextroamphetamine Sulfate,HI,1,F,93
+2016,Dextroamphetamine Sulfate,HI,1,T,0
+2016,Lisdexamfetamine Dimesylate,HI,1,F,74
+2016,Lisdexamfetamine Dimesylate,HI,1,T,0
+2016,Amphetamine Salt Combination,HI,2,F,1478
+2016,Amphetamine Salt Combination,HI,2,T,0
+2016,Dextroamphetamine Sulfate,HI,2,F,81
+2016,Dextroamphetamine Sulfate,HI,2,T,0
+2016,Lisdexamfetamine Dimesylate,HI,2,F,37
+2016,Lisdexamfetamine Dimesylate,HI,2,T,0
+2016,Amphetamine Salt Combination,HI,3,F,1435
+2016,Amphetamine Salt Combination,HI,3,T,0
+2016,Dextroamphetamine Sulfate,HI,3,F,55
+2016,Dextroamphetamine Sulfate,HI,3,T,0
+2016,Lisdexamfetamine Dimesylate,HI,3,F,69
+2016,Lisdexamfetamine Dimesylate,HI,3,T,0
+2016,Amphetamine Salt Combination,HI,4,F,2217
+2016,Amphetamine Salt Combination,HI,4,T,0
+2016,Dextroamphetamine Sulfate,HI,4,F,77
+2016,Dextroamphetamine Sulfate,HI,4,T,0
+2016,Lisdexamfetamine Dimesylate,HI,4,F,165
+2016,Lisdexamfetamine Dimesylate,HI,4,T,0
+2016,Methamphetamine Hydrochloride,HI,4,T,0
+2016,Amphetamine Salt Combination,IL,1,F,24004
+2016,Amphetamine Salt Combination,IL,1,T,0
+2016,Dextroamphetamine Sulfate,IL,1,F,49
+2016,Dextroamphetamine Sulfate,IL,1,T,0
+2016,Lisdexamfetamine Dimesylate,IL,1,F,2536
+2016,Lisdexamfetamine Dimesylate,IL,1,T,0
+2016,Amphetamine Salt Combination,IL,2,F,31760
+2016,Amphetamine Salt Combination,IL,2,T,0
+2016,Dextroamphetamine Sulfate,IL,2,F,213
+2016,Dextroamphetamine Sulfate,IL,2,T,0
+2016,Lisdexamfetamine Dimesylate,IL,2,F,3271
+2016,Lisdexamfetamine Dimesylate,IL,2,T,0
+2016,Methamphetamine Hydrochloride,IL,2,T,0
+2016,Amphetamine Salt Combination,IL,3,F,26835
+2016,Amphetamine Salt Combination,IL,3,T,0
+2016,Dextroamphetamine Sulfate,IL,3,F,191
+2016,Dextroamphetamine Sulfate,IL,3,T,0
+2016,Lisdexamfetamine Dimesylate,IL,3,F,3161
+2016,Amphetamine Salt Combination,IL,4,F,39567
+2016,Amphetamine Salt Combination,IL,4,T,0
+2016,Dextroamphetamine Sulfate,IL,4,F,410
+2016,Dextroamphetamine Sulfate,IL,4,T,0
+2016,Lisdexamfetamine Dimesylate,IL,4,F,4338
+2016,Methamphetamine Hydrochloride,IL,4,T,0
+2016,Amphetamine Salt Combination,IN,1,F,34410
+2016,Amphetamine Salt Combination,IN,1,T,0
+2016,Dextroamphetamine Sulfate,IN,1,F,445
+2016,Dextroamphetamine Sulfate,IN,1,T,0
+2016,Lisdexamfetamine Dimesylate,IN,1,F,40030
+2016,Methamphetamine Hydrochloride,IN,1,T,0
+2016,Amphetamine,IN,2,T,0
+2016,Amphetamine Salt Combination,IN,2,F,30873
+2016,Amphetamine Salt Combination,IN,2,T,0
+2016,Dextroamphetamine Sulfate,IN,2,F,567
+2016,Dextroamphetamine Sulfate,IN,2,T,0
+2016,Lisdexamfetamine Dimesylate,IN,2,F,43140
+2016,Methamphetamine Hydrochloride,IN,2,T,0
+2016,Amphetamine,IN,3,F,62
+2016,Amphetamine,IN,3,T,0
+2016,Amphetamine Salt Combination,IN,3,F,26579
+2016,Amphetamine Salt Combination,IN,3,T,0
+2016,Dextroamphetamine Sulfate,IN,3,F,474
+2016,Dextroamphetamine Sulfate,IN,3,T,0
+2016,Lisdexamfetamine Dimesylate,IN,3,F,38498
+2016,Methamphetamine Hydrochloride,IN,3,T,0
+2016,Amphetamine,IN,4,F,356
+2016,Amphetamine,IN,4,T,0
+2016,Amphetamine Salt Combination,IN,4,F,31184
+2016,Amphetamine Salt Combination,IN,4,T,0
+2016,Dextroamphetamine Sulfate,IN,4,F,457
+2016,Dextroamphetamine Sulfate,IN,4,T,0
+2016,Lisdexamfetamine Dimesylate,IN,4,F,40845
+2016,Methamphetamine Hydrochloride,IN,4,T,0
+2016,Amphetamine Salt Combination,KY,1,F,14207
+2016,Amphetamine Salt Combination,KY,1,T,0
+2016,Dextroamphetamine Sulfate,KY,1,F,585
+2016,Dextroamphetamine Sulfate,KY,1,T,0
+2016,Lisdexamfetamine Dimesylate,KY,1,F,12133
+2016,Lisdexamfetamine Dimesylate,KY,1,T,0
+2016,Methamphetamine Hydrochloride,KY,1,T,0
+2016,Amphetamine,KY,2,T,0
+2016,Amphetamine Salt Combination,KY,2,F,11478
+2016,Amphetamine Salt Combination,KY,2,T,0
+2016,Dextroamphetamine Sulfate,KY,2,F,571
+2016,Dextroamphetamine Sulfate,KY,2,T,0
+2016,Lisdexamfetamine Dimesylate,KY,2,F,8791
+2016,Lisdexamfetamine Dimesylate,KY,2,T,0
+2016,Methamphetamine Hydrochloride,KY,2,T,0
+2016,Amphetamine,KY,3,T,0
+2016,Amphetamine Salt Combination,KY,3,F,12210
+2016,Amphetamine Salt Combination,KY,3,T,0
+2016,Dextroamphetamine Sulfate,KY,3,F,653
+2016,Dextroamphetamine Sulfate,KY,3,T,0
+2016,Lisdexamfetamine Dimesylate,KY,3,F,10782
+2016,Amphetamine,KY,4,T,0
+2016,Amphetamine Salt Combination,KY,4,F,13943
+2016,Amphetamine Salt Combination,KY,4,T,0
+2016,Dextroamphetamine Sulfate,KY,4,F,682
+2016,Dextroamphetamine Sulfate,KY,4,T,0
+2016,Lisdexamfetamine Dimesylate,KY,4,F,10150
+2016,Amphetamine Salt Combination,LA,1,F,28918
+2016,Amphetamine Salt Combination,LA,1,T,0
+2016,Dextroamphetamine Sulfate,LA,1,F,877
+2016,Dextroamphetamine Sulfate,LA,1,T,0
+2016,Lisdexamfetamine Dimesylate,LA,1,F,42160
+2016,Methamphetamine Hydrochloride,LA,1,T,0
+2016,Amphetamine,LA,2,T,0
+2016,Amphetamine Salt Combination,LA,2,F,30638
+2016,Amphetamine Salt Combination,LA,2,T,0
+2016,Dextroamphetamine Sulfate,LA,2,F,851
+2016,Dextroamphetamine Sulfate,LA,2,T,0
+2016,Lisdexamfetamine Dimesylate,LA,2,F,39647
+2016,Methamphetamine Hydrochloride,LA,2,T,0
+2016,Amphetamine,LA,3,T,0
+2016,Amphetamine Salt Combination,LA,3,F,34175
+2016,Amphetamine Salt Combination,LA,3,T,0
+2016,Dextroamphetamine Sulfate,LA,3,F,833
+2016,Dextroamphetamine Sulfate,LA,3,T,0
+2016,Lisdexamfetamine Dimesylate,LA,3,F,38437
+2016,Methamphetamine Hydrochloride,LA,3,T,0
+2016,Amphetamine,LA,4,F,47
+2016,Amphetamine,LA,4,T,0
+2016,Amphetamine Salt Combination,LA,4,F,46001
+2016,Amphetamine Salt Combination,LA,4,T,0
+2016,Dextroamphetamine Sulfate,LA,4,F,929
+2016,Dextroamphetamine Sulfate,LA,4,T,0
+2016,Lisdexamfetamine Dimesylate,LA,4,F,42329
+2016,Methamphetamine Hydrochloride,LA,4,T,0
+2016,Amphetamine Salt Combination,MI,1,F,59435
+2016,Amphetamine Salt Combination,MI,1,T,0
+2016,Dextroamphetamine Sulfate,MI,1,F,549
+2016,Dextroamphetamine Sulfate,MI,1,T,0
+2016,Lisdexamfetamine Dimesylate,MI,1,F,30780
+2016,Lisdexamfetamine Dimesylate,MI,1,T,0
+2016,Amphetamine Salt Combination,MI,2,F,59405
+2016,Amphetamine Salt Combination,MI,2,T,0
+2016,Dextroamphetamine Sulfate,MI,2,F,496
+2016,Dextroamphetamine Sulfate,MI,2,T,0
+2016,Lisdexamfetamine Dimesylate,MI,2,F,30856
+2016,Lisdexamfetamine Dimesylate,MI,2,T,0
+2016,Amphetamine,MI,3,T,0
+2016,Amphetamine Salt Combination,MI,3,F,55699
+2016,Amphetamine Salt Combination,MI,3,T,0
+2016,Dextroamphetamine Sulfate,MI,3,F,490
+2016,Dextroamphetamine Sulfate,MI,3,T,0
+2016,Lisdexamfetamine Dimesylate,MI,3,F,28134
+2016,Lisdexamfetamine Dimesylate,MI,3,T,0
+2016,Amphetamine,MI,4,T,0
+2016,Amphetamine Salt Combination,MI,4,F,62547
+2016,Amphetamine Salt Combination,MI,4,T,0
+2016,Dextroamphetamine Sulfate,MI,4,F,516
+2016,Dextroamphetamine Sulfate,MI,4,T,0
+2016,Lisdexamfetamine Dimesylate,MI,4,F,31153
+2016,Lisdexamfetamine Dimesylate,MI,4,T,0
+2016,Amphetamine Salt Combination,MO,1,F,20046
+2016,Amphetamine Salt Combination,MO,1,T,0
+2016,Dextroamphetamine Sulfate,MO,1,F,673
+2016,Dextroamphetamine Sulfate,MO,1,T,0
+2016,Lisdexamfetamine Dimesylate,MO,1,F,19743
+2016,Methamphetamine Hydrochloride,MO,1,T,0
+2016,Amphetamine,MO,2,T,0
+2016,Amphetamine Salt Combination,MO,2,F,18409
+2016,Amphetamine Salt Combination,MO,2,T,0
+2016,Dextroamphetamine Sulfate,MO,2,F,589
+2016,Dextroamphetamine Sulfate,MO,2,T,0
+2016,Lisdexamfetamine Dimesylate,MO,2,F,18074
+2016,Methamphetamine Hydrochloride,MO,2,T,0
+2016,Amphetamine,MO,3,F,45
+2016,Amphetamine,MO,3,T,0
+2016,Amphetamine Salt Combination,MO,3,F,17254
+2016,Amphetamine Salt Combination,MO,3,T,0
+2016,Dextroamphetamine Sulfate,MO,3,F,625
+2016,Dextroamphetamine Sulfate,MO,3,T,0
+2016,Lisdexamfetamine Dimesylate,MO,3,F,18747
+2016,Methamphetamine Hydrochloride,MO,3,T,0
+2016,Amphetamine,MO,4,F,319
+2016,Amphetamine Salt Combination,MO,4,F,21125
+2016,Amphetamine Salt Combination,MO,4,T,0
+2016,Dextroamphetamine Sulfate,MO,4,F,692
+2016,Dextroamphetamine Sulfate,MO,4,T,0
+2016,Lisdexamfetamine Dimesylate,MO,4,F,19655
+2016,Methamphetamine Hydrochloride,MO,4,T,0
 2016,Amphetamine Salt Combination,MS,1,F,13634
 2016,Amphetamine Salt Combination,MS,1,T,0
 2016,Dextroamphetamine Sulfate,MS,1,F,847
@@ -195,6 +1080,215 @@ year,gennme,state,quarter,suppression,totalRX
 2016,Dextroamphetamine Sulfate,MS,4,T,0
 2016,Lisdexamfetamine Dimesylate,MS,4,F,27787
 2016,Methamphetamine Hydrochloride,MS,4,T,0
+2016,Amphetamine Salt Combination,NC,1,F,48545
+2016,Amphetamine Salt Combination,NC,1,T,0
+2016,Dextroamphetamine Sulfate,NC,1,F,1909
+2016,Dextroamphetamine Sulfate,NC,1,T,0
+2016,Lisdexamfetamine Dimesylate,NC,1,F,49464
+2016,Amphetamine,NC,2,T,0
+2016,Amphetamine Salt Combination,NC,2,F,41869
+2016,Amphetamine Salt Combination,NC,2,T,0
+2016,Dextroamphetamine Sulfate,NC,2,F,1632
+2016,Dextroamphetamine Sulfate,NC,2,T,0
+2016,Lisdexamfetamine Dimesylate,NC,2,F,44718
+2016,Methamphetamine Hydrochloride,NC,2,T,0
+2016,Amphetamine,NC,3,F,185
+2016,Amphetamine,NC,3,T,0
+2016,Amphetamine Salt Combination,NC,3,F,42396
+2016,Amphetamine Salt Combination,NC,3,T,0
+2016,Dextroamphetamine Sulfate,NC,3,F,1629
+2016,Dextroamphetamine Sulfate,NC,3,T,0
+2016,Lisdexamfetamine Dimesylate,NC,3,F,46599
+2016,Amphetamine,NC,4,F,459
+2016,Amphetamine Salt Combination,NC,4,F,45218
+2016,Amphetamine Salt Combination,NC,4,T,0
+2016,Dextroamphetamine Sulfate,NC,4,F,1540
+2016,Dextroamphetamine Sulfate,NC,4,T,0
+2016,Lisdexamfetamine Dimesylate,NC,4,F,46154
+2016,Amphetamine Salt Combination,NH,1,F,2661
+2016,Amphetamine Salt Combination,NH,1,T,0
+2016,Dextroamphetamine Sulfate,NH,1,F,21
+2016,Dextroamphetamine Sulfate,NH,1,T,0
+2016,Lisdexamfetamine Dimesylate,NH,1,F,3349
+2016,Amphetamine Salt Combination,NH,2,F,2136
+2016,Amphetamine Salt Combination,NH,2,T,0
+2016,Dextroamphetamine Sulfate,NH,2,F,46
+2016,Dextroamphetamine Sulfate,NH,2,T,0
+2016,Lisdexamfetamine Dimesylate,NH,2,F,2444
+2016,Lisdexamfetamine Dimesylate,NH,2,T,0
+2016,Amphetamine,NH,3,T,0
+2016,Amphetamine Salt Combination,NH,3,F,1995
+2016,Amphetamine Salt Combination,NH,3,T,0
+2016,Dextroamphetamine Sulfate,NH,3,F,38
+2016,Dextroamphetamine Sulfate,NH,3,T,0
+2016,Lisdexamfetamine Dimesylate,NH,3,F,2194
+2016,Lisdexamfetamine Dimesylate,NH,3,T,0
+2016,Amphetamine,NH,4,T,0
+2016,Amphetamine Salt Combination,NH,4,F,2175
+2016,Amphetamine Salt Combination,NH,4,T,0
+2016,Dextroamphetamine Sulfate,NH,4,F,22
+2016,Dextroamphetamine Sulfate,NH,4,T,0
+2016,Lisdexamfetamine Dimesylate,NH,4,F,2670
+2016,Lisdexamfetamine Dimesylate,NH,4,T,0
+2016,Amphetamine Salt Combination,NJ,1,F,13849
+2016,Amphetamine Salt Combination,NJ,1,T,0
+2016,Dextroamphetamine Sulfate,NJ,1,F,349
+2016,Dextroamphetamine Sulfate,NJ,1,T,0
+2016,Lisdexamfetamine Dimesylate,NJ,1,F,7687
+2016,Lisdexamfetamine Dimesylate,NJ,1,T,0
+2016,Methamphetamine Hydrochloride,NJ,1,T,0
+2016,Amphetamine Salt Combination,NJ,2,F,18326
+2016,Amphetamine Salt Combination,NJ,2,T,0
+2016,Dextroamphetamine Sulfate,NJ,2,F,429
+2016,Dextroamphetamine Sulfate,NJ,2,T,0
+2016,Lisdexamfetamine Dimesylate,NJ,2,F,10962
+2016,Lisdexamfetamine Dimesylate,NJ,2,T,0
+2016,Methamphetamine Hydrochloride,NJ,2,F,22
+2016,Methamphetamine Hydrochloride,NJ,2,T,0
+2016,Amphetamine,NJ,3,T,0
+2016,Amphetamine Salt Combination,NJ,3,F,8885
+2016,Amphetamine Salt Combination,NJ,3,T,0
+2016,Dextroamphetamine Sulfate,NJ,3,F,212
+2016,Dextroamphetamine Sulfate,NJ,3,T,0
+2016,Lisdexamfetamine Dimesylate,NJ,3,F,5705
+2016,Lisdexamfetamine Dimesylate,NJ,3,T,0
+2016,Methamphetamine Hydrochloride,NJ,3,T,0
+2016,Amphetamine,NJ,4,T,0
+2016,Amphetamine Salt Combination,NJ,4,F,22293
+2016,Amphetamine Salt Combination,NJ,4,T,0
+2016,Dextroamphetamine Sulfate,NJ,4,F,562
+2016,Dextroamphetamine Sulfate,NJ,4,T,0
+2016,Lisdexamfetamine Dimesylate,NJ,4,F,12309
+2016,Lisdexamfetamine Dimesylate,NJ,4,T,0
+2016,Methamphetamine Hydrochloride,NJ,4,F,24
+2016,Methamphetamine Hydrochloride,NJ,4,T,0
+2016,Amphetamine Salt Combination,NV,1,F,5418
+2016,Amphetamine Salt Combination,NV,1,T,0
+2016,Dextroamphetamine Sulfate,NV,1,F,92
+2016,Dextroamphetamine Sulfate,NV,1,T,0
+2016,Lisdexamfetamine Dimesylate,NV,1,F,2729
+2016,Methamphetamine Hydrochloride,NV,1,T,0
+2016,Amphetamine Salt Combination,NV,2,F,6455
+2016,Amphetamine Salt Combination,NV,2,T,0
+2016,Dextroamphetamine Sulfate,NV,2,F,79
+2016,Dextroamphetamine Sulfate,NV,2,T,0
+2016,Lisdexamfetamine Dimesylate,NV,2,F,3052
+2016,Methamphetamine Hydrochloride,NV,2,T,0
+2016,Amphetamine Salt Combination,NV,3,F,6071
+2016,Amphetamine Salt Combination,NV,3,T,0
+2016,Dextroamphetamine Sulfate,NV,3,F,48
+2016,Dextroamphetamine Sulfate,NV,3,T,0
+2016,Lisdexamfetamine Dimesylate,NV,3,F,2970
+2016,Methamphetamine Hydrochloride,NV,3,T,0
+2016,Amphetamine Salt Combination,NV,4,F,6274
+2016,Amphetamine Salt Combination,NV,4,T,0
+2016,Dextroamphetamine Sulfate,NV,4,T,0
+2016,Lisdexamfetamine Dimesylate,NV,4,F,3227
+2016,Methamphetamine Hydrochloride,NV,4,T,0
+2016,Amphetamine Salt Combination,NY,1,F,40666
+2016,Amphetamine Salt Combination,NY,1,T,0
+2016,Dextroamphetamine Sulfate,NY,1,F,2686
+2016,Dextroamphetamine Sulfate,NY,1,T,0
+2016,Lisdexamfetamine Dimesylate,NY,1,F,22482
+2016,Methamphetamine Hydrochloride,NY,1,F,21
+2016,Methamphetamine Hydrochloride,NY,1,T,0
+2016,Amphetamine,NY,2,T,0
+2016,Amphetamine Salt Combination,NY,2,F,33691
+2016,Amphetamine Salt Combination,NY,2,T,0
+2016,Dextroamphetamine Sulfate,NY,2,F,2559
+2016,Dextroamphetamine Sulfate,NY,2,T,0
+2016,Lisdexamfetamine Dimesylate,NY,2,F,22224
+2016,Methamphetamine Hydrochloride,NY,2,F,25
+2016,Methamphetamine Hydrochloride,NY,2,T,0
+2016,Amphetamine,NY,3,T,0
+2016,Amphetamine Salt Combination,NY,3,F,32159
+2016,Amphetamine Salt Combination,NY,3,T,0
+2016,Dextroamphetamine Sulfate,NY,3,F,2363
+2016,Dextroamphetamine Sulfate,NY,3,T,0
+2016,Lisdexamfetamine Dimesylate,NY,3,F,20373
+2016,Methamphetamine Hydrochloride,NY,3,F,15
+2016,Methamphetamine Hydrochloride,NY,3,T,0
+2016,Amphetamine,NY,4,T,0
+2016,Amphetamine Salt Combination,NY,4,F,36331
+2016,Amphetamine Salt Combination,NY,4,T,0
+2016,Dextroamphetamine Sulfate,NY,4,F,2351
+2016,Dextroamphetamine Sulfate,NY,4,T,0
+2016,Lisdexamfetamine Dimesylate,NY,4,F,21510
+2016,Methamphetamine Hydrochloride,NY,4,F,22
+2016,Amphetamine Salt Combination,OH,1,F,58414
+2016,Amphetamine Salt Combination,OH,1,T,0
+2016,Dextroamphetamine Sulfate,OH,1,F,1387
+2016,Dextroamphetamine Sulfate,OH,1,T,0
+2016,Lisdexamfetamine Dimesylate,OH,1,F,52304
+2016,Methamphetamine Hydrochloride,OH,1,T,0
+2016,Amphetamine Salt Combination,OH,2,F,47242
+2016,Amphetamine Salt Combination,OH,2,T,0
+2016,Dextroamphetamine Sulfate,OH,2,F,1849
+2016,Dextroamphetamine Sulfate,OH,2,T,0
+2016,Lisdexamfetamine Dimesylate,OH,2,F,43886
+2016,Methamphetamine Hydrochloride,OH,2,T,0
+2016,Amphetamine,OH,3,F,15
+2016,Amphetamine,OH,3,T,0
+2016,Amphetamine Salt Combination,OH,3,F,46226
+2016,Amphetamine Salt Combination,OH,3,T,0
+2016,Dextroamphetamine Sulfate,OH,3,F,1622
+2016,Dextroamphetamine Sulfate,OH,3,T,0
+2016,Lisdexamfetamine Dimesylate,OH,3,F,43259
+2016,Methamphetamine Hydrochloride,OH,3,T,0
+2016,Amphetamine,OH,4,F,103
+2016,Amphetamine,OH,4,T,0
+2016,Amphetamine Salt Combination,OH,4,F,52479
+2016,Amphetamine Salt Combination,OH,4,T,0
+2016,Dextroamphetamine Sulfate,OH,4,F,1461
+2016,Dextroamphetamine Sulfate,OH,4,T,0
+2016,Lisdexamfetamine Dimesylate,OH,4,F,46051
+2016,Methamphetamine Hydrochloride,OH,4,T,0
+2016,Amphetamine Salt Combination,OK,1,F,9099
+2016,Amphetamine Salt Combination,OK,1,T,0
+2016,Dextroamphetamine Sulfate,OK,1,T,0
+2016,Lisdexamfetamine Dimesylate,OK,1,F,23235
+2016,Amphetamine Salt Combination,OK,2,F,8258
+2016,Amphetamine Salt Combination,OK,2,T,0
+2016,Dextroamphetamine Sulfate,OK,2,T,0
+2016,Lisdexamfetamine Dimesylate,OK,2,F,21474
+2016,Amphetamine Salt Combination,OK,3,F,8888
+2016,Amphetamine Salt Combination,OK,3,T,0
+2016,Dextroamphetamine Sulfate,OK,3,T,0
+2016,Lisdexamfetamine Dimesylate,OK,3,F,23200
+2016,Amphetamine,OK,4,T,0
+2016,Amphetamine Salt Combination,OK,4,F,9546
+2016,Amphetamine Salt Combination,OK,4,T,0
+2016,Dextroamphetamine Sulfate,OK,4,T,0
+2016,Lisdexamfetamine Dimesylate,OK,4,F,24823
+2016,Amphetamine Salt Combination,PA,1,F,59326
+2016,Amphetamine Salt Combination,PA,1,T,0
+2016,Dextroamphetamine Sulfate,PA,1,F,2225
+2016,Dextroamphetamine Sulfate,PA,1,T,0
+2016,Lisdexamfetamine Dimesylate,PA,1,F,34632
+2016,Methamphetamine Hydrochloride,PA,1,F,19
+2016,Methamphetamine Hydrochloride,PA,1,T,0
+2016,Amphetamine,PA,2,T,0
+2016,Amphetamine Salt Combination,PA,2,F,54999
+2016,Amphetamine Salt Combination,PA,2,T,0
+2016,Dextroamphetamine Sulfate,PA,2,F,2254
+2016,Dextroamphetamine Sulfate,PA,2,T,0
+2016,Lisdexamfetamine Dimesylate,PA,2,F,34995
+2016,Methamphetamine Hydrochloride,PA,2,F,20
+2016,Amphetamine,PA,3,T,0
+2016,Amphetamine Salt Combination,PA,3,F,50007
+2016,Amphetamine Salt Combination,PA,3,T,0
+2016,Dextroamphetamine Sulfate,PA,3,F,2088
+2016,Dextroamphetamine Sulfate,PA,3,T,0
+2016,Lisdexamfetamine Dimesylate,PA,3,F,32602
+2016,Methamphetamine Hydrochloride,PA,3,F,22
+2016,Amphetamine,PA,4,F,16
+2016,Amphetamine,PA,4,T,0
+2016,Amphetamine Salt Combination,PA,4,F,57018
+2016,Amphetamine Salt Combination,PA,4,T,0
+2016,Dextroamphetamine Sulfate,PA,4,F,2248
+2016,Dextroamphetamine Sulfate,PA,4,T,0
+2016,Lisdexamfetamine Dimesylate,PA,4,F,36414
+2016,Methamphetamine Hydrochloride,PA,4,T,0
 2016,Amphetamine Salt Combination,SC,1,F,18374
 2016,Amphetamine Salt Combination,SC,1,T,0
 2016,Dextroamphetamine Sulfate,SC,1,F,406
@@ -240,6 +1334,185 @@ year,gennme,state,quarter,suppression,totalRX
 2016,Dextroamphetamine Sulfate,TN,4,F,754
 2016,Dextroamphetamine Sulfate,TN,4,T,0
 2016,Lisdexamfetamine Dimesylate,TN,4,F,34141
+2016,Amphetamine Salt Combination,UT,1,F,2499
+2016,Amphetamine Salt Combination,UT,1,T,0
+2016,Dextroamphetamine Sulfate,UT,1,F,361
+2016,Dextroamphetamine Sulfate,UT,1,T,0
+2016,Lisdexamfetamine Dimesylate,UT,1,F,3923
+2016,Methamphetamine Hydrochloride,UT,1,T,0
+2016,Amphetamine Salt Combination,UT,2,F,2525
+2016,Amphetamine Salt Combination,UT,2,T,0
+2016,Dextroamphetamine Sulfate,UT,2,F,334
+2016,Dextroamphetamine Sulfate,UT,2,T,0
+2016,Lisdexamfetamine Dimesylate,UT,2,F,3794
+2016,Methamphetamine Hydrochloride,UT,2,T,0
+2016,Amphetamine Salt Combination,UT,3,F,4512
+2016,Amphetamine Salt Combination,UT,3,T,0
+2016,Dextroamphetamine Sulfate,UT,3,F,304
+2016,Dextroamphetamine Sulfate,UT,3,T,0
+2016,Lisdexamfetamine Dimesylate,UT,3,F,3818
+2016,Methamphetamine Hydrochloride,UT,3,T,0
+2016,Amphetamine,UT,4,T,0
+2016,Amphetamine Salt Combination,UT,4,F,6055
+2016,Amphetamine Salt Combination,UT,4,T,0
+2016,Dextroamphetamine Sulfate,UT,4,F,322
+2016,Dextroamphetamine Sulfate,UT,4,T,0
+2016,Lisdexamfetamine Dimesylate,UT,4,F,4798
+2016,Methamphetamine Hydrochloride,UT,4,T,0
+2016,Amphetamine Salt Combination,VA,1,F,17208
+2016,Amphetamine Salt Combination,VA,1,T,0
+2016,Dextroamphetamine Sulfate,VA,1,F,756
+2016,Dextroamphetamine Sulfate,VA,1,T,0
+2016,Lisdexamfetamine Dimesylate,VA,1,F,19911
+2016,Methamphetamine Hydrochloride,VA,1,T,0
+2016,Amphetamine,VA,2,T,0
+2016,Amphetamine Salt Combination,VA,2,F,14196
+2016,Amphetamine Salt Combination,VA,2,T,0
+2016,Dextroamphetamine Sulfate,VA,2,F,698
+2016,Dextroamphetamine Sulfate,VA,2,T,0
+2016,Lisdexamfetamine Dimesylate,VA,2,F,19366
+2016,Methamphetamine Hydrochloride,VA,2,T,0
+2016,Amphetamine,VA,3,T,0
+2016,Amphetamine Salt Combination,VA,3,F,13701
+2016,Amphetamine Salt Combination,VA,3,T,0
+2016,Dextroamphetamine Sulfate,VA,3,F,622
+2016,Dextroamphetamine Sulfate,VA,3,T,0
+2016,Lisdexamfetamine Dimesylate,VA,3,F,18472
+2016,Methamphetamine Hydrochloride,VA,3,T,0
+2016,Amphetamine,VA,4,F,49
+2016,Amphetamine,VA,4,T,0
+2016,Amphetamine Salt Combination,VA,4,F,15188
+2016,Amphetamine Salt Combination,VA,4,T,0
+2016,Dextroamphetamine Sulfate,VA,4,F,737
+2016,Dextroamphetamine Sulfate,VA,4,T,0
+2016,Lisdexamfetamine Dimesylate,VA,4,F,19568
+2016,Methamphetamine Hydrochloride,VA,4,T,0
+2016,Amphetamine Salt Combination,WA,1,F,10208
+2016,Amphetamine Salt Combination,WA,1,T,0
+2016,Dextroamphetamine Sulfate,WA,1,F,1365
+2016,Dextroamphetamine Sulfate,WA,1,T,0
+2016,Lisdexamfetamine Dimesylate,WA,1,F,7426
+2016,Methamphetamine Hydrochloride,WA,1,T,0
+2016,Amphetamine Salt Combination,WA,2,F,11321
+2016,Amphetamine Salt Combination,WA,2,T,0
+2016,Dextroamphetamine Sulfate,WA,2,F,1504
+2016,Dextroamphetamine Sulfate,WA,2,T,0
+2016,Lisdexamfetamine Dimesylate,WA,2,F,7441
+2016,Methamphetamine Hydrochloride,WA,2,T,0
+2016,Amphetamine Salt Combination,WA,3,F,11778
+2016,Amphetamine Salt Combination,WA,3,T,0
+2016,Dextroamphetamine Sulfate,WA,3,F,1437
+2016,Dextroamphetamine Sulfate,WA,3,T,0
+2016,Lisdexamfetamine Dimesylate,WA,3,F,7637
+2016,Methamphetamine Hydrochloride,WA,3,F,19
+2016,Methamphetamine Hydrochloride,WA,3,T,0
+2016,Amphetamine,WA,4,T,0
+2016,Amphetamine Salt Combination,WA,4,F,13703
+2016,Amphetamine Salt Combination,WA,4,T,0
+2016,Dextroamphetamine Sulfate,WA,4,F,1323
+2016,Dextroamphetamine Sulfate,WA,4,T,0
+2016,Lisdexamfetamine Dimesylate,WA,4,F,8052
+2016,Methamphetamine Hydrochloride,WA,4,F,18
+2016,Amphetamine Salt Combination,WV,1,F,5436
+2016,Amphetamine Salt Combination,WV,1,T,0
+2016,Dextroamphetamine Sulfate,WV,1,F,371
+2016,Dextroamphetamine Sulfate,WV,1,T,0
+2016,Lisdexamfetamine Dimesylate,WV,1,F,16705
+2016,Amphetamine Salt Combination,WV,2,F,4997
+2016,Amphetamine Salt Combination,WV,2,T,0
+2016,Dextroamphetamine Sulfate,WV,2,F,292
+2016,Dextroamphetamine Sulfate,WV,2,T,0
+2016,Lisdexamfetamine Dimesylate,WV,2,F,17505
+2016,Amphetamine Salt Combination,WV,3,F,4426
+2016,Amphetamine Salt Combination,WV,3,T,0
+2016,Dextroamphetamine Sulfate,WV,3,F,377
+2016,Dextroamphetamine Sulfate,WV,3,T,0
+2016,Lisdexamfetamine Dimesylate,WV,3,F,15846
+2016,Amphetamine,WV,4,F,15
+2016,Amphetamine,WV,4,T,0
+2016,Amphetamine Salt Combination,WV,4,F,5252
+2016,Amphetamine Salt Combination,WV,4,T,0
+2016,Dextroamphetamine Sulfate,WV,4,F,394
+2016,Dextroamphetamine Sulfate,WV,4,T,0
+2016,Lisdexamfetamine Dimesylate,WV,4,F,16863
+2016,Amphetamine Salt Combination,WY,1,F,1263
+2016,Amphetamine Salt Combination,WY,1,T,0
+2016,Dextroamphetamine Sulfate,WY,1,T,0
+2016,Lisdexamfetamine Dimesylate,WY,1,F,1363
+2016,Amphetamine Salt Combination,WY,2,F,1218
+2016,Amphetamine Salt Combination,WY,2,T,0
+2016,Dextroamphetamine Sulfate,WY,2,F,15
+2016,Dextroamphetamine Sulfate,WY,2,T,0
+2016,Lisdexamfetamine Dimesylate,WY,2,F,1381
+2016,Amphetamine Salt Combination,WY,3,F,1179
+2016,Amphetamine Salt Combination,WY,3,T,0
+2016,Dextroamphetamine Sulfate,WY,3,T,0
+2016,Lisdexamfetamine Dimesylate,WY,3,F,1258
+2016,Amphetamine Salt Combination,WY,4,F,1245
+2016,Amphetamine Salt Combination,WY,4,T,0
+2016,Dextroamphetamine Sulfate,WY,4,F,21
+2016,Dextroamphetamine Sulfate,WY,4,T,0
+2016,Lisdexamfetamine Dimesylate,WY,4,F,1264
+2017,Amphetamine,AK,1,T,0
+2017,Amphetamine Salt Combination,AK,1,F,1481
+2017,Amphetamine Salt Combination,AK,1,T,0
+2017,Dextroamphetamine Sulfate,AK,1,F,16
+2017,Dextroamphetamine Sulfate,AK,1,T,0
+2017,Lisdexamfetamine Dimesylate,AK,1,F,1021
+2017,Methamphetamine Hydrochloride,AK,1,T,0
+2017,Amphetamine Salt Combination,AK,2,F,2081
+2017,Amphetamine Salt Combination,AK,2,T,0
+2017,Dextroamphetamine Sulfate,AK,2,F,19
+2017,Dextroamphetamine Sulfate,AK,2,T,0
+2017,Lisdexamfetamine Dimesylate,AK,2,F,1071
+2017,Lisdexamfetamine Dimesylate,AK,2,T,0
+2017,Methamphetamine Hydrochloride,AK,2,T,0
+2017,Amphetamine Salt Combination,AK,3,F,2462
+2017,Amphetamine Salt Combination,AK,3,T,0
+2017,Dextroamphetamine Sulfate,AK,3,F,16
+2017,Dextroamphetamine Sulfate,AK,3,T,0
+2017,Lisdexamfetamine Dimesylate,AK,3,F,1115
+2017,Lisdexamfetamine Dimesylate,AK,3,T,0
+2017,Methamphetamine Hydrochloride,AK,3,T,0
+2017,Amphetamine Salt Combination,AK,4,F,2463
+2017,Amphetamine Salt Combination,AK,4,T,0
+2017,Dextroamphetamine Sulfate,AK,4,F,17
+2017,Dextroamphetamine Sulfate,AK,4,T,0
+2017,Lisdexamfetamine Dimesylate,AK,4,F,1096
+2017,Lisdexamfetamine Dimesylate,AK,4,T,0
+2017,Methamphetamine Hydrochloride,AK,4,T,0
+2017,Amphetamine,AZ,1,T,0
+2017,Amphetamine Salt Combination,AZ,1,F,20719
+2017,Amphetamine Salt Combination,AZ,1,T,0
+2017,Dextroamphetamine Sulfate,AZ,1,F,859
+2017,Dextroamphetamine Sulfate,AZ,1,T,0
+2017,Lisdexamfetamine Dimesylate,AZ,1,F,10131
+2017,Lisdexamfetamine Dimesylate,AZ,1,T,0
+2017,Methamphetamine Hydrochloride,AZ,1,T,0
+2017,Amphetamine,AZ,2,T,0
+2017,Amphetamine Salt Combination,AZ,2,F,22144
+2017,Amphetamine Salt Combination,AZ,2,T,0
+2017,Dextroamphetamine Sulfate,AZ,2,F,759
+2017,Dextroamphetamine Sulfate,AZ,2,T,0
+2017,Lisdexamfetamine Dimesylate,AZ,2,F,10139
+2017,Lisdexamfetamine Dimesylate,AZ,2,T,0
+2017,Methamphetamine Hydrochloride,AZ,2,T,0
+2017,Amphetamine,AZ,3,T,0
+2017,Amphetamine Salt Combination,AZ,3,F,22627
+2017,Amphetamine Salt Combination,AZ,3,T,0
+2017,Dextroamphetamine Sulfate,AZ,3,F,697
+2017,Dextroamphetamine Sulfate,AZ,3,T,0
+2017,Lisdexamfetamine Dimesylate,AZ,3,F,10206
+2017,Lisdexamfetamine Dimesylate,AZ,3,T,0
+2017,Methamphetamine Hydrochloride,AZ,3,T,0
+2017,Amphetamine,AZ,4,T,0
+2017,Amphetamine Salt Combination,AZ,4,F,23670
+2017,Amphetamine Salt Combination,AZ,4,T,0
+2017,Dextroamphetamine Sulfate,AZ,4,F,651
+2017,Dextroamphetamine Sulfate,AZ,4,T,0
+2017,Lisdexamfetamine Dimesylate,AZ,4,F,10473
+2017,Lisdexamfetamine Dimesylate,AZ,4,T,0
+2017,Methamphetamine Hydrochloride,AZ,4,T,0
 2017,Amphetamine,CO,1,T,0
 2017,Amphetamine Salt Combination,CO,1,F,18687
 2017,Amphetamine Salt Combination,CO,1,T,0
@@ -274,6 +1547,73 @@ year,gennme,state,quarter,suppression,totalRX
 2017,Lisdexamfetamine Dimesylate,CO,4,F,9490
 2017,Lisdexamfetamine Dimesylate,CO,4,T,0
 2017,Methamphetamine Hydrochloride,CO,4,F,22
+2017,Amphetamine,CT,1,F,51
+2017,Amphetamine,CT,1,T,0
+2017,Amphetamine Salt Combination,CT,1,F,14186
+2017,Amphetamine Salt Combination,CT,1,T,0
+2017,Dextroamphetamine Sulfate,CT,1,F,375
+2017,Dextroamphetamine Sulfate,CT,1,T,0
+2017,Lisdexamfetamine Dimesylate,CT,1,F,13542
+2017,Methamphetamine Hydrochloride,CT,1,T,0
+2017,Amphetamine,CT,2,F,50
+2017,Amphetamine,CT,2,T,0
+2017,Amphetamine Salt Combination,CT,2,F,15669
+2017,Amphetamine Salt Combination,CT,2,T,0
+2017,Dextroamphetamine Sulfate,CT,2,F,447
+2017,Dextroamphetamine Sulfate,CT,2,T,0
+2017,Lisdexamfetamine Dimesylate,CT,2,F,13880
+2017,Lisdexamfetamine Dimesylate,CT,2,T,0
+2017,Methamphetamine Hydrochloride,CT,2,T,0
+2017,Amphetamine,CT,3,F,50
+2017,Amphetamine,CT,3,T,0
+2017,Amphetamine Salt Combination,CT,3,F,17116
+2017,Amphetamine Salt Combination,CT,3,T,0
+2017,Dextroamphetamine Sulfate,CT,3,F,400
+2017,Dextroamphetamine Sulfate,CT,3,T,0
+2017,Lisdexamfetamine Dimesylate,CT,3,F,12875
+2017,Lisdexamfetamine Dimesylate,CT,3,T,0
+2017,Methamphetamine Hydrochloride,CT,3,T,0
+2017,Amphetamine,CT,4,F,49
+2017,Amphetamine,CT,4,T,0
+2017,Amphetamine Salt Combination,CT,4,F,19700
+2017,Amphetamine Salt Combination,CT,4,T,0
+2017,Dextroamphetamine Sulfate,CT,4,F,414
+2017,Dextroamphetamine Sulfate,CT,4,T,0
+2017,Lisdexamfetamine Dimesylate,CT,4,F,14382
+2017,Lisdexamfetamine Dimesylate,CT,4,T,0
+2017,Methamphetamine Hydrochloride,CT,4,T,0
+2017,Amphetamine,DE,1,T,0
+2017,Amphetamine Salt Combination,DE,1,F,4641
+2017,Amphetamine Salt Combination,DE,1,T,0
+2017,Dextroamphetamine Sulfate,DE,1,F,33
+2017,Dextroamphetamine Sulfate,DE,1,T,0
+2017,Lisdexamfetamine Dimesylate,DE,1,F,6707
+2017,Lisdexamfetamine Dimesylate,DE,1,T,0
+2017,Methamphetamine Hydrochloride,DE,1,T,0
+2017,Amphetamine,DE,2,T,0
+2017,Amphetamine Salt Combination,DE,2,F,5736
+2017,Amphetamine Salt Combination,DE,2,T,0
+2017,Dextroamphetamine Sulfate,DE,2,F,43
+2017,Dextroamphetamine Sulfate,DE,2,T,0
+2017,Lisdexamfetamine Dimesylate,DE,2,F,7372
+2017,Lisdexamfetamine Dimesylate,DE,2,T,0
+2017,Methamphetamine Hydrochloride,DE,2,T,0
+2017,Amphetamine,DE,3,T,0
+2017,Amphetamine Salt Combination,DE,3,F,5364
+2017,Amphetamine Salt Combination,DE,3,T,0
+2017,Dextroamphetamine Sulfate,DE,3,F,58
+2017,Dextroamphetamine Sulfate,DE,3,T,0
+2017,Lisdexamfetamine Dimesylate,DE,3,F,6652
+2017,Lisdexamfetamine Dimesylate,DE,3,T,0
+2017,Methamphetamine Hydrochloride,DE,3,T,0
+2017,Amphetamine,DE,4,T,0
+2017,Amphetamine Salt Combination,DE,4,F,5816
+2017,Amphetamine Salt Combination,DE,4,T,0
+2017,Dextroamphetamine Sulfate,DE,4,F,48
+2017,Dextroamphetamine Sulfate,DE,4,T,0
+2017,Lisdexamfetamine Dimesylate,DE,4,F,7254
+2017,Lisdexamfetamine Dimesylate,DE,4,T,0
+2017,Methamphetamine Hydrochloride,DE,4,T,0
 2017,Amphetamine,FL,1,T,0
 2017,Amphetamine Salt Combination,FL,1,F,58471
 2017,Amphetamine Salt Combination,FL,1,T,0
@@ -307,6 +1647,219 @@ year,gennme,state,quarter,suppression,totalRX
 2017,Lisdexamfetamine Dimesylate,FL,4,F,60803
 2017,Lisdexamfetamine Dimesylate,FL,4,T,0
 2017,Methamphetamine Hydrochloride,FL,4,T,0
+2017,Amphetamine Salt Combination,HI,1,F,2577
+2017,Amphetamine Salt Combination,HI,1,T,0
+2017,Dextroamphetamine Sulfate,HI,1,F,117
+2017,Dextroamphetamine Sulfate,HI,1,T,0
+2017,Lisdexamfetamine Dimesylate,HI,1,F,122
+2017,Lisdexamfetamine Dimesylate,HI,1,T,0
+2017,Amphetamine Salt Combination,HI,2,F,2593
+2017,Amphetamine Salt Combination,HI,2,T,0
+2017,Dextroamphetamine Sulfate,HI,2,F,103
+2017,Dextroamphetamine Sulfate,HI,2,T,0
+2017,Lisdexamfetamine Dimesylate,HI,2,F,101
+2017,Lisdexamfetamine Dimesylate,HI,2,T,0
+2017,Amphetamine Salt Combination,HI,3,F,2239
+2017,Amphetamine Salt Combination,HI,3,T,0
+2017,Dextroamphetamine Sulfate,HI,3,F,75
+2017,Dextroamphetamine Sulfate,HI,3,T,0
+2017,Lisdexamfetamine Dimesylate,HI,3,F,132
+2017,Lisdexamfetamine Dimesylate,HI,3,T,0
+2017,Amphetamine Salt Combination,HI,4,F,2218
+2017,Amphetamine Salt Combination,HI,4,T,0
+2017,Dextroamphetamine Sulfate,HI,4,F,63
+2017,Dextroamphetamine Sulfate,HI,4,T,0
+2017,Lisdexamfetamine Dimesylate,HI,4,F,123
+2017,Lisdexamfetamine Dimesylate,HI,4,T,0
+2017,Amphetamine Salt Combination,IL,1,F,40929
+2017,Amphetamine Salt Combination,IL,1,T,0
+2017,Dextroamphetamine Sulfate,IL,1,F,330
+2017,Dextroamphetamine Sulfate,IL,1,T,0
+2017,Lisdexamfetamine Dimesylate,IL,1,F,3478
+2017,Amphetamine,IL,2,T,0
+2017,Amphetamine Salt Combination,IL,2,F,37063
+2017,Amphetamine Salt Combination,IL,2,T,0
+2017,Dextroamphetamine Sulfate,IL,2,F,241
+2017,Dextroamphetamine Sulfate,IL,2,T,0
+2017,Lisdexamfetamine Dimesylate,IL,2,F,2493
+2017,Lisdexamfetamine Dimesylate,IL,2,T,0
+2017,Amphetamine,IL,3,T,0
+2017,Amphetamine Salt Combination,IL,3,F,40311
+2017,Amphetamine Salt Combination,IL,3,T,0
+2017,Dextroamphetamine Sulfate,IL,3,F,249
+2017,Dextroamphetamine Sulfate,IL,3,T,0
+2017,Lisdexamfetamine Dimesylate,IL,3,F,2375
+2017,Lisdexamfetamine Dimesylate,IL,3,T,0
+2017,Methamphetamine Hydrochloride,IL,3,T,0
+2017,Amphetamine,IL,4,T,0
+2017,Amphetamine Salt Combination,IL,4,F,44516
+2017,Amphetamine Salt Combination,IL,4,T,0
+2017,Dextroamphetamine Sulfate,IL,4,F,269
+2017,Dextroamphetamine Sulfate,IL,4,T,0
+2017,Lisdexamfetamine Dimesylate,IL,4,F,3212
+2017,Lisdexamfetamine Dimesylate,IL,4,T,0
+2017,Methamphetamine Hydrochloride,IL,4,T,0
+2017,Amphetamine,IN,1,F,602
+2017,Amphetamine,IN,1,T,0
+2017,Amphetamine Salt Combination,IN,1,F,29408
+2017,Amphetamine Salt Combination,IN,1,T,0
+2017,Dextroamphetamine Sulfate,IN,1,F,477
+2017,Dextroamphetamine Sulfate,IN,1,T,0
+2017,Lisdexamfetamine Dimesylate,IN,1,F,43062
+2017,Methamphetamine Hydrochloride,IN,1,F,18
+2017,Amphetamine,IN,2,F,709
+2017,Amphetamine,IN,2,T,0
+2017,Amphetamine Salt Combination,IN,2,F,29305
+2017,Amphetamine Salt Combination,IN,2,T,0
+2017,Dextroamphetamine Sulfate,IN,2,F,483
+2017,Dextroamphetamine Sulfate,IN,2,T,0
+2017,Lisdexamfetamine Dimesylate,IN,2,F,38660
+2017,Lisdexamfetamine Dimesylate,IN,2,T,0
+2017,Methamphetamine Hydrochloride,IN,2,F,14
+2017,Amphetamine,IN,3,F,865
+2017,Amphetamine,IN,3,T,0
+2017,Amphetamine Salt Combination,IN,3,F,34673
+2017,Amphetamine Salt Combination,IN,3,T,0
+2017,Dextroamphetamine Sulfate,IN,3,F,519
+2017,Dextroamphetamine Sulfate,IN,3,T,0
+2017,Lisdexamfetamine Dimesylate,IN,3,F,38448
+2017,Lisdexamfetamine Dimesylate,IN,3,T,0
+2017,Methamphetamine Hydrochloride,IN,3,T,0
+2017,Amphetamine,IN,4,F,1013
+2017,Amphetamine,IN,4,T,0
+2017,Amphetamine Salt Combination,IN,4,F,41204
+2017,Amphetamine Salt Combination,IN,4,T,0
+2017,Dextroamphetamine Sulfate,IN,4,F,494
+2017,Dextroamphetamine Sulfate,IN,4,T,0
+2017,Lisdexamfetamine Dimesylate,IN,4,F,40016
+2017,Lisdexamfetamine Dimesylate,IN,4,T,0
+2017,Amphetamine,KY,1,F,14
+2017,Amphetamine,KY,1,T,0
+2017,Amphetamine Salt Combination,KY,1,F,24532
+2017,Amphetamine Salt Combination,KY,1,T,0
+2017,Dextroamphetamine Sulfate,KY,1,F,707
+2017,Dextroamphetamine Sulfate,KY,1,T,0
+2017,Lisdexamfetamine Dimesylate,KY,1,F,16496
+2017,Methamphetamine Hydrochloride,KY,1,T,0
+2017,Amphetamine,KY,2,F,39
+2017,Amphetamine,KY,2,T,0
+2017,Amphetamine Salt Combination,KY,2,F,26477
+2017,Amphetamine Salt Combination,KY,2,T,0
+2017,Dextroamphetamine Sulfate,KY,2,F,687
+2017,Dextroamphetamine Sulfate,KY,2,T,0
+2017,Lisdexamfetamine Dimesylate,KY,2,F,15467
+2017,Lisdexamfetamine Dimesylate,KY,2,T,0
+2017,Methamphetamine Hydrochloride,KY,2,T,0
+2017,Amphetamine,KY,3,F,52
+2017,Amphetamine,KY,3,T,0
+2017,Amphetamine Salt Combination,KY,3,F,33221
+2017,Amphetamine Salt Combination,KY,3,T,0
+2017,Dextroamphetamine Sulfate,KY,3,F,717
+2017,Dextroamphetamine Sulfate,KY,3,T,0
+2017,Lisdexamfetamine Dimesylate,KY,3,F,15231
+2017,Lisdexamfetamine Dimesylate,KY,3,T,0
+2017,Methamphetamine Hydrochloride,KY,3,T,0
+2017,Amphetamine,KY,4,F,46
+2017,Amphetamine,KY,4,T,0
+2017,Amphetamine Salt Combination,KY,4,F,36419
+2017,Amphetamine Salt Combination,KY,4,T,0
+2017,Dextroamphetamine Sulfate,KY,4,F,749
+2017,Dextroamphetamine Sulfate,KY,4,T,0
+2017,Lisdexamfetamine Dimesylate,KY,4,F,15621
+2017,Lisdexamfetamine Dimesylate,KY,4,T,0
+2017,Methamphetamine Hydrochloride,KY,4,T,0
+2017,Amphetamine,LA,1,F,107
+2017,Amphetamine,LA,1,T,0
+2017,Amphetamine Salt Combination,LA,1,F,52197
+2017,Amphetamine Salt Combination,LA,1,T,0
+2017,Dextroamphetamine Sulfate,LA,1,F,923
+2017,Dextroamphetamine Sulfate,LA,1,T,0
+2017,Lisdexamfetamine Dimesylate,LA,1,F,40084
+2017,Methamphetamine Hydrochloride,LA,1,T,0
+2017,Amphetamine,LA,2,F,121
+2017,Amphetamine,LA,2,T,0
+2017,Amphetamine Salt Combination,LA,2,F,62056
+2017,Amphetamine Salt Combination,LA,2,T,0
+2017,Dextroamphetamine Sulfate,LA,2,F,923
+2017,Dextroamphetamine Sulfate,LA,2,T,0
+2017,Lisdexamfetamine Dimesylate,LA,2,F,39711
+2017,Lisdexamfetamine Dimesylate,LA,2,T,0
+2017,Methamphetamine Hydrochloride,LA,2,T,0
+2017,Amphetamine,LA,3,F,151
+2017,Amphetamine,LA,3,T,0
+2017,Amphetamine Salt Combination,LA,3,F,63148
+2017,Amphetamine Salt Combination,LA,3,T,0
+2017,Dextroamphetamine Sulfate,LA,3,F,820
+2017,Dextroamphetamine Sulfate,LA,3,T,0
+2017,Lisdexamfetamine Dimesylate,LA,3,F,36269
+2017,Lisdexamfetamine Dimesylate,LA,3,T,0
+2017,Methamphetamine Hydrochloride,LA,3,T,0
+2017,Amphetamine,LA,4,F,197
+2017,Amphetamine,LA,4,T,0
+2017,Amphetamine Salt Combination,LA,4,F,71261
+2017,Amphetamine Salt Combination,LA,4,T,0
+2017,Dextroamphetamine Sulfate,LA,4,F,846
+2017,Dextroamphetamine Sulfate,LA,4,T,0
+2017,Lisdexamfetamine Dimesylate,LA,4,F,38515
+2017,Lisdexamfetamine Dimesylate,LA,4,T,0
+2017,Methamphetamine Hydrochloride,LA,4,T,0
+2017,Amphetamine,MI,1,T,0
+2017,Amphetamine Salt Combination,MI,1,F,66709
+2017,Amphetamine Salt Combination,MI,1,T,0
+2017,Dextroamphetamine Sulfate,MI,1,F,467
+2017,Dextroamphetamine Sulfate,MI,1,T,0
+2017,Lisdexamfetamine Dimesylate,MI,1,F,32303
+2017,Amphetamine,MI,2,F,73
+2017,Amphetamine,MI,2,T,0
+2017,Amphetamine Salt Combination,MI,2,F,72097
+2017,Amphetamine Salt Combination,MI,2,T,0
+2017,Dextroamphetamine Sulfate,MI,2,F,484
+2017,Dextroamphetamine Sulfate,MI,2,T,0
+2017,Lisdexamfetamine Dimesylate,MI,2,F,32434
+2017,Lisdexamfetamine Dimesylate,MI,2,T,0
+2017,Amphetamine,MI,3,F,255
+2017,Amphetamine Salt Combination,MI,3,F,75102
+2017,Amphetamine Salt Combination,MI,3,T,0
+2017,Dextroamphetamine Sulfate,MI,3,F,574
+2017,Dextroamphetamine Sulfate,MI,3,T,0
+2017,Lisdexamfetamine Dimesylate,MI,3,F,31054
+2017,Lisdexamfetamine Dimesylate,MI,3,T,0
+2017,Amphetamine,MI,4,F,412
+2017,Amphetamine Salt Combination,MI,4,F,80117
+2017,Amphetamine Salt Combination,MI,4,T,0
+2017,Dextroamphetamine Sulfate,MI,4,F,581
+2017,Dextroamphetamine Sulfate,MI,4,T,0
+2017,Lisdexamfetamine Dimesylate,MI,4,F,32144
+2017,Lisdexamfetamine Dimesylate,MI,4,T,0
+2017,Amphetamine,MO,1,F,518
+2017,Amphetamine Salt Combination,MO,1,F,21650
+2017,Amphetamine Salt Combination,MO,1,T,0
+2017,Dextroamphetamine Sulfate,MO,1,F,612
+2017,Dextroamphetamine Sulfate,MO,1,T,0
+2017,Lisdexamfetamine Dimesylate,MO,1,F,19994
+2017,Methamphetamine Hydrochloride,MO,1,T,0
+2017,Amphetamine,MO,2,F,705
+2017,Amphetamine Salt Combination,MO,2,F,20834
+2017,Amphetamine Salt Combination,MO,2,T,0
+2017,Dextroamphetamine Sulfate,MO,2,F,546
+2017,Dextroamphetamine Sulfate,MO,2,T,0
+2017,Lisdexamfetamine Dimesylate,MO,2,F,18532
+2017,Lisdexamfetamine Dimesylate,MO,2,T,0
+2017,Methamphetamine Hydrochloride,MO,2,T,0
+2017,Amphetamine,MO,3,F,695
+2017,Amphetamine Salt Combination,MO,3,F,21144
+2017,Amphetamine Salt Combination,MO,3,T,0
+2017,Dextroamphetamine Sulfate,MO,3,F,603
+2017,Dextroamphetamine Sulfate,MO,3,T,0
+2017,Lisdexamfetamine Dimesylate,MO,3,F,17704
+2017,Lisdexamfetamine Dimesylate,MO,3,T,0
+2017,Amphetamine,MO,4,F,977
+2017,Amphetamine Salt Combination,MO,4,F,23934
+2017,Amphetamine Salt Combination,MO,4,T,0
+2017,Dextroamphetamine Sulfate,MO,4,F,679
+2017,Dextroamphetamine Sulfate,MO,4,T,0
+2017,Lisdexamfetamine Dimesylate,MO,4,F,19625
+2017,Lisdexamfetamine Dimesylate,MO,4,T,0
 2017,Amphetamine,MS,1,F,659
 2017,Amphetamine,MS,1,T,0
 2017,Amphetamine Salt Combination,MS,1,F,10544
@@ -337,6 +1890,267 @@ year,gennme,state,quarter,suppression,totalRX
 2017,Dextroamphetamine Sulfate,MS,4,T,0
 2017,Lisdexamfetamine Dimesylate,MS,4,F,23935
 2017,Lisdexamfetamine Dimesylate,MS,4,T,0
+2017,Amphetamine,NC,1,F,809
+2017,Amphetamine Salt Combination,NC,1,F,51225
+2017,Amphetamine Salt Combination,NC,1,T,0
+2017,Dextroamphetamine Sulfate,NC,1,F,1892
+2017,Dextroamphetamine Sulfate,NC,1,T,0
+2017,Lisdexamfetamine Dimesylate,NC,1,F,54008
+2017,Amphetamine,NC,2,F,871
+2017,Amphetamine Salt Combination,NC,2,F,43658
+2017,Amphetamine Salt Combination,NC,2,T,0
+2017,Dextroamphetamine Sulfate,NC,2,F,1527
+2017,Dextroamphetamine Sulfate,NC,2,T,0
+2017,Lisdexamfetamine Dimesylate,NC,2,F,44931
+2017,Lisdexamfetamine Dimesylate,NC,2,T,0
+2017,Amphetamine,NC,3,F,1200
+2017,Amphetamine Salt Combination,NC,3,F,48727
+2017,Amphetamine Salt Combination,NC,3,T,0
+2017,Dextroamphetamine Sulfate,NC,3,F,1630
+2017,Dextroamphetamine Sulfate,NC,3,T,0
+2017,Lisdexamfetamine Dimesylate,NC,3,F,46503
+2017,Lisdexamfetamine Dimesylate,NC,3,T,0
+2017,Amphetamine,NC,4,F,1383
+2017,Amphetamine Salt Combination,NC,4,F,48948
+2017,Amphetamine Salt Combination,NC,4,T,0
+2017,Dextroamphetamine Sulfate,NC,4,F,1464
+2017,Dextroamphetamine Sulfate,NC,4,T,0
+2017,Lisdexamfetamine Dimesylate,NC,4,F,46322
+2017,Lisdexamfetamine Dimesylate,NC,4,T,0
+2017,Amphetamine,NH,1,T,0
+2017,Amphetamine Salt Combination,NH,1,F,2827
+2017,Amphetamine Salt Combination,NH,1,T,0
+2017,Dextroamphetamine Sulfate,NH,1,F,29
+2017,Dextroamphetamine Sulfate,NH,1,T,0
+2017,Lisdexamfetamine Dimesylate,NH,1,F,2445
+2017,Lisdexamfetamine Dimesylate,NH,1,T,0
+2017,Amphetamine Salt Combination,NH,2,F,5044
+2017,Amphetamine Salt Combination,NH,2,T,0
+2017,Dextroamphetamine Sulfate,NH,2,F,31
+2017,Dextroamphetamine Sulfate,NH,2,T,0
+2017,Lisdexamfetamine Dimesylate,NH,2,F,2721
+2017,Lisdexamfetamine Dimesylate,NH,2,T,0
+2017,Amphetamine Salt Combination,NH,3,F,5164
+2017,Amphetamine Salt Combination,NH,3,T,0
+2017,Dextroamphetamine Sulfate,NH,3,F,37
+2017,Dextroamphetamine Sulfate,NH,3,T,0
+2017,Lisdexamfetamine Dimesylate,NH,3,F,2296
+2017,Lisdexamfetamine Dimesylate,NH,3,T,0
+2017,Amphetamine Salt Combination,NH,4,F,6177
+2017,Amphetamine Salt Combination,NH,4,T,0
+2017,Dextroamphetamine Sulfate,NH,4,F,56
+2017,Dextroamphetamine Sulfate,NH,4,T,0
+2017,Lisdexamfetamine Dimesylate,NH,4,F,2585
+2017,Lisdexamfetamine Dimesylate,NH,4,T,0
+2017,Amphetamine,NJ,1,T,0
+2017,Amphetamine Salt Combination,NJ,1,F,17493
+2017,Amphetamine Salt Combination,NJ,1,T,0
+2017,Dextroamphetamine Sulfate,NJ,1,F,296
+2017,Dextroamphetamine Sulfate,NJ,1,T,0
+2017,Lisdexamfetamine Dimesylate,NJ,1,F,8306
+2017,Lisdexamfetamine Dimesylate,NJ,1,T,0
+2017,Methamphetamine Hydrochloride,NJ,1,F,14
+2017,Methamphetamine Hydrochloride,NJ,1,T,0
+2017,Amphetamine,NJ,2,T,0
+2017,Amphetamine Salt Combination,NJ,2,F,21835
+2017,Amphetamine Salt Combination,NJ,2,T,0
+2017,Dextroamphetamine Sulfate,NJ,2,F,300
+2017,Dextroamphetamine Sulfate,NJ,2,T,0
+2017,Lisdexamfetamine Dimesylate,NJ,2,F,8144
+2017,Lisdexamfetamine Dimesylate,NJ,2,T,0
+2017,Methamphetamine Hydrochloride,NJ,2,F,13
+2017,Methamphetamine Hydrochloride,NJ,2,T,0
+2017,Amphetamine,NJ,3,F,14
+2017,Amphetamine,NJ,3,T,0
+2017,Amphetamine Salt Combination,NJ,3,F,23713
+2017,Amphetamine Salt Combination,NJ,3,T,0
+2017,Dextroamphetamine Sulfate,NJ,3,F,223
+2017,Dextroamphetamine Sulfate,NJ,3,T,0
+2017,Lisdexamfetamine Dimesylate,NJ,3,F,7241
+2017,Lisdexamfetamine Dimesylate,NJ,3,T,0
+2017,Methamphetamine Hydrochloride,NJ,3,F,13
+2017,Methamphetamine Hydrochloride,NJ,3,T,0
+2017,Amphetamine,NJ,4,T,0
+2017,Amphetamine Salt Combination,NJ,4,F,28800
+2017,Amphetamine Salt Combination,NJ,4,T,0
+2017,Dextroamphetamine Sulfate,NJ,4,F,196
+2017,Dextroamphetamine Sulfate,NJ,4,T,0
+2017,Lisdexamfetamine Dimesylate,NJ,4,F,7592
+2017,Lisdexamfetamine Dimesylate,NJ,4,T,0
+2017,Methamphetamine Hydrochloride,NJ,4,F,21
+2017,Methamphetamine Hydrochloride,NJ,4,T,0
+2017,Amphetamine Salt Combination,NV,1,F,6704
+2017,Amphetamine Salt Combination,NV,1,T,0
+2017,Dextroamphetamine Sulfate,NV,1,F,32
+2017,Dextroamphetamine Sulfate,NV,1,T,0
+2017,Lisdexamfetamine Dimesylate,NV,1,F,3543
+2017,Methamphetamine Hydrochloride,NV,1,T,0
+2017,Amphetamine Salt Combination,NV,2,F,6988
+2017,Amphetamine Salt Combination,NV,2,T,0
+2017,Dextroamphetamine Sulfate,NV,2,F,34
+2017,Dextroamphetamine Sulfate,NV,2,T,0
+2017,Lisdexamfetamine Dimesylate,NV,2,F,3398
+2017,Lisdexamfetamine Dimesylate,NV,2,T,0
+2017,Methamphetamine Hydrochloride,NV,2,T,0
+2017,Amphetamine,NV,3,T,0
+2017,Amphetamine Salt Combination,NV,3,F,6975
+2017,Amphetamine Salt Combination,NV,3,T,0
+2017,Dextroamphetamine Sulfate,NV,3,F,45
+2017,Dextroamphetamine Sulfate,NV,3,T,0
+2017,Lisdexamfetamine Dimesylate,NV,3,F,3198
+2017,Lisdexamfetamine Dimesylate,NV,3,T,0
+2017,Methamphetamine Hydrochloride,NV,3,T,0
+2017,Amphetamine,NV,4,T,0
+2017,Amphetamine Salt Combination,NV,4,F,7492
+2017,Amphetamine Salt Combination,NV,4,T,0
+2017,Dextroamphetamine Sulfate,NV,4,F,45
+2017,Dextroamphetamine Sulfate,NV,4,T,0
+2017,Lisdexamfetamine Dimesylate,NV,4,F,3242
+2017,Lisdexamfetamine Dimesylate,NV,4,T,0
+2017,Methamphetamine Hydrochloride,NV,4,T,0
+2017,Amphetamine,NY,1,F,19
+2017,Amphetamine,NY,1,T,0
+2017,Amphetamine Salt Combination,NY,1,F,45130
+2017,Amphetamine Salt Combination,NY,1,T,0
+2017,Dextroamphetamine Sulfate,NY,1,F,2255
+2017,Dextroamphetamine Sulfate,NY,1,T,0
+2017,Lisdexamfetamine Dimesylate,NY,1,F,21196
+2017,Methamphetamine Hydrochloride,NY,1,F,13
+2017,Methamphetamine Hydrochloride,NY,1,T,0
+2017,Amphetamine,NY,2,F,16
+2017,Amphetamine,NY,2,T,0
+2017,Amphetamine Salt Combination,NY,2,F,59784
+2017,Amphetamine Salt Combination,NY,2,T,0
+2017,Dextroamphetamine Sulfate,NY,2,F,2316
+2017,Dextroamphetamine Sulfate,NY,2,T,0
+2017,Lisdexamfetamine Dimesylate,NY,2,F,20448
+2017,Lisdexamfetamine Dimesylate,NY,2,T,0
+2017,Methamphetamine Hydrochloride,NY,2,F,20
+2017,Methamphetamine Hydrochloride,NY,2,T,0
+2017,Amphetamine,NY,3,F,15
+2017,Amphetamine,NY,3,T,0
+2017,Amphetamine Salt Combination,NY,3,F,69526
+2017,Amphetamine Salt Combination,NY,3,T,0
+2017,Dextroamphetamine Sulfate,NY,3,F,2078
+2017,Dextroamphetamine Sulfate,NY,3,T,0
+2017,Lisdexamfetamine Dimesylate,NY,3,F,20532
+2017,Lisdexamfetamine Dimesylate,NY,3,T,0
+2017,Methamphetamine Hydrochloride,NY,3,F,22
+2017,Methamphetamine Hydrochloride,NY,3,T,0
+2017,Amphetamine,NY,4,F,32
+2017,Amphetamine,NY,4,T,0
+2017,Amphetamine Salt Combination,NY,4,F,82860
+2017,Amphetamine Salt Combination,NY,4,T,0
+2017,Dextroamphetamine Sulfate,NY,4,F,2120
+2017,Dextroamphetamine Sulfate,NY,4,T,0
+2017,Lisdexamfetamine Dimesylate,NY,4,F,21743
+2017,Lisdexamfetamine Dimesylate,NY,4,T,0
+2017,Methamphetamine Hydrochloride,NY,4,F,23
+2017,Methamphetamine Hydrochloride,NY,4,T,0
+2017,Amphetamine,OH,1,F,187
+2017,Amphetamine,OH,1,T,0
+2017,Amphetamine Salt Combination,OH,1,F,68357
+2017,Amphetamine Salt Combination,OH,1,T,0
+2017,Dextroamphetamine Sulfate,OH,1,F,1559
+2017,Dextroamphetamine Sulfate,OH,1,T,0
+2017,Lisdexamfetamine Dimesylate,OH,1,F,48955
+2017,Methamphetamine Hydrochloride,OH,1,T,0
+2017,Amphetamine,OH,2,F,573
+2017,Amphetamine,OH,2,T,0
+2017,Amphetamine Salt Combination,OH,2,F,115428
+2017,Amphetamine Salt Combination,OH,2,T,0
+2017,Dextroamphetamine Sulfate,OH,2,F,1969
+2017,Dextroamphetamine Sulfate,OH,2,T,0
+2017,Lisdexamfetamine Dimesylate,OH,2,F,62076
+2017,Lisdexamfetamine Dimesylate,OH,2,T,0
+2017,Methamphetamine Hydrochloride,OH,2,T,0
+2017,Amphetamine,OH,3,F,536
+2017,Amphetamine,OH,3,T,0
+2017,Amphetamine Salt Combination,OH,3,F,96590
+2017,Amphetamine Salt Combination,OH,3,T,0
+2017,Dextroamphetamine Sulfate,OH,3,F,1438
+2017,Dextroamphetamine Sulfate,OH,3,T,0
+2017,Lisdexamfetamine Dimesylate,OH,3,F,43410
+2017,Lisdexamfetamine Dimesylate,OH,3,T,0
+2017,Methamphetamine Hydrochloride,OH,3,T,0
+2017,Amphetamine,OH,4,F,653
+2017,Amphetamine,OH,4,T,0
+2017,Amphetamine Salt Combination,OH,4,F,104604
+2017,Amphetamine Salt Combination,OH,4,T,0
+2017,Dextroamphetamine Sulfate,OH,4,F,1403
+2017,Dextroamphetamine Sulfate,OH,4,T,0
+2017,Lisdexamfetamine Dimesylate,OH,4,F,45777
+2017,Lisdexamfetamine Dimesylate,OH,4,T,0
+2017,Methamphetamine Hydrochloride,OH,4,T,0
+2017,Amphetamine,OK,1,F,27
+2017,Amphetamine,OK,1,T,0
+2017,Amphetamine Salt Combination,OK,1,F,9366
+2017,Amphetamine Salt Combination,OK,1,T,0
+2017,Dextroamphetamine Sulfate,OK,1,T,0
+2017,Lisdexamfetamine Dimesylate,OK,1,F,24473
+2017,Methamphetamine Hydrochloride,OK,1,T,0
+2017,Amphetamine,OK,2,F,40
+2017,Amphetamine,OK,2,T,0
+2017,Amphetamine Salt Combination,OK,2,F,9528
+2017,Amphetamine Salt Combination,OK,2,T,0
+2017,Dextroamphetamine Sulfate,OK,2,T,0
+2017,Lisdexamfetamine Dimesylate,OK,2,F,23841
+2017,Lisdexamfetamine Dimesylate,OK,2,T,0
+2017,Methamphetamine Hydrochloride,OK,2,T,0
+2017,Amphetamine,OK,3,F,50
+2017,Amphetamine,OK,3,T,0
+2017,Amphetamine Salt Combination,OK,3,F,10094
+2017,Amphetamine Salt Combination,OK,3,T,0
+2017,Dextroamphetamine Sulfate,OK,3,T,0
+2017,Lisdexamfetamine Dimesylate,OK,3,F,22150
+2017,Lisdexamfetamine Dimesylate,OK,3,T,0
+2017,Methamphetamine Hydrochloride,OK,3,T,0
+2017,Amphetamine,OK,4,F,68
+2017,Amphetamine,OK,4,T,0
+2017,Amphetamine Salt Combination,OK,4,F,11801
+2017,Amphetamine Salt Combination,OK,4,T,0
+2017,Dextroamphetamine Sulfate,OK,4,T,0
+2017,Lisdexamfetamine Dimesylate,OK,4,F,25445
+2017,Lisdexamfetamine Dimesylate,OK,4,T,0
+2017,Methamphetamine Hydrochloride,OK,4,T,0
+2017,Amphetamine,PA,1,F,48
+2017,Amphetamine,PA,1,T,0
+2017,Amphetamine Salt Combination,PA,1,F,56719
+2017,Amphetamine Salt Combination,PA,1,T,0
+2017,Dextroamphetamine Sulfate,PA,1,F,2094
+2017,Dextroamphetamine Sulfate,PA,1,T,0
+2017,Lisdexamfetamine Dimesylate,PA,1,F,35911
+2017,Methamphetamine Hydrochloride,PA,1,T,0
+2017,Amphetamine,PA,2,F,230
+2017,Amphetamine,PA,2,T,0
+2017,Amphetamine Salt Combination,PA,2,F,100733
+2017,Amphetamine Salt Combination,PA,2,T,0
+2017,Dextroamphetamine Sulfate,PA,2,F,3265
+2017,Dextroamphetamine Sulfate,PA,2,T,0
+2017,Lisdexamfetamine Dimesylate,PA,2,F,54632
+2017,Lisdexamfetamine Dimesylate,PA,2,T,0
+2017,Methamphetamine Hydrochloride,PA,2,F,24
+2017,Methamphetamine Hydrochloride,PA,2,T,0
+2017,Amphetamine,PA,3,F,167
+2017,Amphetamine,PA,3,T,0
+2017,Amphetamine Salt Combination,PA,3,F,79099
+2017,Amphetamine Salt Combination,PA,3,T,0
+2017,Dextroamphetamine Sulfate,PA,3,F,2033
+2017,Dextroamphetamine Sulfate,PA,3,T,0
+2017,Lisdexamfetamine Dimesylate,PA,3,F,37154
+2017,Lisdexamfetamine Dimesylate,PA,3,T,0
+2017,Methamphetamine Hydrochloride,PA,3,F,23
+2017,Methamphetamine Hydrochloride,PA,3,T,0
+2017,Amphetamine,PA,4,F,159
+2017,Amphetamine,PA,4,T,0
+2017,Amphetamine Salt Combination,PA,4,F,89037
+2017,Amphetamine Salt Combination,PA,4,T,0
+2017,Dextroamphetamine Sulfate,PA,4,F,2100
+2017,Dextroamphetamine Sulfate,PA,4,T,0
+2017,Lisdexamfetamine Dimesylate,PA,4,F,40232
+2017,Lisdexamfetamine Dimesylate,PA,4,T,0
+2017,Methamphetamine Hydrochloride,PA,4,F,17
+2017,Methamphetamine Hydrochloride,PA,4,T,0
 2017,Amphetamine,SC,1,T,0
 2017,Amphetamine Salt Combination,SC,1,F,23247
 2017,Amphetamine Salt Combination,SC,1,T,0
@@ -402,6 +2216,216 @@ year,gennme,state,quarter,suppression,totalRX
 2017,Lisdexamfetamine Dimesylate,TN,4,F,31260
 2017,Lisdexamfetamine Dimesylate,TN,4,T,0
 2017,Methamphetamine Hydrochloride,TN,4,T,0
+2017,Amphetamine,UT,1,T,0
+2017,Amphetamine Salt Combination,UT,1,F,5708
+2017,Amphetamine Salt Combination,UT,1,T,0
+2017,Dextroamphetamine Sulfate,UT,1,F,260
+2017,Dextroamphetamine Sulfate,UT,1,T,0
+2017,Lisdexamfetamine Dimesylate,UT,1,F,4360
+2017,Methamphetamine Hydrochloride,UT,1,T,0
+2017,Amphetamine,UT,2,T,0
+2017,Amphetamine Salt Combination,UT,2,F,7018
+2017,Amphetamine Salt Combination,UT,2,T,0
+2017,Dextroamphetamine Sulfate,UT,2,F,285
+2017,Dextroamphetamine Sulfate,UT,2,T,0
+2017,Lisdexamfetamine Dimesylate,UT,2,F,4549
+2017,Lisdexamfetamine Dimesylate,UT,2,T,0
+2017,Methamphetamine Hydrochloride,UT,2,T,0
+2017,Amphetamine,UT,3,T,0
+2017,Amphetamine Salt Combination,UT,3,F,8191
+2017,Amphetamine Salt Combination,UT,3,T,0
+2017,Dextroamphetamine Sulfate,UT,3,F,306
+2017,Dextroamphetamine Sulfate,UT,3,T,0
+2017,Lisdexamfetamine Dimesylate,UT,3,F,4537
+2017,Lisdexamfetamine Dimesylate,UT,3,T,0
+2017,Methamphetamine Hydrochloride,UT,3,T,0
+2017,Amphetamine,UT,4,F,18
+2017,Amphetamine,UT,4,T,0
+2017,Amphetamine Salt Combination,UT,4,F,8456
+2017,Amphetamine Salt Combination,UT,4,T,0
+2017,Dextroamphetamine Sulfate,UT,4,F,226
+2017,Dextroamphetamine Sulfate,UT,4,T,0
+2017,Lisdexamfetamine Dimesylate,UT,4,F,4534
+2017,Lisdexamfetamine Dimesylate,UT,4,T,0
+2017,Amphetamine,VA,1,F,52
+2017,Amphetamine,VA,1,T,0
+2017,Amphetamine Salt Combination,VA,1,F,17770
+2017,Amphetamine Salt Combination,VA,1,T,0
+2017,Dextroamphetamine Sulfate,VA,1,F,667
+2017,Dextroamphetamine Sulfate,VA,1,T,0
+2017,Lisdexamfetamine Dimesylate,VA,1,F,19714
+2017,Methamphetamine Hydrochloride,VA,1,T,0
+2017,Amphetamine,VA,2,F,73
+2017,Amphetamine,VA,2,T,0
+2017,Amphetamine Salt Combination,VA,2,F,21114
+2017,Amphetamine Salt Combination,VA,2,T,0
+2017,Dextroamphetamine Sulfate,VA,2,F,648
+2017,Dextroamphetamine Sulfate,VA,2,T,0
+2017,Lisdexamfetamine Dimesylate,VA,2,F,18341
+2017,Lisdexamfetamine Dimesylate,VA,2,T,0
+2017,Methamphetamine Hydrochloride,VA,2,T,0
+2017,Amphetamine,VA,3,F,74
+2017,Amphetamine,VA,3,T,0
+2017,Amphetamine Salt Combination,VA,3,F,22925
+2017,Amphetamine Salt Combination,VA,3,T,0
+2017,Dextroamphetamine Sulfate,VA,3,F,674
+2017,Dextroamphetamine Sulfate,VA,3,T,0
+2017,Lisdexamfetamine Dimesylate,VA,3,F,17866
+2017,Lisdexamfetamine Dimesylate,VA,3,T,0
+2017,Methamphetamine Hydrochloride,VA,3,T,0
+2017,Amphetamine,VA,4,F,99
+2017,Amphetamine,VA,4,T,0
+2017,Amphetamine Salt Combination,VA,4,F,26966
+2017,Amphetamine Salt Combination,VA,4,T,0
+2017,Dextroamphetamine Sulfate,VA,4,F,744
+2017,Dextroamphetamine Sulfate,VA,4,T,0
+2017,Lisdexamfetamine Dimesylate,VA,4,F,18957
+2017,Lisdexamfetamine Dimesylate,VA,4,T,0
+2017,Methamphetamine Hydrochloride,VA,4,T,0
+2017,Amphetamine,WA,1,T,0
+2017,Amphetamine Salt Combination,WA,1,F,17345
+2017,Amphetamine Salt Combination,WA,1,T,0
+2017,Dextroamphetamine Sulfate,WA,1,F,1251
+2017,Dextroamphetamine Sulfate,WA,1,T,0
+2017,Lisdexamfetamine Dimesylate,WA,1,F,8814
+2017,Methamphetamine Hydrochloride,WA,1,F,20
+2017,Amphetamine,WA,2,T,0
+2017,Amphetamine Salt Combination,WA,2,F,24396
+2017,Amphetamine Salt Combination,WA,2,T,0
+2017,Dextroamphetamine Sulfate,WA,2,F,1111
+2017,Dextroamphetamine Sulfate,WA,2,T,0
+2017,Lisdexamfetamine Dimesylate,WA,2,F,9259
+2017,Lisdexamfetamine Dimesylate,WA,2,T,0
+2017,Methamphetamine Hydrochloride,WA,2,F,27
+2017,Amphetamine,WA,3,T,0
+2017,Amphetamine Salt Combination,WA,3,F,38158
+2017,Amphetamine Salt Combination,WA,3,T,0
+2017,Dextroamphetamine Sulfate,WA,3,F,1573
+2017,Dextroamphetamine Sulfate,WA,3,T,0
+2017,Lisdexamfetamine Dimesylate,WA,3,F,12011
+2017,Lisdexamfetamine Dimesylate,WA,3,T,0
+2017,Methamphetamine Hydrochloride,WA,3,F,24
+2017,Amphetamine,WA,4,T,0
+2017,Amphetamine Salt Combination,WA,4,F,31550
+2017,Amphetamine Salt Combination,WA,4,T,0
+2017,Dextroamphetamine Sulfate,WA,4,F,1125
+2017,Dextroamphetamine Sulfate,WA,4,T,0
+2017,Lisdexamfetamine Dimesylate,WA,4,F,9879
+2017,Lisdexamfetamine Dimesylate,WA,4,T,0
+2017,Methamphetamine Hydrochloride,WA,4,F,20
+2017,Amphetamine,WV,1,F,216
+2017,Amphetamine,WV,1,T,0
+2017,Amphetamine Salt Combination,WV,1,F,5318
+2017,Amphetamine Salt Combination,WV,1,T,0
+2017,Dextroamphetamine Sulfate,WV,1,F,372
+2017,Dextroamphetamine Sulfate,WV,1,T,0
+2017,Lisdexamfetamine Dimesylate,WV,1,F,16672
+2017,Methamphetamine Hydrochloride,WV,1,T,0
+2017,Amphetamine,WV,2,F,518
+2017,Amphetamine,WV,2,T,0
+2017,Amphetamine Salt Combination,WV,2,F,6831
+2017,Amphetamine Salt Combination,WV,2,T,0
+2017,Dextroamphetamine Sulfate,WV,2,F,422
+2017,Dextroamphetamine Sulfate,WV,2,T,0
+2017,Lisdexamfetamine Dimesylate,WV,2,F,16953
+2017,Lisdexamfetamine Dimesylate,WV,2,T,0
+2017,Methamphetamine Hydrochloride,WV,2,T,0
+2017,Amphetamine,WV,3,F,484
+2017,Amphetamine Salt Combination,WV,3,F,5001
+2017,Amphetamine Salt Combination,WV,3,T,0
+2017,Dextroamphetamine Sulfate,WV,3,F,281
+2017,Dextroamphetamine Sulfate,WV,3,T,0
+2017,Lisdexamfetamine Dimesylate,WV,3,F,10423
+2017,Lisdexamfetamine Dimesylate,WV,3,T,0
+2017,Methamphetamine Hydrochloride,WV,3,T,0
+2017,Amphetamine,WV,4,F,1078
+2017,Amphetamine Salt Combination,WV,4,F,9904
+2017,Amphetamine Salt Combination,WV,4,T,0
+2017,Dextroamphetamine Sulfate,WV,4,F,470
+2017,Dextroamphetamine Sulfate,WV,4,T,0
+2017,Lisdexamfetamine Dimesylate,WV,4,F,17456
+2017,Lisdexamfetamine Dimesylate,WV,4,T,0
+2017,Methamphetamine Hydrochloride,WV,4,T,0
+2017,Amphetamine Salt Combination,WY,1,F,1402
+2017,Amphetamine Salt Combination,WY,1,T,0
+2017,Dextroamphetamine Sulfate,WY,1,F,19
+2017,Dextroamphetamine Sulfate,WY,1,T,0
+2017,Lisdexamfetamine Dimesylate,WY,1,F,1366
+2017,Amphetamine Salt Combination,WY,2,F,1378
+2017,Amphetamine Salt Combination,WY,2,T,0
+2017,Dextroamphetamine Sulfate,WY,2,F,17
+2017,Dextroamphetamine Sulfate,WY,2,T,0
+2017,Lisdexamfetamine Dimesylate,WY,2,F,1303
+2017,Amphetamine Salt Combination,WY,3,F,1249
+2017,Amphetamine Salt Combination,WY,3,T,0
+2017,Dextroamphetamine Sulfate,WY,3,F,13
+2017,Dextroamphetamine Sulfate,WY,3,T,0
+2017,Lisdexamfetamine Dimesylate,WY,3,F,1230
+2017,Amphetamine,WY,4,T,0
+2017,Amphetamine Salt Combination,WY,4,F,1471
+2017,Amphetamine Salt Combination,WY,4,T,0
+2017,Dextroamphetamine Sulfate,WY,4,T,0
+2017,Lisdexamfetamine Dimesylate,WY,4,F,1281
+2018,Amphetamine Salt Combination,AK,1,F,2592
+2018,Amphetamine Salt Combination,AK,1,T,0
+2018,Dextroamphetamine Sulfate,AK,1,F,55
+2018,Dextroamphetamine Sulfate,AK,1,T,0
+2018,Lisdexamfetamine Dimesylate,AK,1,F,1136
+2018,Lisdexamfetamine Dimesylate,AK,1,T,0
+2018,Methamphetamine Hydrochloride,AK,1,T,0
+2018,Amphetamine Salt Combination,AK,2,F,1850
+2018,Amphetamine Salt Combination,AK,2,T,0
+2018,Dextroamphetamine Sulfate,AK,2,T,0
+2018,Lisdexamfetamine Dimesylate,AK,2,F,838
+2018,Lisdexamfetamine Dimesylate,AK,2,T,0
+2018,Methamphetamine Hydrochloride,AK,2,T,0
+2018,Amphetamine Salt Combination,AK,3,F,3329
+2018,Amphetamine Salt Combination,AK,3,T,0
+2018,Dextroamphetamine Sulfate,AK,3,F,76
+2018,Dextroamphetamine Sulfate,AK,3,T,0
+2018,Lisdexamfetamine Dimesylate,AK,3,F,1495
+2018,Lisdexamfetamine Dimesylate,AK,3,T,0
+2018,Methamphetamine Hydrochloride,AK,3,T,0
+2018,Amphetamine,AK,4,T,0
+2018,Amphetamine Salt Combination,AK,4,F,2670
+2018,Amphetamine Salt Combination,AK,4,T,0
+2018,Dextroamphetamine Sulfate,AK,4,F,37
+2018,Dextroamphetamine Sulfate,AK,4,T,0
+2018,Lisdexamfetamine Dimesylate,AK,4,F,1233
+2018,Lisdexamfetamine Dimesylate,AK,4,T,0
+2018,Methamphetamine Hydrochloride,AK,4,T,0
+2018,Amphetamine,AZ,1,T,0
+2018,Amphetamine Salt Combination,AZ,1,F,24210
+2018,Amphetamine Salt Combination,AZ,1,T,0
+2018,Dextroamphetamine Sulfate,AZ,1,F,593
+2018,Dextroamphetamine Sulfate,AZ,1,T,0
+2018,Lisdexamfetamine Dimesylate,AZ,1,F,11070
+2018,Lisdexamfetamine Dimesylate,AZ,1,T,0
+2018,Methamphetamine Hydrochloride,AZ,1,T,0
+2018,Amphetamine,AZ,2,T,0
+2018,Amphetamine Salt Combination,AZ,2,F,23388
+2018,Amphetamine Salt Combination,AZ,2,T,0
+2018,Dextroamphetamine Sulfate,AZ,2,F,559
+2018,Dextroamphetamine Sulfate,AZ,2,T,0
+2018,Lisdexamfetamine Dimesylate,AZ,2,F,10538
+2018,Lisdexamfetamine Dimesylate,AZ,2,T,0
+2018,Methamphetamine Hydrochloride,AZ,2,T,0
+2018,Amphetamine,AZ,3,T,0
+2018,Amphetamine Salt Combination,AZ,3,F,23545
+2018,Amphetamine Salt Combination,AZ,3,T,0
+2018,Dextroamphetamine Sulfate,AZ,3,F,540
+2018,Dextroamphetamine Sulfate,AZ,3,T,0
+2018,Lisdexamfetamine Dimesylate,AZ,3,F,10830
+2018,Lisdexamfetamine Dimesylate,AZ,3,T,0
+2018,Methamphetamine Hydrochloride,AZ,3,T,0
+2018,Amphetamine,AZ,4,T,0
+2018,Amphetamine Salt Combination,AZ,4,F,24331
+2018,Amphetamine Salt Combination,AZ,4,T,0
+2018,Dextroamphetamine Sulfate,AZ,4,F,616
+2018,Dextroamphetamine Sulfate,AZ,4,T,0
+2018,Lisdexamfetamine Dimesylate,AZ,4,F,11372
+2018,Lisdexamfetamine Dimesylate,AZ,4,T,0
+2018,Methamphetamine Hydrochloride,AZ,4,T,0
 2018,Amphetamine,CO,1,T,0
 2018,Amphetamine Salt Combination,CO,1,F,18185
 2018,Amphetamine Salt Combination,CO,1,T,0
@@ -434,6 +2458,74 @@ year,gennme,state,quarter,suppression,totalRX
 2018,Lisdexamfetamine Dimesylate,CO,4,F,9417
 2018,Lisdexamfetamine Dimesylate,CO,4,T,0
 2018,Methamphetamine Hydrochloride,CO,4,T,0
+2018,Amphetamine,CT,1,F,54
+2018,Amphetamine,CT,1,T,0
+2018,Amphetamine Salt Combination,CT,1,F,18436
+2018,Amphetamine Salt Combination,CT,1,T,0
+2018,Dextroamphetamine Sulfate,CT,1,F,430
+2018,Dextroamphetamine Sulfate,CT,1,T,0
+2018,Lisdexamfetamine Dimesylate,CT,1,F,14352
+2018,Lisdexamfetamine Dimesylate,CT,1,T,0
+2018,Methamphetamine Hydrochloride,CT,1,T,0
+2018,Amphetamine,CT,2,F,53
+2018,Amphetamine,CT,2,T,0
+2018,Amphetamine Salt Combination,CT,2,F,19110
+2018,Amphetamine Salt Combination,CT,2,T,0
+2018,Dextroamphetamine Sulfate,CT,2,F,446
+2018,Dextroamphetamine Sulfate,CT,2,T,0
+2018,Lisdexamfetamine Dimesylate,CT,2,F,14899
+2018,Lisdexamfetamine Dimesylate,CT,2,T,0
+2018,Methamphetamine Hydrochloride,CT,2,T,0
+2018,Amphetamine,CT,3,F,60
+2018,Amphetamine,CT,3,T,0
+2018,Amphetamine Salt Combination,CT,3,F,20271
+2018,Amphetamine Salt Combination,CT,3,T,0
+2018,Dextroamphetamine Sulfate,CT,3,F,402
+2018,Dextroamphetamine Sulfate,CT,3,T,0
+2018,Lisdexamfetamine Dimesylate,CT,3,F,13647
+2018,Lisdexamfetamine Dimesylate,CT,3,T,0
+2018,Methamphetamine Hydrochloride,CT,3,T,0
+2018,Amphetamine,CT,4,F,86
+2018,Amphetamine,CT,4,T,0
+2018,Amphetamine Salt Combination,CT,4,F,22433
+2018,Amphetamine Salt Combination,CT,4,T,0
+2018,Dextroamphetamine Sulfate,CT,4,F,389
+2018,Dextroamphetamine Sulfate,CT,4,T,0
+2018,Lisdexamfetamine Dimesylate,CT,4,F,14838
+2018,Lisdexamfetamine Dimesylate,CT,4,T,0
+2018,Methamphetamine Hydrochloride,CT,4,T,0
+2018,Amphetamine,DE,1,T,0
+2018,Amphetamine Salt Combination,DE,1,F,5728
+2018,Amphetamine Salt Combination,DE,1,T,0
+2018,Dextroamphetamine Sulfate,DE,1,F,45
+2018,Dextroamphetamine Sulfate,DE,1,T,0
+2018,Lisdexamfetamine Dimesylate,DE,1,F,7373
+2018,Lisdexamfetamine Dimesylate,DE,1,T,0
+2018,Methamphetamine Hydrochloride,DE,1,T,0
+2018,Amphetamine,DE,2,T,0
+2018,Amphetamine Salt Combination,DE,2,F,6062
+2018,Amphetamine Salt Combination,DE,2,T,0
+2018,Dextroamphetamine Sulfate,DE,2,F,91
+2018,Dextroamphetamine Sulfate,DE,2,T,0
+2018,Lisdexamfetamine Dimesylate,DE,2,F,7216
+2018,Lisdexamfetamine Dimesylate,DE,2,T,0
+2018,Methamphetamine Hydrochloride,DE,2,T,0
+2018,Amphetamine,DE,3,T,0
+2018,Amphetamine Salt Combination,DE,3,F,5605
+2018,Amphetamine Salt Combination,DE,3,T,0
+2018,Dextroamphetamine Sulfate,DE,3,F,74
+2018,Dextroamphetamine Sulfate,DE,3,T,0
+2018,Lisdexamfetamine Dimesylate,DE,3,F,6472
+2018,Lisdexamfetamine Dimesylate,DE,3,T,0
+2018,Methamphetamine Hydrochloride,DE,3,T,0
+2018,Amphetamine,DE,4,T,0
+2018,Amphetamine Salt Combination,DE,4,F,5647
+2018,Amphetamine Salt Combination,DE,4,T,0
+2018,Dextroamphetamine Sulfate,DE,4,F,83
+2018,Dextroamphetamine Sulfate,DE,4,T,0
+2018,Lisdexamfetamine Dimesylate,DE,4,F,6913
+2018,Lisdexamfetamine Dimesylate,DE,4,T,0
+2018,Methamphetamine Hydrochloride,DE,4,T,0
 2018,Amphetamine,FL,1,F,56
 2018,Amphetamine,FL,1,T,0
 2018,Amphetamine Salt Combination,FL,1,F,64170
@@ -468,6 +2560,233 @@ year,gennme,state,quarter,suppression,totalRX
 2018,Dextroamphetamine Sulfate,FL,4,T,0
 2018,Lisdexamfetamine Dimesylate,FL,4,F,61807
 2018,Lisdexamfetamine Dimesylate,FL,4,T,0
+2018,Amphetamine Salt Combination,HI,1,F,2705
+2018,Amphetamine Salt Combination,HI,1,T,0
+2018,Dextroamphetamine Sulfate,HI,1,F,156
+2018,Dextroamphetamine Sulfate,HI,1,T,0
+2018,Lisdexamfetamine Dimesylate,HI,1,F,148
+2018,Lisdexamfetamine Dimesylate,HI,1,T,0
+2018,Amphetamine Salt Combination,HI,2,F,2709
+2018,Amphetamine Salt Combination,HI,2,T,0
+2018,Dextroamphetamine Sulfate,HI,2,F,141
+2018,Dextroamphetamine Sulfate,HI,2,T,0
+2018,Lisdexamfetamine Dimesylate,HI,2,F,108
+2018,Lisdexamfetamine Dimesylate,HI,2,T,0
+2018,Amphetamine Salt Combination,HI,3,F,2457
+2018,Amphetamine Salt Combination,HI,3,T,0
+2018,Dextroamphetamine Sulfate,HI,3,F,86
+2018,Dextroamphetamine Sulfate,HI,3,T,0
+2018,Lisdexamfetamine Dimesylate,HI,3,F,71
+2018,Lisdexamfetamine Dimesylate,HI,3,T,0
+2018,Amphetamine Salt Combination,HI,4,F,2227
+2018,Amphetamine Salt Combination,HI,4,T,0
+2018,Dextroamphetamine Sulfate,HI,4,F,74
+2018,Dextroamphetamine Sulfate,HI,4,T,0
+2018,Lisdexamfetamine Dimesylate,HI,4,F,75
+2018,Lisdexamfetamine Dimesylate,HI,4,T,0
+2018,Amphetamine,IL,1,T,0
+2018,Amphetamine Salt Combination,IL,1,F,44679
+2018,Amphetamine Salt Combination,IL,1,T,0
+2018,Dextroamphetamine Sulfate,IL,1,F,257
+2018,Dextroamphetamine Sulfate,IL,1,T,0
+2018,Lisdexamfetamine Dimesylate,IL,1,F,3878
+2018,Lisdexamfetamine Dimesylate,IL,1,T,0
+2018,Methamphetamine Hydrochloride,IL,1,T,0
+2018,Amphetamine,IL,2,T,0
+2018,Amphetamine Salt Combination,IL,2,F,44529
+2018,Amphetamine Salt Combination,IL,2,T,0
+2018,Dextroamphetamine Sulfate,IL,2,F,282
+2018,Dextroamphetamine Sulfate,IL,2,T,0
+2018,Lisdexamfetamine Dimesylate,IL,2,F,3783
+2018,Lisdexamfetamine Dimesylate,IL,2,T,0
+2018,Methamphetamine Hydrochloride,IL,2,T,0
+2018,Amphetamine,IL,3,T,0
+2018,Amphetamine Salt Combination,IL,3,F,44096
+2018,Amphetamine Salt Combination,IL,3,T,0
+2018,Dextroamphetamine Sulfate,IL,3,F,261
+2018,Dextroamphetamine Sulfate,IL,3,T,0
+2018,Lisdexamfetamine Dimesylate,IL,3,F,3535
+2018,Lisdexamfetamine Dimesylate,IL,3,T,0
+2018,Methamphetamine Hydrochloride,IL,3,T,0
+2018,Amphetamine,IL,4,T,0
+2018,Amphetamine Salt Combination,IL,4,F,47025
+2018,Amphetamine Salt Combination,IL,4,T,0
+2018,Dextroamphetamine Sulfate,IL,4,F,245
+2018,Dextroamphetamine Sulfate,IL,4,T,0
+2018,Lisdexamfetamine Dimesylate,IL,4,F,3819
+2018,Lisdexamfetamine Dimesylate,IL,4,T,0
+2018,Methamphetamine Hydrochloride,IL,4,T,0
+2018,Amphetamine,IN,1,F,1159
+2018,Amphetamine,IN,1,T,0
+2018,Amphetamine Salt Combination,IN,1,F,39699
+2018,Amphetamine Salt Combination,IN,1,T,0
+2018,Dextroamphetamine Sulfate,IN,1,F,579
+2018,Dextroamphetamine Sulfate,IN,1,T,0
+2018,Lisdexamfetamine Dimesylate,IN,1,F,39895
+2018,Lisdexamfetamine Dimesylate,IN,1,T,0
+2018,Methamphetamine Hydrochloride,IN,1,T,0
+2018,Amphetamine,IN,2,F,1048
+2018,Amphetamine,IN,2,T,0
+2018,Amphetamine Salt Combination,IN,2,F,40028
+2018,Amphetamine Salt Combination,IN,2,T,0
+2018,Dextroamphetamine Sulfate,IN,2,F,528
+2018,Dextroamphetamine Sulfate,IN,2,T,0
+2018,Lisdexamfetamine Dimesylate,IN,2,F,37337
+2018,Lisdexamfetamine Dimesylate,IN,2,T,0
+2018,Methamphetamine Hydrochloride,IN,2,T,0
+2018,Amphetamine,IN,3,F,1020
+2018,Amphetamine,IN,3,T,0
+2018,Amphetamine Salt Combination,IN,3,F,39286
+2018,Amphetamine Salt Combination,IN,3,T,0
+2018,Dextroamphetamine Sulfate,IN,3,F,588
+2018,Dextroamphetamine Sulfate,IN,3,T,0
+2018,Lisdexamfetamine Dimesylate,IN,3,F,36187
+2018,Lisdexamfetamine Dimesylate,IN,3,T,0
+2018,Methamphetamine Hydrochloride,IN,3,T,0
+2018,Amphetamine,IN,4,F,1041
+2018,Amphetamine,IN,4,T,0
+2018,Amphetamine Salt Combination,IN,4,F,41176
+2018,Amphetamine Salt Combination,IN,4,T,0
+2018,Dextroamphetamine Sulfate,IN,4,F,577
+2018,Dextroamphetamine Sulfate,IN,4,T,0
+2018,Lisdexamfetamine Dimesylate,IN,4,F,37262
+2018,Lisdexamfetamine Dimesylate,IN,4,T,0
+2018,Methamphetamine Hydrochloride,IN,4,T,0
+2018,Amphetamine,KY,1,F,53
+2018,Amphetamine,KY,1,T,0
+2018,Amphetamine Salt Combination,KY,1,F,36010
+2018,Amphetamine Salt Combination,KY,1,T,0
+2018,Dextroamphetamine Sulfate,KY,1,F,735
+2018,Dextroamphetamine Sulfate,KY,1,T,0
+2018,Lisdexamfetamine Dimesylate,KY,1,F,15939
+2018,Lisdexamfetamine Dimesylate,KY,1,T,0
+2018,Methamphetamine Hydrochloride,KY,1,T,0
+2018,Amphetamine,KY,2,F,63
+2018,Amphetamine,KY,2,T,0
+2018,Amphetamine Salt Combination,KY,2,F,34848
+2018,Amphetamine Salt Combination,KY,2,T,0
+2018,Dextroamphetamine Sulfate,KY,2,F,803
+2018,Dextroamphetamine Sulfate,KY,2,T,0
+2018,Lisdexamfetamine Dimesylate,KY,2,F,14797
+2018,Lisdexamfetamine Dimesylate,KY,2,T,0
+2018,Methamphetamine Hydrochloride,KY,2,T,0
+2018,Amphetamine,KY,3,F,33
+2018,Amphetamine,KY,3,T,0
+2018,Amphetamine Salt Combination,KY,3,F,36031
+2018,Amphetamine Salt Combination,KY,3,T,0
+2018,Dextroamphetamine Sulfate,KY,3,F,814
+2018,Dextroamphetamine Sulfate,KY,3,T,0
+2018,Lisdexamfetamine Dimesylate,KY,3,F,14627
+2018,Lisdexamfetamine Dimesylate,KY,3,T,0
+2018,Methamphetamine Hydrochloride,KY,3,T,0
+2018,Amphetamine,KY,4,F,34
+2018,Amphetamine,KY,4,T,0
+2018,Amphetamine Salt Combination,KY,4,F,38984
+2018,Amphetamine Salt Combination,KY,4,T,0
+2018,Dextroamphetamine Sulfate,KY,4,F,902
+2018,Dextroamphetamine Sulfate,KY,4,T,0
+2018,Lisdexamfetamine Dimesylate,KY,4,F,15235
+2018,Lisdexamfetamine Dimesylate,KY,4,T,0
+2018,Methamphetamine Hydrochloride,KY,4,T,0
+2018,Amphetamine,LA,1,F,201
+2018,Amphetamine,LA,1,T,0
+2018,Amphetamine Salt Combination,LA,1,F,73005
+2018,Amphetamine Salt Combination,LA,1,T,0
+2018,Dextroamphetamine Sulfate,LA,1,F,791
+2018,Dextroamphetamine Sulfate,LA,1,T,0
+2018,Lisdexamfetamine Dimesylate,LA,1,F,38037
+2018,Lisdexamfetamine Dimesylate,LA,1,T,0
+2018,Methamphetamine Hydrochloride,LA,1,T,0
+2018,Amphetamine,LA,2,F,184
+2018,Amphetamine,LA,2,T,0
+2018,Amphetamine Salt Combination,LA,2,F,72455
+2018,Amphetamine Salt Combination,LA,2,T,0
+2018,Dextroamphetamine Sulfate,LA,2,F,684
+2018,Dextroamphetamine Sulfate,LA,2,T,0
+2018,Lisdexamfetamine Dimesylate,LA,2,F,35221
+2018,Lisdexamfetamine Dimesylate,LA,2,T,0
+2018,Methamphetamine Hydrochloride,LA,2,T,0
+2018,Amphetamine,LA,3,F,252
+2018,Amphetamine,LA,3,T,0
+2018,Amphetamine Salt Combination,LA,3,F,74904
+2018,Amphetamine Salt Combination,LA,3,T,0
+2018,Dextroamphetamine Sulfate,LA,3,F,638
+2018,Dextroamphetamine Sulfate,LA,3,T,0
+2018,Lisdexamfetamine Dimesylate,LA,3,F,36049
+2018,Lisdexamfetamine Dimesylate,LA,3,T,0
+2018,Methamphetamine Hydrochloride,LA,3,T,0
+2018,Amphetamine,LA,4,F,258
+2018,Amphetamine,LA,4,T,0
+2018,Amphetamine Salt Combination,LA,4,F,80558
+2018,Amphetamine Salt Combination,LA,4,T,0
+2018,Dextroamphetamine Sulfate,LA,4,F,722
+2018,Dextroamphetamine Sulfate,LA,4,T,0
+2018,Lisdexamfetamine Dimesylate,LA,4,F,37507
+2018,Lisdexamfetamine Dimesylate,LA,4,T,0
+2018,Methamphetamine Hydrochloride,LA,4,T,0
+2018,Amphetamine,MI,1,F,498
+2018,Amphetamine,MI,1,T,0
+2018,Amphetamine Salt Combination,MI,1,F,83180
+2018,Amphetamine Salt Combination,MI,1,T,0
+2018,Dextroamphetamine Sulfate,MI,1,F,617
+2018,Dextroamphetamine Sulfate,MI,1,T,0
+2018,Lisdexamfetamine Dimesylate,MI,1,F,33567
+2018,Lisdexamfetamine Dimesylate,MI,1,T,0
+2018,Amphetamine,MI,2,F,434
+2018,Amphetamine,MI,2,T,0
+2018,Amphetamine Salt Combination,MI,2,F,81444
+2018,Amphetamine Salt Combination,MI,2,T,0
+2018,Dextroamphetamine Sulfate,MI,2,F,595
+2018,Dextroamphetamine Sulfate,MI,2,T,0
+2018,Lisdexamfetamine Dimesylate,MI,2,F,32627
+2018,Lisdexamfetamine Dimesylate,MI,2,T,0
+2018,Amphetamine,MI,3,F,388
+2018,Amphetamine,MI,3,T,0
+2018,Amphetamine Salt Combination,MI,3,F,72240
+2018,Amphetamine Salt Combination,MI,3,T,0
+2018,Dextroamphetamine Sulfate,MI,3,F,550
+2018,Dextroamphetamine Sulfate,MI,3,T,0
+2018,Lisdexamfetamine Dimesylate,MI,3,F,29335
+2018,Amphetamine,MI,4,F,402
+2018,Amphetamine,MI,4,T,0
+2018,Amphetamine Salt Combination,MI,4,F,80955
+2018,Amphetamine Salt Combination,MI,4,T,0
+2018,Dextroamphetamine Sulfate,MI,4,F,612
+2018,Dextroamphetamine Sulfate,MI,4,T,0
+2018,Lisdexamfetamine Dimesylate,MI,4,F,32520
+2018,Amphetamine,MO,1,F,1074
+2018,Amphetamine,MO,1,T,0
+2018,Amphetamine Salt Combination,MO,1,F,23438
+2018,Amphetamine Salt Combination,MO,1,T,0
+2018,Dextroamphetamine Sulfate,MO,1,F,692
+2018,Dextroamphetamine Sulfate,MO,1,T,0
+2018,Lisdexamfetamine Dimesylate,MO,1,F,19616
+2018,Lisdexamfetamine Dimesylate,MO,1,T,0
+2018,Methamphetamine Hydrochloride,MO,1,T,0
+2018,Amphetamine,MO,2,F,1074
+2018,Amphetamine Salt Combination,MO,2,F,23063
+2018,Amphetamine Salt Combination,MO,2,T,0
+2018,Dextroamphetamine Sulfate,MO,2,F,691
+2018,Dextroamphetamine Sulfate,MO,2,T,0
+2018,Lisdexamfetamine Dimesylate,MO,2,F,19234
+2018,Lisdexamfetamine Dimesylate,MO,2,T,0
+2018,Methamphetamine Hydrochloride,MO,2,T,0
+2018,Amphetamine,MO,3,F,981
+2018,Amphetamine,MO,3,T,0
+2018,Amphetamine Salt Combination,MO,3,F,20778
+2018,Amphetamine Salt Combination,MO,3,T,0
+2018,Dextroamphetamine Sulfate,MO,3,F,600
+2018,Dextroamphetamine Sulfate,MO,3,T,0
+2018,Lisdexamfetamine Dimesylate,MO,3,F,16739
+2018,Lisdexamfetamine Dimesylate,MO,3,T,0
+2018,Methamphetamine Hydrochloride,MO,3,T,0
+2018,Amphetamine,MO,4,F,1111
+2018,Amphetamine Salt Combination,MO,4,F,22882
+2018,Amphetamine Salt Combination,MO,4,T,0
+2018,Dextroamphetamine Sulfate,MO,4,F,641
+2018,Dextroamphetamine Sulfate,MO,4,T,0
+2018,Lisdexamfetamine Dimesylate,MO,4,F,18515
+2018,Methamphetamine Hydrochloride,MO,4,T,0
 2018,Amphetamine,MS,1,F,1238
 2018,Amphetamine,MS,1,T,0
 2018,Amphetamine Salt Combination,MS,1,F,13260
@@ -500,6 +2819,275 @@ year,gennme,state,quarter,suppression,totalRX
 2018,Dextroamphetamine Sulfate,MS,4,T,0
 2018,Lisdexamfetamine Dimesylate,MS,4,F,23352
 2018,Lisdexamfetamine Dimesylate,MS,4,T,0
+2018,Amphetamine,NC,1,F,1718
+2018,Amphetamine,NC,1,T,0
+2018,Amphetamine Salt Combination,NC,1,F,55272
+2018,Amphetamine Salt Combination,NC,1,T,0
+2018,Dextroamphetamine Sulfate,NC,1,F,1637
+2018,Dextroamphetamine Sulfate,NC,1,T,0
+2018,Lisdexamfetamine Dimesylate,NC,1,F,54742
+2018,Methamphetamine Hydrochloride,NC,1,T,0
+2018,Amphetamine,NC,2,F,1430
+2018,Amphetamine Salt Combination,NC,2,F,45255
+2018,Amphetamine Salt Combination,NC,2,T,0
+2018,Dextroamphetamine Sulfate,NC,2,F,1369
+2018,Dextroamphetamine Sulfate,NC,2,T,0
+2018,Lisdexamfetamine Dimesylate,NC,2,F,45579
+2018,Methamphetamine Hydrochloride,NC,2,T,0
+2018,Amphetamine,NC,3,F,1412
+2018,Amphetamine Salt Combination,NC,3,F,50263
+2018,Amphetamine Salt Combination,NC,3,T,0
+2018,Dextroamphetamine Sulfate,NC,3,F,1340
+2018,Dextroamphetamine Sulfate,NC,3,T,0
+2018,Lisdexamfetamine Dimesylate,NC,3,F,46918
+2018,Methamphetamine Hydrochloride,NC,3,T,0
+2018,Amphetamine,NC,4,F,1381
+2018,Amphetamine Salt Combination,NC,4,F,47893
+2018,Amphetamine Salt Combination,NC,4,T,0
+2018,Dextroamphetamine Sulfate,NC,4,F,1211
+2018,Dextroamphetamine Sulfate,NC,4,T,0
+2018,Lisdexamfetamine Dimesylate,NC,4,F,45458
+2018,Methamphetamine Hydrochloride,NC,4,T,0
+2018,Amphetamine Salt Combination,NH,1,F,5907
+2018,Amphetamine Salt Combination,NH,1,T,0
+2018,Dextroamphetamine Sulfate,NH,1,F,27
+2018,Dextroamphetamine Sulfate,NH,1,T,0
+2018,Lisdexamfetamine Dimesylate,NH,1,F,2482
+2018,Lisdexamfetamine Dimesylate,NH,1,T,0
+2018,Amphetamine Salt Combination,NH,2,F,6188
+2018,Amphetamine Salt Combination,NH,2,T,0
+2018,Dextroamphetamine Sulfate,NH,2,F,16
+2018,Dextroamphetamine Sulfate,NH,2,T,0
+2018,Lisdexamfetamine Dimesylate,NH,2,F,2601
+2018,Lisdexamfetamine Dimesylate,NH,2,T,0
+2018,Amphetamine Salt Combination,NH,3,F,5492
+2018,Amphetamine Salt Combination,NH,3,T,0
+2018,Dextroamphetamine Sulfate,NH,3,F,22
+2018,Dextroamphetamine Sulfate,NH,3,T,0
+2018,Lisdexamfetamine Dimesylate,NH,3,F,2173
+2018,Lisdexamfetamine Dimesylate,NH,3,T,0
+2018,Methamphetamine Hydrochloride,NH,3,T,0
+2018,Amphetamine,NH,4,T,0
+2018,Amphetamine Salt Combination,NH,4,F,7054
+2018,Amphetamine Salt Combination,NH,4,T,0
+2018,Dextroamphetamine Sulfate,NH,4,F,62
+2018,Dextroamphetamine Sulfate,NH,4,T,0
+2018,Lisdexamfetamine Dimesylate,NH,4,F,3014
+2018,Lisdexamfetamine Dimesylate,NH,4,T,0
+2018,Methamphetamine Hydrochloride,NH,4,T,0
+2018,Amphetamine,NJ,1,T,0
+2018,Amphetamine Salt Combination,NJ,1,F,28958
+2018,Amphetamine Salt Combination,NJ,1,T,0
+2018,Dextroamphetamine Sulfate,NJ,1,F,273
+2018,Dextroamphetamine Sulfate,NJ,1,T,0
+2018,Lisdexamfetamine Dimesylate,NJ,1,F,7878
+2018,Lisdexamfetamine Dimesylate,NJ,1,T,0
+2018,Methamphetamine Hydrochloride,NJ,1,F,24
+2018,Methamphetamine Hydrochloride,NJ,1,T,0
+2018,Amphetamine,NJ,2,F,13
+2018,Amphetamine,NJ,2,T,0
+2018,Amphetamine Salt Combination,NJ,2,F,31525
+2018,Amphetamine Salt Combination,NJ,2,T,0
+2018,Dextroamphetamine Sulfate,NJ,2,F,276
+2018,Dextroamphetamine Sulfate,NJ,2,T,0
+2018,Lisdexamfetamine Dimesylate,NJ,2,F,7956
+2018,Lisdexamfetamine Dimesylate,NJ,2,T,0
+2018,Methamphetamine Hydrochloride,NJ,2,F,27
+2018,Methamphetamine Hydrochloride,NJ,2,T,0
+2018,Amphetamine,NJ,3,T,0
+2018,Amphetamine Salt Combination,NJ,3,F,30241
+2018,Amphetamine Salt Combination,NJ,3,T,0
+2018,Dextroamphetamine Sulfate,NJ,3,F,280
+2018,Dextroamphetamine Sulfate,NJ,3,T,0
+2018,Lisdexamfetamine Dimesylate,NJ,3,F,6983
+2018,Lisdexamfetamine Dimesylate,NJ,3,T,0
+2018,Methamphetamine Hydrochloride,NJ,3,F,20
+2018,Methamphetamine Hydrochloride,NJ,3,T,0
+2018,Amphetamine,NJ,4,T,0
+2018,Amphetamine Salt Combination,NJ,4,F,32233
+2018,Amphetamine Salt Combination,NJ,4,T,0
+2018,Dextroamphetamine Sulfate,NJ,4,F,288
+2018,Dextroamphetamine Sulfate,NJ,4,T,0
+2018,Lisdexamfetamine Dimesylate,NJ,4,F,6923
+2018,Lisdexamfetamine Dimesylate,NJ,4,T,0
+2018,Methamphetamine Hydrochloride,NJ,4,T,0
+2018,Amphetamine,NV,1,F,14
+2018,Amphetamine,NV,1,T,0
+2018,Amphetamine Salt Combination,NV,1,F,7816
+2018,Amphetamine Salt Combination,NV,1,T,0
+2018,Dextroamphetamine Sulfate,NV,1,F,48
+2018,Dextroamphetamine Sulfate,NV,1,T,0
+2018,Lisdexamfetamine Dimesylate,NV,1,F,3298
+2018,Lisdexamfetamine Dimesylate,NV,1,T,0
+2018,Methamphetamine Hydrochloride,NV,1,T,0
+2018,Amphetamine,NV,2,F,14
+2018,Amphetamine,NV,2,T,0
+2018,Amphetamine Salt Combination,NV,2,F,7811
+2018,Amphetamine Salt Combination,NV,2,T,0
+2018,Dextroamphetamine Sulfate,NV,2,F,30
+2018,Dextroamphetamine Sulfate,NV,2,T,0
+2018,Lisdexamfetamine Dimesylate,NV,2,F,3161
+2018,Lisdexamfetamine Dimesylate,NV,2,T,0
+2018,Methamphetamine Hydrochloride,NV,2,T,0
+2018,Amphetamine,NV,3,F,15
+2018,Amphetamine,NV,3,T,0
+2018,Amphetamine Salt Combination,NV,3,F,7456
+2018,Amphetamine Salt Combination,NV,3,T,0
+2018,Dextroamphetamine Sulfate,NV,3,F,34
+2018,Dextroamphetamine Sulfate,NV,3,T,0
+2018,Lisdexamfetamine Dimesylate,NV,3,F,3102
+2018,Lisdexamfetamine Dimesylate,NV,3,T,0
+2018,Methamphetamine Hydrochloride,NV,3,T,0
+2018,Amphetamine,NV,4,T,0
+2018,Amphetamine Salt Combination,NV,4,F,7612
+2018,Amphetamine Salt Combination,NV,4,T,0
+2018,Dextroamphetamine Sulfate,NV,4,F,14
+2018,Dextroamphetamine Sulfate,NV,4,T,0
+2018,Lisdexamfetamine Dimesylate,NV,4,F,3229
+2018,Lisdexamfetamine Dimesylate,NV,4,T,0
+2018,Methamphetamine Hydrochloride,NV,4,T,0
+2018,Amphetamine,NY,1,F,23
+2018,Amphetamine,NY,1,T,0
+2018,Amphetamine Salt Combination,NY,1,F,84875
+2018,Amphetamine Salt Combination,NY,1,T,0
+2018,Dextroamphetamine Sulfate,NY,1,F,2275
+2018,Dextroamphetamine Sulfate,NY,1,T,0
+2018,Lisdexamfetamine Dimesylate,NY,1,F,22706
+2018,Lisdexamfetamine Dimesylate,NY,1,T,0
+2018,Methamphetamine Hydrochloride,NY,1,F,29
+2018,Methamphetamine Hydrochloride,NY,1,T,0
+2018,Amphetamine,NY,2,F,49
+2018,Amphetamine,NY,2,T,0
+2018,Amphetamine Salt Combination,NY,2,F,85660
+2018,Amphetamine Salt Combination,NY,2,T,0
+2018,Dextroamphetamine Sulfate,NY,2,F,2105
+2018,Dextroamphetamine Sulfate,NY,2,T,0
+2018,Lisdexamfetamine Dimesylate,NY,2,F,22097
+2018,Lisdexamfetamine Dimesylate,NY,2,T,0
+2018,Methamphetamine Hydrochloride,NY,2,F,25
+2018,Methamphetamine Hydrochloride,NY,2,T,0
+2018,Amphetamine,NY,3,F,33
+2018,Amphetamine,NY,3,T,0
+2018,Amphetamine Salt Combination,NY,3,F,83996
+2018,Amphetamine Salt Combination,NY,3,T,0
+2018,Dextroamphetamine Sulfate,NY,3,F,1883
+2018,Dextroamphetamine Sulfate,NY,3,T,0
+2018,Lisdexamfetamine Dimesylate,NY,3,F,19753
+2018,Lisdexamfetamine Dimesylate,NY,3,T,0
+2018,Methamphetamine Hydrochloride,NY,3,T,0
+2018,Amphetamine,NY,4,F,56
+2018,Amphetamine,NY,4,T,0
+2018,Amphetamine Salt Combination,NY,4,F,90409
+2018,Amphetamine Salt Combination,NY,4,T,0
+2018,Dextroamphetamine Sulfate,NY,4,F,2096
+2018,Dextroamphetamine Sulfate,NY,4,T,0
+2018,Lisdexamfetamine Dimesylate,NY,4,F,21197
+2018,Lisdexamfetamine Dimesylate,NY,4,T,0
+2018,Methamphetamine Hydrochloride,NY,4,T,0
+2018,Amphetamine,OH,1,F,742
+2018,Amphetamine,OH,1,T,0
+2018,Amphetamine Salt Combination,OH,1,F,103074
+2018,Amphetamine Salt Combination,OH,1,T,0
+2018,Dextroamphetamine Sulfate,OH,1,F,1446
+2018,Dextroamphetamine Sulfate,OH,1,T,0
+2018,Lisdexamfetamine Dimesylate,OH,1,F,45589
+2018,Lisdexamfetamine Dimesylate,OH,1,T,0
+2018,Methamphetamine Hydrochloride,OH,1,T,0
+2018,Amphetamine,OH,2,F,804
+2018,Amphetamine,OH,2,T,0
+2018,Amphetamine Salt Combination,OH,2,F,110198
+2018,Amphetamine Salt Combination,OH,2,T,0
+2018,Dextroamphetamine Sulfate,OH,2,F,1639
+2018,Dextroamphetamine Sulfate,OH,2,T,0
+2018,Lisdexamfetamine Dimesylate,OH,2,F,47210
+2018,Lisdexamfetamine Dimesylate,OH,2,T,0
+2018,Methamphetamine Hydrochloride,OH,2,T,0
+2018,Amphetamine,OH,3,F,795
+2018,Amphetamine,OH,3,T,0
+2018,Amphetamine Salt Combination,OH,3,F,98073
+2018,Amphetamine Salt Combination,OH,3,T,0
+2018,Dextroamphetamine Sulfate,OH,3,F,1436
+2018,Dextroamphetamine Sulfate,OH,3,T,0
+2018,Lisdexamfetamine Dimesylate,OH,3,F,41750
+2018,Lisdexamfetamine Dimesylate,OH,3,T,0
+2018,Methamphetamine Hydrochloride,OH,3,T,0
+2018,Amphetamine,OH,4,F,892
+2018,Amphetamine,OH,4,T,0
+2018,Amphetamine Salt Combination,OH,4,F,103085
+2018,Amphetamine Salt Combination,OH,4,T,0
+2018,Dextroamphetamine Sulfate,OH,4,F,1498
+2018,Dextroamphetamine Sulfate,OH,4,T,0
+2018,Lisdexamfetamine Dimesylate,OH,4,F,44397
+2018,Lisdexamfetamine Dimesylate,OH,4,T,0
+2018,Methamphetamine Hydrochloride,OH,4,T,0
+2018,Amphetamine,OK,1,F,49
+2018,Amphetamine,OK,1,T,0
+2018,Amphetamine Salt Combination,OK,1,F,11435
+2018,Amphetamine Salt Combination,OK,1,T,0
+2018,Dextroamphetamine Sulfate,OK,1,T,0
+2018,Lisdexamfetamine Dimesylate,OK,1,F,24728
+2018,Lisdexamfetamine Dimesylate,OK,1,T,0
+2018,Methamphetamine Hydrochloride,OK,1,T,0
+2018,Amphetamine,OK,2,F,55
+2018,Amphetamine,OK,2,T,0
+2018,Amphetamine Salt Combination,OK,2,F,11048
+2018,Amphetamine Salt Combination,OK,2,T,0
+2018,Dextroamphetamine Sulfate,OK,2,T,0
+2018,Lisdexamfetamine Dimesylate,OK,2,F,22790
+2018,Lisdexamfetamine Dimesylate,OK,2,T,0
+2018,Methamphetamine Hydrochloride,OK,2,T,0
+2018,Amphetamine,OK,3,F,56
+2018,Amphetamine,OK,3,T,0
+2018,Amphetamine Salt Combination,OK,3,F,10506
+2018,Amphetamine Salt Combination,OK,3,T,0
+2018,Dextroamphetamine Sulfate,OK,3,T,0
+2018,Lisdexamfetamine Dimesylate,OK,3,F,20962
+2018,Lisdexamfetamine Dimesylate,OK,3,T,0
+2018,Methamphetamine Hydrochloride,OK,3,T,0
+2018,Amphetamine,OK,4,F,15
+2018,Amphetamine,OK,4,T,0
+2018,Amphetamine Salt Combination,OK,4,F,11481
+2018,Amphetamine Salt Combination,OK,4,T,0
+2018,Dextroamphetamine Sulfate,OK,4,F,13
+2018,Dextroamphetamine Sulfate,OK,4,T,0
+2018,Lisdexamfetamine Dimesylate,OK,4,F,23522
+2018,Methamphetamine Hydrochloride,OK,4,T,0
+2018,Amphetamine,PA,1,F,199
+2018,Amphetamine,PA,1,T,0
+2018,Amphetamine Salt Combination,PA,1,F,88287
+2018,Amphetamine Salt Combination,PA,1,T,0
+2018,Dextroamphetamine Sulfate,PA,1,F,2208
+2018,Dextroamphetamine Sulfate,PA,1,T,0
+2018,Lisdexamfetamine Dimesylate,PA,1,F,41461
+2018,Lisdexamfetamine Dimesylate,PA,1,T,0
+2018,Methamphetamine Hydrochloride,PA,1,T,0
+2018,Amphetamine,PA,2,F,193
+2018,Amphetamine,PA,2,T,0
+2018,Amphetamine Salt Combination,PA,2,F,89887
+2018,Amphetamine Salt Combination,PA,2,T,0
+2018,Dextroamphetamine Sulfate,PA,2,F,2115
+2018,Dextroamphetamine Sulfate,PA,2,T,0
+2018,Lisdexamfetamine Dimesylate,PA,2,F,41659
+2018,Lisdexamfetamine Dimesylate,PA,2,T,0
+2018,Methamphetamine Hydrochloride,PA,2,T,0
+2018,Amphetamine,PA,3,F,206
+2018,Amphetamine,PA,3,T,0
+2018,Amphetamine Salt Combination,PA,3,F,85545
+2018,Amphetamine Salt Combination,PA,3,T,0
+2018,Dextroamphetamine Sulfate,PA,3,F,1954
+2018,Dextroamphetamine Sulfate,PA,3,T,0
+2018,Lisdexamfetamine Dimesylate,PA,3,F,38969
+2018,Lisdexamfetamine Dimesylate,PA,3,T,0
+2018,Methamphetamine Hydrochloride,PA,3,T,0
+2018,Amphetamine,PA,4,F,218
+2018,Amphetamine,PA,4,T,0
+2018,Amphetamine Salt Combination,PA,4,F,84682
+2018,Amphetamine Salt Combination,PA,4,T,0
+2018,Dextroamphetamine Sulfate,PA,4,F,2024
+2018,Dextroamphetamine Sulfate,PA,4,T,0
+2018,Lisdexamfetamine Dimesylate,PA,4,F,41699
+2018,Lisdexamfetamine Dimesylate,PA,4,T,0
+2018,Methamphetamine Hydrochloride,PA,4,T,0
 2018,Amphetamine,SC,1,F,61
 2018,Amphetamine,SC,1,T,0
 2018,Amphetamine Salt Combination,SC,1,F,31147
@@ -568,6 +3156,223 @@ year,gennme,state,quarter,suppression,totalRX
 2018,Dextroamphetamine Sulfate,TN,4,T,0
 2018,Lisdexamfetamine Dimesylate,TN,4,F,29665
 2018,Lisdexamfetamine Dimesylate,TN,4,T,0
+2018,Amphetamine,UT,1,F,38
+2018,Amphetamine,UT,1,T,0
+2018,Amphetamine Salt Combination,UT,1,F,7503
+2018,Amphetamine Salt Combination,UT,1,T,0
+2018,Dextroamphetamine Sulfate,UT,1,F,217
+2018,Dextroamphetamine Sulfate,UT,1,T,0
+2018,Lisdexamfetamine Dimesylate,UT,1,F,4713
+2018,Lisdexamfetamine Dimesylate,UT,1,T,0
+2018,Amphetamine,UT,2,F,61
+2018,Amphetamine,UT,2,T,0
+2018,Amphetamine Salt Combination,UT,2,F,7394
+2018,Amphetamine Salt Combination,UT,2,T,0
+2018,Dextroamphetamine Sulfate,UT,2,F,225
+2018,Dextroamphetamine Sulfate,UT,2,T,0
+2018,Lisdexamfetamine Dimesylate,UT,2,F,4437
+2018,Lisdexamfetamine Dimesylate,UT,2,T,0
+2018,Amphetamine,UT,3,F,119
+2018,Amphetamine,UT,3,T,0
+2018,Amphetamine Salt Combination,UT,3,F,7462
+2018,Amphetamine Salt Combination,UT,3,T,0
+2018,Dextroamphetamine Sulfate,UT,3,F,193
+2018,Dextroamphetamine Sulfate,UT,3,T,0
+2018,Lisdexamfetamine Dimesylate,UT,3,F,4239
+2018,Lisdexamfetamine Dimesylate,UT,3,T,0
+2018,Amphetamine,UT,4,F,109
+2018,Amphetamine,UT,4,T,0
+2018,Amphetamine Salt Combination,UT,4,F,7910
+2018,Amphetamine Salt Combination,UT,4,T,0
+2018,Dextroamphetamine Sulfate,UT,4,F,147
+2018,Dextroamphetamine Sulfate,UT,4,T,0
+2018,Lisdexamfetamine Dimesylate,UT,4,F,4480
+2018,Lisdexamfetamine Dimesylate,UT,4,T,0
+2018,Amphetamine,VA,1,F,102
+2018,Amphetamine,VA,1,T,0
+2018,Amphetamine Salt Combination,VA,1,F,25213
+2018,Amphetamine Salt Combination,VA,1,T,0
+2018,Dextroamphetamine Sulfate,VA,1,F,747
+2018,Dextroamphetamine Sulfate,VA,1,T,0
+2018,Lisdexamfetamine Dimesylate,VA,1,F,19299
+2018,Lisdexamfetamine Dimesylate,VA,1,T,0
+2018,Methamphetamine Hydrochloride,VA,1,T,0
+2018,Amphetamine,VA,2,F,82
+2018,Amphetamine,VA,2,T,0
+2018,Amphetamine Salt Combination,VA,2,F,24835
+2018,Amphetamine Salt Combination,VA,2,T,0
+2018,Dextroamphetamine Sulfate,VA,2,F,758
+2018,Dextroamphetamine Sulfate,VA,2,T,0
+2018,Lisdexamfetamine Dimesylate,VA,2,F,18220
+2018,Lisdexamfetamine Dimesylate,VA,2,T,0
+2018,Methamphetamine Hydrochloride,VA,2,T,0
+2018,Amphetamine,VA,3,F,50
+2018,Amphetamine,VA,3,T,0
+2018,Amphetamine Salt Combination,VA,3,F,26435
+2018,Amphetamine Salt Combination,VA,3,T,0
+2018,Dextroamphetamine Sulfate,VA,3,F,727
+2018,Dextroamphetamine Sulfate,VA,3,T,0
+2018,Lisdexamfetamine Dimesylate,VA,3,F,17689
+2018,Lisdexamfetamine Dimesylate,VA,3,T,0
+2018,Methamphetamine Hydrochloride,VA,3,T,0
+2018,Amphetamine,VA,4,F,78
+2018,Amphetamine,VA,4,T,0
+2018,Amphetamine Salt Combination,VA,4,F,29673
+2018,Amphetamine Salt Combination,VA,4,T,0
+2018,Dextroamphetamine Sulfate,VA,4,F,703
+2018,Dextroamphetamine Sulfate,VA,4,T,0
+2018,Lisdexamfetamine Dimesylate,VA,4,F,19691
+2018,Lisdexamfetamine Dimesylate,VA,4,T,0
+2018,Methamphetamine Hydrochloride,VA,4,T,0
+2018,Amphetamine,WA,1,T,0
+2018,Amphetamine Salt Combination,WA,1,F,33443
+2018,Amphetamine Salt Combination,WA,1,T,0
+2018,Dextroamphetamine Sulfate,WA,1,F,1124
+2018,Dextroamphetamine Sulfate,WA,1,T,0
+2018,Lisdexamfetamine Dimesylate,WA,1,F,10806
+2018,Lisdexamfetamine Dimesylate,WA,1,T,0
+2018,Methamphetamine Hydrochloride,WA,1,F,15
+2018,Amphetamine,WA,2,T,0
+2018,Amphetamine Salt Combination,WA,2,F,34589
+2018,Amphetamine Salt Combination,WA,2,T,0
+2018,Dextroamphetamine Sulfate,WA,2,F,1209
+2018,Dextroamphetamine Sulfate,WA,2,T,0
+2018,Lisdexamfetamine Dimesylate,WA,2,F,11057
+2018,Lisdexamfetamine Dimesylate,WA,2,T,0
+2018,Methamphetamine Hydrochloride,WA,2,F,15
+2018,Amphetamine,WA,3,T,0
+2018,Amphetamine Salt Combination,WA,3,F,31881
+2018,Amphetamine Salt Combination,WA,3,T,0
+2018,Dextroamphetamine Sulfate,WA,3,F,1091
+2018,Dextroamphetamine Sulfate,WA,3,T,0
+2018,Lisdexamfetamine Dimesylate,WA,3,F,10512
+2018,Lisdexamfetamine Dimesylate,WA,3,T,0
+2018,Methamphetamine Hydrochloride,WA,3,T,0
+2018,Amphetamine,WA,4,T,0
+2018,Amphetamine Salt Combination,WA,4,F,32389
+2018,Amphetamine Salt Combination,WA,4,T,0
+2018,Dextroamphetamine Sulfate,WA,4,F,1148
+2018,Dextroamphetamine Sulfate,WA,4,T,0
+2018,Lisdexamfetamine Dimesylate,WA,4,F,11246
+2018,Lisdexamfetamine Dimesylate,WA,4,T,0
+2018,Methamphetamine Hydrochloride,WA,4,F,12
+2018,Methamphetamine Hydrochloride,WA,4,T,0
+2018,Amphetamine,WV,1,F,1171
+2018,Amphetamine Salt Combination,WV,1,F,9827
+2018,Amphetamine Salt Combination,WV,1,T,0
+2018,Dextroamphetamine Sulfate,WV,1,F,490
+2018,Dextroamphetamine Sulfate,WV,1,T,0
+2018,Lisdexamfetamine Dimesylate,WV,1,F,15590
+2018,Lisdexamfetamine Dimesylate,WV,1,T,0
+2018,Methamphetamine Hydrochloride,WV,1,T,0
+2018,Amphetamine,WV,2,F,1282
+2018,Amphetamine Salt Combination,WV,2,F,10133
+2018,Amphetamine Salt Combination,WV,2,T,0
+2018,Dextroamphetamine Sulfate,WV,2,F,515
+2018,Dextroamphetamine Sulfate,WV,2,T,0
+2018,Lisdexamfetamine Dimesylate,WV,2,F,15280
+2018,Lisdexamfetamine Dimesylate,WV,2,T,0
+2018,Methamphetamine Hydrochloride,WV,2,T,0
+2018,Amphetamine,WV,3,F,1170
+2018,Amphetamine Salt Combination,WV,3,F,9822
+2018,Amphetamine Salt Combination,WV,3,T,0
+2018,Dextroamphetamine Sulfate,WV,3,F,436
+2018,Dextroamphetamine Sulfate,WV,3,T,0
+2018,Lisdexamfetamine Dimesylate,WV,3,F,13710
+2018,Lisdexamfetamine Dimesylate,WV,3,T,0
+2018,Methamphetamine Hydrochloride,WV,3,T,0
+2018,Amphetamine,WV,4,F,1501
+2018,Amphetamine Salt Combination,WV,4,F,10381
+2018,Amphetamine Salt Combination,WV,4,T,0
+2018,Dextroamphetamine Sulfate,WV,4,F,457
+2018,Dextroamphetamine Sulfate,WV,4,T,0
+2018,Lisdexamfetamine Dimesylate,WV,4,F,14775
+2018,Lisdexamfetamine Dimesylate,WV,4,T,0
+2018,Methamphetamine Hydrochloride,WV,4,T,0
+2018,Amphetamine,WY,1,T,0
+2018,Amphetamine Salt Combination,WY,1,F,1147
+2018,Amphetamine Salt Combination,WY,1,T,0
+2018,Dextroamphetamine Sulfate,WY,1,T,0
+2018,Lisdexamfetamine Dimesylate,WY,1,F,1333
+2018,Lisdexamfetamine Dimesylate,WY,1,T,0
+2018,Amphetamine,WY,2,T,0
+2018,Amphetamine Salt Combination,WY,2,F,1058
+2018,Amphetamine Salt Combination,WY,2,T,0
+2018,Dextroamphetamine Sulfate,WY,2,T,0
+2018,Lisdexamfetamine Dimesylate,WY,2,F,1249
+2018,Lisdexamfetamine Dimesylate,WY,2,T,0
+2018,Amphetamine Salt Combination,WY,3,F,1040
+2018,Amphetamine Salt Combination,WY,3,T,0
+2018,Dextroamphetamine Sulfate,WY,3,T,0
+2018,Lisdexamfetamine Dimesylate,WY,3,F,1073
+2018,Lisdexamfetamine Dimesylate,WY,3,T,0
+2018,Amphetamine,WY,4,T,0
+2018,Amphetamine Salt Combination,WY,4,F,1125
+2018,Amphetamine Salt Combination,WY,4,T,0
+2018,Dextroamphetamine Sulfate,WY,4,T,0
+2018,Lisdexamfetamine Dimesylate,WY,4,F,1154
+2018,Lisdexamfetamine Dimesylate,WY,4,T,0
+2019,Amphetamine,AK,1,T,0
+2019,Amphetamine Salt Combination,AK,1,F,2964
+2019,Amphetamine Salt Combination,AK,1,T,0
+2019,Dextroamphetamine Sulfate,AK,1,F,49
+2019,Dextroamphetamine Sulfate,AK,1,T,0
+2019,Lisdexamfetamine Dimesylate,AK,1,F,1326
+2019,Lisdexamfetamine Dimesylate,AK,1,T,0
+2019,Methamphetamine Hydrochloride,AK,1,T,0
+2019,Amphetamine,AK,2,T,0
+2019,Amphetamine Salt Combination,AK,2,F,3031
+2019,Amphetamine Salt Combination,AK,2,T,0
+2019,Dextroamphetamine Sulfate,AK,2,F,59
+2019,Dextroamphetamine Sulfate,AK,2,T,0
+2019,Lisdexamfetamine Dimesylate,AK,2,F,1349
+2019,Lisdexamfetamine Dimesylate,AK,2,T,0
+2019,Amphetamine,AK,3,T,0
+2019,Amphetamine Salt Combination,AK,3,F,2935
+2019,Amphetamine Salt Combination,AK,3,T,0
+2019,Dextroamphetamine Sulfate,AK,3,F,48
+2019,Dextroamphetamine Sulfate,AK,3,T,0
+2019,Lisdexamfetamine Dimesylate,AK,3,F,1254
+2019,Lisdexamfetamine Dimesylate,AK,3,T,0
+2019,Methamphetamine Hydrochloride,AK,3,T,0
+2019,Amphetamine,AK,4,T,0
+2019,Amphetamine Salt Combination,AK,4,F,2920
+2019,Amphetamine Salt Combination,AK,4,T,0
+2019,Dextroamphetamine Sulfate,AK,4,F,52
+2019,Dextroamphetamine Sulfate,AK,4,T,0
+2019,Lisdexamfetamine Dimesylate,AK,4,F,1347
+2019,Lisdexamfetamine Dimesylate,AK,4,T,0
+2019,Methamphetamine Hydrochloride,AK,4,T,0
+2019,Amphetamine,AZ,1,T,0
+2019,Amphetamine Salt Combination,AZ,1,F,25585
+2019,Amphetamine Salt Combination,AZ,1,T,0
+2019,Dextroamphetamine Sulfate,AZ,1,F,668
+2019,Dextroamphetamine Sulfate,AZ,1,T,0
+2019,Lisdexamfetamine Dimesylate,AZ,1,F,12241
+2019,Lisdexamfetamine Dimesylate,AZ,1,T,0
+2019,Methamphetamine Hydrochloride,AZ,1,T,0
+2019,Amphetamine,AZ,2,T,0
+2019,Amphetamine Salt Combination,AZ,2,F,25518
+2019,Amphetamine Salt Combination,AZ,2,T,0
+2019,Dextroamphetamine Sulfate,AZ,2,F,554
+2019,Dextroamphetamine Sulfate,AZ,2,T,0
+2019,Lisdexamfetamine Dimesylate,AZ,2,F,11912
+2019,Lisdexamfetamine Dimesylate,AZ,2,T,0
+2019,Methamphetamine Hydrochloride,AZ,2,T,0
+2019,Amphetamine,AZ,3,T,0
+2019,Amphetamine Salt Combination,AZ,3,F,26074
+2019,Amphetamine Salt Combination,AZ,3,T,0
+2019,Dextroamphetamine Sulfate,AZ,3,F,580
+2019,Dextroamphetamine Sulfate,AZ,3,T,0
+2019,Lisdexamfetamine Dimesylate,AZ,3,F,12068
+2019,Lisdexamfetamine Dimesylate,AZ,3,T,0
+2019,Amphetamine,AZ,4,T,0
+2019,Amphetamine Salt Combination,AZ,4,F,26425
+2019,Amphetamine Salt Combination,AZ,4,T,0
+2019,Dextroamphetamine Sulfate,AZ,4,F,414
+2019,Dextroamphetamine Sulfate,AZ,4,T,0
+2019,Lisdexamfetamine Dimesylate,AZ,4,F,12499
+2019,Lisdexamfetamine Dimesylate,AZ,4,T,0
 2019,Amphetamine,CO,1,T,0
 2019,Amphetamine Salt Combination,CO,1,F,17207
 2019,Amphetamine Salt Combination,CO,1,T,0
@@ -600,6 +3405,71 @@ year,gennme,state,quarter,suppression,totalRX
 2019,Lisdexamfetamine Dimesylate,CO,4,F,8882
 2019,Lisdexamfetamine Dimesylate,CO,4,T,0
 2019,Methamphetamine Hydrochloride,CO,4,T,0
+2019,Amphetamine,CT,1,F,97
+2019,Amphetamine,CT,1,T,0
+2019,Amphetamine Salt Combination,CT,1,F,22664
+2019,Amphetamine Salt Combination,CT,1,T,0
+2019,Dextroamphetamine Sulfate,CT,1,F,408
+2019,Dextroamphetamine Sulfate,CT,1,T,0
+2019,Lisdexamfetamine Dimesylate,CT,1,F,15160
+2019,Lisdexamfetamine Dimesylate,CT,1,T,0
+2019,Methamphetamine Hydrochloride,CT,1,T,0
+2019,Amphetamine,CT,2,F,107
+2019,Amphetamine,CT,2,T,0
+2019,Amphetamine Salt Combination,CT,2,F,23532
+2019,Amphetamine Salt Combination,CT,2,T,0
+2019,Dextroamphetamine Sulfate,CT,2,F,422
+2019,Dextroamphetamine Sulfate,CT,2,T,0
+2019,Lisdexamfetamine Dimesylate,CT,2,F,15252
+2019,Methamphetamine Hydrochloride,CT,2,T,0
+2019,Amphetamine,CT,3,F,105
+2019,Amphetamine,CT,3,T,0
+2019,Amphetamine Salt Combination,CT,3,F,22958
+2019,Amphetamine Salt Combination,CT,3,T,0
+2019,Dextroamphetamine Sulfate,CT,3,F,417
+2019,Dextroamphetamine Sulfate,CT,3,T,0
+2019,Lisdexamfetamine Dimesylate,CT,3,F,13957
+2019,Methamphetamine Hydrochloride,CT,3,T,0
+2019,Amphetamine,CT,4,F,125
+2019,Amphetamine,CT,4,T,0
+2019,Amphetamine Salt Combination,CT,4,F,21568
+2019,Amphetamine Salt Combination,CT,4,T,0
+2019,Dextroamphetamine Sulfate,CT,4,F,460
+2019,Dextroamphetamine Sulfate,CT,4,T,0
+2019,Lisdexamfetamine Dimesylate,CT,4,F,15244
+2019,Methamphetamine Hydrochloride,CT,4,T,0
+2019,Amphetamine,DE,1,T,0
+2019,Amphetamine Salt Combination,DE,1,F,6045
+2019,Amphetamine Salt Combination,DE,1,T,0
+2019,Dextroamphetamine Sulfate,DE,1,F,88
+2019,Dextroamphetamine Sulfate,DE,1,T,0
+2019,Lisdexamfetamine Dimesylate,DE,1,F,7148
+2019,Lisdexamfetamine Dimesylate,DE,1,T,0
+2019,Methamphetamine Hydrochloride,DE,1,T,0
+2019,Amphetamine,DE,2,T,0
+2019,Amphetamine Salt Combination,DE,2,F,6177
+2019,Amphetamine Salt Combination,DE,2,T,0
+2019,Dextroamphetamine Sulfate,DE,2,F,96
+2019,Dextroamphetamine Sulfate,DE,2,T,0
+2019,Lisdexamfetamine Dimesylate,DE,2,F,6969
+2019,Lisdexamfetamine Dimesylate,DE,2,T,0
+2019,Methamphetamine Hydrochloride,DE,2,T,0
+2019,Amphetamine,DE,3,T,0
+2019,Amphetamine Salt Combination,DE,3,F,6163
+2019,Amphetamine Salt Combination,DE,3,T,0
+2019,Dextroamphetamine Sulfate,DE,3,F,100
+2019,Dextroamphetamine Sulfate,DE,3,T,0
+2019,Lisdexamfetamine Dimesylate,DE,3,F,6736
+2019,Lisdexamfetamine Dimesylate,DE,3,T,0
+2019,Methamphetamine Hydrochloride,DE,3,T,0
+2019,Amphetamine,DE,4,T,0
+2019,Amphetamine Salt Combination,DE,4,F,6405
+2019,Amphetamine Salt Combination,DE,4,T,0
+2019,Dextroamphetamine Sulfate,DE,4,F,86
+2019,Dextroamphetamine Sulfate,DE,4,T,0
+2019,Lisdexamfetamine Dimesylate,DE,4,F,6863
+2019,Lisdexamfetamine Dimesylate,DE,4,T,0
+2019,Methamphetamine Hydrochloride,DE,4,T,0
 2019,Amphetamine,FL,1,F,2952
 2019,Amphetamine,FL,1,T,0
 2019,Amphetamine Salt Combination,FL,1,F,65810
@@ -633,6 +3503,233 @@ year,gennme,state,quarter,suppression,totalRX
 2019,Dextroamphetamine Sulfate,FL,4,T,0
 2019,Lisdexamfetamine Dimesylate,FL,4,F,59397
 2019,Lisdexamfetamine Dimesylate,FL,4,T,0
+2019,Amphetamine Salt Combination,HI,1,F,2836
+2019,Amphetamine Salt Combination,HI,1,T,0
+2019,Dextroamphetamine Sulfate,HI,1,F,74
+2019,Dextroamphetamine Sulfate,HI,1,T,0
+2019,Lisdexamfetamine Dimesylate,HI,1,F,74
+2019,Lisdexamfetamine Dimesylate,HI,1,T,0
+2019,Amphetamine Salt Combination,HI,2,F,2941
+2019,Amphetamine Salt Combination,HI,2,T,0
+2019,Dextroamphetamine Sulfate,HI,2,F,81
+2019,Dextroamphetamine Sulfate,HI,2,T,0
+2019,Lisdexamfetamine Dimesylate,HI,2,F,40
+2019,Lisdexamfetamine Dimesylate,HI,2,T,0
+2019,Amphetamine Salt Combination,HI,3,F,2752
+2019,Amphetamine Salt Combination,HI,3,T,0
+2019,Dextroamphetamine Sulfate,HI,3,F,81
+2019,Dextroamphetamine Sulfate,HI,3,T,0
+2019,Lisdexamfetamine Dimesylate,HI,3,F,64
+2019,Lisdexamfetamine Dimesylate,HI,3,T,0
+2019,Amphetamine Salt Combination,HI,4,F,2519
+2019,Amphetamine Salt Combination,HI,4,T,0
+2019,Dextroamphetamine Sulfate,HI,4,F,68
+2019,Dextroamphetamine Sulfate,HI,4,T,0
+2019,Lisdexamfetamine Dimesylate,HI,4,F,77
+2019,Lisdexamfetamine Dimesylate,HI,4,T,0
+2019,Amphetamine,IL,1,T,0
+2019,Amphetamine Salt Combination,IL,1,F,47236
+2019,Amphetamine Salt Combination,IL,1,T,0
+2019,Dextroamphetamine Sulfate,IL,1,F,283
+2019,Dextroamphetamine Sulfate,IL,1,T,0
+2019,Lisdexamfetamine Dimesylate,IL,1,F,3959
+2019,Lisdexamfetamine Dimesylate,IL,1,T,0
+2019,Methamphetamine Hydrochloride,IL,1,T,0
+2019,Amphetamine,IL,2,T,0
+2019,Amphetamine Salt Combination,IL,2,F,47502
+2019,Amphetamine Salt Combination,IL,2,T,0
+2019,Dextroamphetamine Sulfate,IL,2,F,316
+2019,Dextroamphetamine Sulfate,IL,2,T,0
+2019,Lisdexamfetamine Dimesylate,IL,2,F,3964
+2019,Lisdexamfetamine Dimesylate,IL,2,T,0
+2019,Methamphetamine Hydrochloride,IL,2,T,0
+2019,Amphetamine,IL,3,T,0
+2019,Amphetamine Salt Combination,IL,3,F,46200
+2019,Amphetamine Salt Combination,IL,3,T,0
+2019,Dextroamphetamine Sulfate,IL,3,F,360
+2019,Dextroamphetamine Sulfate,IL,3,T,0
+2019,Lisdexamfetamine Dimesylate,IL,3,F,4007
+2019,Lisdexamfetamine Dimesylate,IL,3,T,0
+2019,Methamphetamine Hydrochloride,IL,3,T,0
+2019,Amphetamine,IL,4,T,0
+2019,Amphetamine Salt Combination,IL,4,F,48376
+2019,Amphetamine Salt Combination,IL,4,T,0
+2019,Dextroamphetamine Sulfate,IL,4,F,458
+2019,Dextroamphetamine Sulfate,IL,4,T,0
+2019,Lisdexamfetamine Dimesylate,IL,4,F,4395
+2019,Lisdexamfetamine Dimesylate,IL,4,T,0
+2019,Methamphetamine Hydrochloride,IL,4,T,0
+2019,Amphetamine,IN,1,F,1115
+2019,Amphetamine,IN,1,T,0
+2019,Amphetamine Salt Combination,IN,1,F,39934
+2019,Amphetamine Salt Combination,IN,1,T,0
+2019,Dextroamphetamine Sulfate,IN,1,F,591
+2019,Dextroamphetamine Sulfate,IN,1,T,0
+2019,Lisdexamfetamine Dimesylate,IN,1,F,37215
+2019,Lisdexamfetamine Dimesylate,IN,1,T,0
+2019,Methamphetamine Hydrochloride,IN,1,T,0
+2019,Amphetamine,IN,2,F,995
+2019,Amphetamine,IN,2,T,0
+2019,Amphetamine Salt Combination,IN,2,F,40718
+2019,Amphetamine Salt Combination,IN,2,T,0
+2019,Dextroamphetamine Sulfate,IN,2,F,567
+2019,Dextroamphetamine Sulfate,IN,2,T,0
+2019,Lisdexamfetamine Dimesylate,IN,2,F,35726
+2019,Lisdexamfetamine Dimesylate,IN,2,T,0
+2019,Methamphetamine Hydrochloride,IN,2,T,0
+2019,Amphetamine,IN,3,F,881
+2019,Amphetamine,IN,3,T,0
+2019,Amphetamine Salt Combination,IN,3,F,40457
+2019,Amphetamine Salt Combination,IN,3,T,0
+2019,Dextroamphetamine Sulfate,IN,3,F,594
+2019,Dextroamphetamine Sulfate,IN,3,T,0
+2019,Lisdexamfetamine Dimesylate,IN,3,F,35368
+2019,Lisdexamfetamine Dimesylate,IN,3,T,0
+2019,Methamphetamine Hydrochloride,IN,3,T,0
+2019,Amphetamine,IN,4,F,842
+2019,Amphetamine,IN,4,T,0
+2019,Amphetamine Salt Combination,IN,4,F,41819
+2019,Amphetamine Salt Combination,IN,4,T,0
+2019,Dextroamphetamine Sulfate,IN,4,F,624
+2019,Dextroamphetamine Sulfate,IN,4,T,0
+2019,Lisdexamfetamine Dimesylate,IN,4,F,36457
+2019,Lisdexamfetamine Dimesylate,IN,4,T,0
+2019,Methamphetamine Hydrochloride,IN,4,T,0
+2019,Amphetamine,KY,1,F,52
+2019,Amphetamine,KY,1,T,0
+2019,Amphetamine Salt Combination,KY,1,F,40538
+2019,Amphetamine Salt Combination,KY,1,T,0
+2019,Dextroamphetamine Sulfate,KY,1,F,935
+2019,Dextroamphetamine Sulfate,KY,1,T,0
+2019,Lisdexamfetamine Dimesylate,KY,1,F,15086
+2019,Lisdexamfetamine Dimesylate,KY,1,T,0
+2019,Methamphetamine Hydrochloride,KY,1,T,0
+2019,Amphetamine,KY,2,F,19
+2019,Amphetamine,KY,2,T,0
+2019,Amphetamine Salt Combination,KY,2,F,39743
+2019,Amphetamine Salt Combination,KY,2,T,0
+2019,Dextroamphetamine Sulfate,KY,2,F,864
+2019,Dextroamphetamine Sulfate,KY,2,T,0
+2019,Lisdexamfetamine Dimesylate,KY,2,F,14043
+2019,Lisdexamfetamine Dimesylate,KY,2,T,0
+2019,Methamphetamine Hydrochloride,KY,2,T,0
+2019,Amphetamine,KY,3,F,44
+2019,Amphetamine,KY,3,T,0
+2019,Amphetamine Salt Combination,KY,3,F,40574
+2019,Amphetamine Salt Combination,KY,3,T,0
+2019,Dextroamphetamine Sulfate,KY,3,F,873
+2019,Dextroamphetamine Sulfate,KY,3,T,0
+2019,Lisdexamfetamine Dimesylate,KY,3,F,11449
+2019,Lisdexamfetamine Dimesylate,KY,3,T,0
+2019,Methamphetamine Hydrochloride,KY,3,T,0
+2019,Amphetamine,KY,4,F,23
+2019,Amphetamine,KY,4,T,0
+2019,Amphetamine Salt Combination,KY,4,F,40936
+2019,Amphetamine Salt Combination,KY,4,T,0
+2019,Dextroamphetamine Sulfate,KY,4,F,862
+2019,Dextroamphetamine Sulfate,KY,4,T,0
+2019,Lisdexamfetamine Dimesylate,KY,4,F,10962
+2019,Lisdexamfetamine Dimesylate,KY,4,T,0
+2019,Methamphetamine Hydrochloride,KY,4,T,0
+2019,Amphetamine,LA,1,F,277
+2019,Amphetamine,LA,1,T,0
+2019,Amphetamine Salt Combination,LA,1,F,84193
+2019,Amphetamine Salt Combination,LA,1,T,0
+2019,Dextroamphetamine Sulfate,LA,1,F,733
+2019,Dextroamphetamine Sulfate,LA,1,T,0
+2019,Lisdexamfetamine Dimesylate,LA,1,F,38131
+2019,Lisdexamfetamine Dimesylate,LA,1,T,0
+2019,Methamphetamine Hydrochloride,LA,1,T,0
+2019,Amphetamine,LA,2,F,217
+2019,Amphetamine,LA,2,T,0
+2019,Amphetamine Salt Combination,LA,2,F,75681
+2019,Amphetamine Salt Combination,LA,2,T,0
+2019,Dextroamphetamine Sulfate,LA,2,F,511
+2019,Dextroamphetamine Sulfate,LA,2,T,0
+2019,Lisdexamfetamine Dimesylate,LA,2,F,33471
+2019,Lisdexamfetamine Dimesylate,LA,2,T,0
+2019,Methamphetamine Hydrochloride,LA,2,T,0
+2019,Amphetamine,LA,3,F,267
+2019,Amphetamine,LA,3,T,0
+2019,Amphetamine Salt Combination,LA,3,F,76869
+2019,Amphetamine Salt Combination,LA,3,T,0
+2019,Dextroamphetamine Sulfate,LA,3,F,578
+2019,Dextroamphetamine Sulfate,LA,3,T,0
+2019,Lisdexamfetamine Dimesylate,LA,3,F,37079
+2019,Lisdexamfetamine Dimesylate,LA,3,T,0
+2019,Methamphetamine Hydrochloride,LA,3,T,0
+2019,Amphetamine,LA,4,F,300
+2019,Amphetamine,LA,4,T,0
+2019,Amphetamine Salt Combination,LA,4,F,77848
+2019,Amphetamine Salt Combination,LA,4,T,0
+2019,Dextroamphetamine Sulfate,LA,4,F,592
+2019,Dextroamphetamine Sulfate,LA,4,T,0
+2019,Lisdexamfetamine Dimesylate,LA,4,F,40002
+2019,Lisdexamfetamine Dimesylate,LA,4,T,0
+2019,Amphetamine,MI,1,F,368
+2019,Amphetamine,MI,1,T,0
+2019,Amphetamine Salt Combination,MI,1,F,81979
+2019,Amphetamine Salt Combination,MI,1,T,0
+2019,Dextroamphetamine Sulfate,MI,1,F,670
+2019,Dextroamphetamine Sulfate,MI,1,T,0
+2019,Lisdexamfetamine Dimesylate,MI,1,F,32955
+2019,Amphetamine,MI,2,F,375
+2019,Amphetamine,MI,2,T,0
+2019,Amphetamine Salt Combination,MI,2,F,81631
+2019,Amphetamine Salt Combination,MI,2,T,0
+2019,Dextroamphetamine Sulfate,MI,2,F,671
+2019,Dextroamphetamine Sulfate,MI,2,T,0
+2019,Lisdexamfetamine Dimesylate,MI,2,F,32796
+2019,Amphetamine,MI,3,F,318
+2019,Amphetamine,MI,3,T,0
+2019,Amphetamine Salt Combination,MI,3,F,77164
+2019,Amphetamine Salt Combination,MI,3,T,0
+2019,Dextroamphetamine Sulfate,MI,3,F,503
+2019,Dextroamphetamine Sulfate,MI,3,T,0
+2019,Lisdexamfetamine Dimesylate,MI,3,F,29359
+2019,Methamphetamine Hydrochloride,MI,3,T,0
+2019,Amphetamine,MI,4,F,312
+2019,Amphetamine,MI,4,T,0
+2019,Amphetamine Salt Combination,MI,4,F,81048
+2019,Amphetamine Salt Combination,MI,4,T,0
+2019,Dextroamphetamine Sulfate,MI,4,F,601
+2019,Dextroamphetamine Sulfate,MI,4,T,0
+2019,Lisdexamfetamine Dimesylate,MI,4,F,32372
+2019,Lisdexamfetamine Dimesylate,MI,4,T,0
+2019,Methamphetamine Hydrochloride,MI,4,T,0
+2019,Amphetamine,MO,1,F,918
+2019,Amphetamine,MO,1,T,0
+2019,Amphetamine Salt Combination,MO,1,F,22035
+2019,Amphetamine Salt Combination,MO,1,T,0
+2019,Dextroamphetamine Sulfate,MO,1,F,627
+2019,Dextroamphetamine Sulfate,MO,1,T,0
+2019,Lisdexamfetamine Dimesylate,MO,1,F,18094
+2019,Methamphetamine Hydrochloride,MO,1,T,0
+2019,Amphetamine,MO,2,F,788
+2019,Amphetamine,MO,2,T,0
+2019,Amphetamine Salt Combination,MO,2,F,21433
+2019,Amphetamine Salt Combination,MO,2,T,0
+2019,Dextroamphetamine Sulfate,MO,2,F,595
+2019,Dextroamphetamine Sulfate,MO,2,T,0
+2019,Lisdexamfetamine Dimesylate,MO,2,F,18051
+2019,Methamphetamine Hydrochloride,MO,2,T,0
+2019,Amphetamine,MO,3,F,641
+2019,Amphetamine,MO,3,T,0
+2019,Amphetamine Salt Combination,MO,3,F,20517
+2019,Amphetamine Salt Combination,MO,3,T,0
+2019,Dextroamphetamine Sulfate,MO,3,F,558
+2019,Dextroamphetamine Sulfate,MO,3,T,0
+2019,Lisdexamfetamine Dimesylate,MO,3,F,17052
+2019,Lisdexamfetamine Dimesylate,MO,3,T,0
+2019,Methamphetamine Hydrochloride,MO,3,T,0
+2019,Amphetamine,MO,4,F,580
+2019,Amphetamine,MO,4,T,0
+2019,Amphetamine Salt Combination,MO,4,F,20502
+2019,Amphetamine Salt Combination,MO,4,T,0
+2019,Dextroamphetamine Sulfate,MO,4,F,539
+2019,Dextroamphetamine Sulfate,MO,4,T,0
+2019,Lisdexamfetamine Dimesylate,MO,4,F,17781
+2019,Methamphetamine Hydrochloride,MO,4,T,0
 2019,Amphetamine,MS,1,F,669
 2019,Amphetamine,MS,1,T,0
 2019,Amphetamine Salt Combination,MS,1,F,13211
@@ -665,6 +3762,272 @@ year,gennme,state,quarter,suppression,totalRX
 2019,Dextroamphetamine Sulfate,MS,4,T,0
 2019,Lisdexamfetamine Dimesylate,MS,4,F,22706
 2019,Lisdexamfetamine Dimesylate,MS,4,T,0
+2019,Amphetamine,NC,1,F,1582
+2019,Amphetamine Salt Combination,NC,1,F,56987
+2019,Amphetamine Salt Combination,NC,1,T,0
+2019,Dextroamphetamine Sulfate,NC,1,F,1368
+2019,Dextroamphetamine Sulfate,NC,1,T,0
+2019,Lisdexamfetamine Dimesylate,NC,1,F,53667
+2019,Methamphetamine Hydrochloride,NC,1,T,0
+2019,Amphetamine,NC,2,F,1259
+2019,Amphetamine,NC,2,T,0
+2019,Amphetamine Salt Combination,NC,2,F,47999
+2019,Amphetamine Salt Combination,NC,2,T,0
+2019,Dextroamphetamine Sulfate,NC,2,F,1101
+2019,Dextroamphetamine Sulfate,NC,2,T,0
+2019,Lisdexamfetamine Dimesylate,NC,2,F,43991
+2019,Methamphetamine Hydrochloride,NC,2,T,0
+2019,Amphetamine,NC,3,F,1267
+2019,Amphetamine,NC,3,T,0
+2019,Amphetamine Salt Combination,NC,3,F,51267
+2019,Amphetamine Salt Combination,NC,3,T,0
+2019,Dextroamphetamine Sulfate,NC,3,F,1164
+2019,Dextroamphetamine Sulfate,NC,3,T,0
+2019,Lisdexamfetamine Dimesylate,NC,3,F,44727
+2019,Amphetamine,NC,4,F,1347
+2019,Amphetamine Salt Combination,NC,4,F,52321
+2019,Amphetamine Salt Combination,NC,4,T,0
+2019,Dextroamphetamine Sulfate,NC,4,F,1168
+2019,Dextroamphetamine Sulfate,NC,4,T,0
+2019,Lisdexamfetamine Dimesylate,NC,4,F,50082
+2019,Amphetamine,NH,1,T,0
+2019,Amphetamine Salt Combination,NH,1,F,9355
+2019,Amphetamine Salt Combination,NH,1,T,0
+2019,Dextroamphetamine Sulfate,NH,1,F,108
+2019,Dextroamphetamine Sulfate,NH,1,T,0
+2019,Lisdexamfetamine Dimesylate,NH,1,F,3660
+2019,Lisdexamfetamine Dimesylate,NH,1,T,0
+2019,Methamphetamine Hydrochloride,NH,1,T,0
+2019,Amphetamine,NH,2,T,0
+2019,Amphetamine Salt Combination,NH,2,F,9858
+2019,Amphetamine Salt Combination,NH,2,T,0
+2019,Dextroamphetamine Sulfate,NH,2,F,136
+2019,Dextroamphetamine Sulfate,NH,2,T,0
+2019,Lisdexamfetamine Dimesylate,NH,2,F,3626
+2019,Lisdexamfetamine Dimesylate,NH,2,T,0
+2019,Methamphetamine Hydrochloride,NH,2,T,0
+2019,Amphetamine,NH,3,T,0
+2019,Amphetamine Salt Combination,NH,3,F,8230
+2019,Amphetamine Salt Combination,NH,3,T,0
+2019,Dextroamphetamine Sulfate,NH,3,F,118
+2019,Dextroamphetamine Sulfate,NH,3,T,0
+2019,Lisdexamfetamine Dimesylate,NH,3,F,3238
+2019,Lisdexamfetamine Dimesylate,NH,3,T,0
+2019,Methamphetamine Hydrochloride,NH,3,T,0
+2019,Amphetamine,NH,4,T,0
+2019,Amphetamine Salt Combination,NH,4,F,7008
+2019,Amphetamine Salt Combination,NH,4,T,0
+2019,Dextroamphetamine Sulfate,NH,4,F,56
+2019,Dextroamphetamine Sulfate,NH,4,T,0
+2019,Lisdexamfetamine Dimesylate,NH,4,F,3038
+2019,Lisdexamfetamine Dimesylate,NH,4,T,0
+2019,Methamphetamine Hydrochloride,NH,4,T,0
+2019,Amphetamine,NJ,1,T,0
+2019,Amphetamine Salt Combination,NJ,1,F,32287
+2019,Amphetamine Salt Combination,NJ,1,T,0
+2019,Dextroamphetamine Sulfate,NJ,1,F,253
+2019,Dextroamphetamine Sulfate,NJ,1,T,0
+2019,Lisdexamfetamine Dimesylate,NJ,1,F,6861
+2019,Lisdexamfetamine Dimesylate,NJ,1,T,0
+2019,Methamphetamine Hydrochloride,NJ,1,T,0
+2019,Amphetamine,NJ,2,T,0
+2019,Amphetamine Salt Combination,NJ,2,F,32767
+2019,Amphetamine Salt Combination,NJ,2,T,0
+2019,Dextroamphetamine Sulfate,NJ,2,F,285
+2019,Dextroamphetamine Sulfate,NJ,2,T,0
+2019,Lisdexamfetamine Dimesylate,NJ,2,F,6531
+2019,Lisdexamfetamine Dimesylate,NJ,2,T,0
+2019,Methamphetamine Hydrochloride,NJ,2,F,17
+2019,Methamphetamine Hydrochloride,NJ,2,T,0
+2019,Amphetamine,NJ,3,T,0
+2019,Amphetamine Salt Combination,NJ,3,F,32022
+2019,Amphetamine Salt Combination,NJ,3,T,0
+2019,Dextroamphetamine Sulfate,NJ,3,F,269
+2019,Dextroamphetamine Sulfate,NJ,3,T,0
+2019,Lisdexamfetamine Dimesylate,NJ,3,F,5938
+2019,Lisdexamfetamine Dimesylate,NJ,3,T,0
+2019,Methamphetamine Hydrochloride,NJ,3,T,0
+2019,Amphetamine,NJ,4,T,0
+2019,Amphetamine Salt Combination,NJ,4,F,33912
+2019,Amphetamine Salt Combination,NJ,4,T,0
+2019,Dextroamphetamine Sulfate,NJ,4,F,297
+2019,Dextroamphetamine Sulfate,NJ,4,T,0
+2019,Lisdexamfetamine Dimesylate,NJ,4,F,6135
+2019,Lisdexamfetamine Dimesylate,NJ,4,T,0
+2019,Methamphetamine Hydrochloride,NJ,4,T,0
+2019,Amphetamine,NV,1,F,19
+2019,Amphetamine,NV,1,T,0
+2019,Amphetamine Salt Combination,NV,1,F,7733
+2019,Amphetamine Salt Combination,NV,1,T,0
+2019,Dextroamphetamine Sulfate,NV,1,F,60
+2019,Dextroamphetamine Sulfate,NV,1,T,0
+2019,Lisdexamfetamine Dimesylate,NV,1,F,3301
+2019,Lisdexamfetamine Dimesylate,NV,1,T,0
+2019,Methamphetamine Hydrochloride,NV,1,T,0
+2019,Amphetamine,NV,2,F,37
+2019,Amphetamine,NV,2,T,0
+2019,Amphetamine Salt Combination,NV,2,F,7465
+2019,Amphetamine Salt Combination,NV,2,T,0
+2019,Dextroamphetamine Sulfate,NV,2,T,0
+2019,Lisdexamfetamine Dimesylate,NV,2,F,3158
+2019,Lisdexamfetamine Dimesylate,NV,2,T,0
+2019,Methamphetamine Hydrochloride,NV,2,T,0
+2019,Amphetamine,NV,3,F,19
+2019,Amphetamine,NV,3,T,0
+2019,Amphetamine Salt Combination,NV,3,F,7913
+2019,Amphetamine Salt Combination,NV,3,T,0
+2019,Dextroamphetamine Sulfate,NV,3,F,40
+2019,Dextroamphetamine Sulfate,NV,3,T,0
+2019,Lisdexamfetamine Dimesylate,NV,3,F,3177
+2019,Lisdexamfetamine Dimesylate,NV,3,T,0
+2019,Methamphetamine Hydrochloride,NV,3,T,0
+2019,Amphetamine,NV,4,F,13
+2019,Amphetamine,NV,4,T,0
+2019,Amphetamine Salt Combination,NV,4,F,8178
+2019,Amphetamine Salt Combination,NV,4,T,0
+2019,Dextroamphetamine Sulfate,NV,4,F,52
+2019,Dextroamphetamine Sulfate,NV,4,T,0
+2019,Lisdexamfetamine Dimesylate,NV,4,F,3305
+2019,Lisdexamfetamine Dimesylate,NV,4,T,0
+2019,Methamphetamine Hydrochloride,NV,4,T,0
+2019,Amphetamine,NY,1,F,71
+2019,Amphetamine,NY,1,T,0
+2019,Amphetamine Salt Combination,NY,1,F,93716
+2019,Amphetamine Salt Combination,NY,1,T,0
+2019,Dextroamphetamine Sulfate,NY,1,F,2224
+2019,Dextroamphetamine Sulfate,NY,1,T,0
+2019,Lisdexamfetamine Dimesylate,NY,1,F,23909
+2019,Lisdexamfetamine Dimesylate,NY,1,T,0
+2019,Methamphetamine Hydrochloride,NY,1,F,32
+2019,Methamphetamine Hydrochloride,NY,1,T,0
+2019,Amphetamine,NY,2,F,49
+2019,Amphetamine,NY,2,T,0
+2019,Amphetamine Salt Combination,NY,2,F,91911
+2019,Amphetamine Salt Combination,NY,2,T,0
+2019,Dextroamphetamine Sulfate,NY,2,F,2105
+2019,Dextroamphetamine Sulfate,NY,2,T,0
+2019,Lisdexamfetamine Dimesylate,NY,2,F,21489
+2019,Lisdexamfetamine Dimesylate,NY,2,T,0
+2019,Methamphetamine Hydrochloride,NY,2,T,0
+2019,Amphetamine,NY,3,F,34
+2019,Amphetamine,NY,3,T,0
+2019,Amphetamine Salt Combination,NY,3,F,89979
+2019,Amphetamine Salt Combination,NY,3,T,0
+2019,Dextroamphetamine Sulfate,NY,3,F,1980
+2019,Dextroamphetamine Sulfate,NY,3,T,0
+2019,Lisdexamfetamine Dimesylate,NY,3,F,20304
+2019,Lisdexamfetamine Dimesylate,NY,3,T,0
+2019,Methamphetamine Hydrochloride,NY,3,F,16
+2019,Methamphetamine Hydrochloride,NY,3,T,0
+2019,Amphetamine,NY,4,T,0
+2019,Amphetamine Salt Combination,NY,4,F,94409
+2019,Amphetamine Salt Combination,NY,4,T,0
+2019,Dextroamphetamine Sulfate,NY,4,F,2039
+2019,Dextroamphetamine Sulfate,NY,4,T,0
+2019,Lisdexamfetamine Dimesylate,NY,4,F,20971
+2019,Lisdexamfetamine Dimesylate,NY,4,T,0
+2019,Methamphetamine Hydrochloride,NY,4,F,14
+2019,Methamphetamine Hydrochloride,NY,4,T,0
+2019,Amphetamine,OH,1,F,816
+2019,Amphetamine,OH,1,T,0
+2019,Amphetamine Salt Combination,OH,1,F,105278
+2019,Amphetamine Salt Combination,OH,1,T,0
+2019,Dextroamphetamine Sulfate,OH,1,F,1522
+2019,Dextroamphetamine Sulfate,OH,1,T,0
+2019,Lisdexamfetamine Dimesylate,OH,1,F,44650
+2019,Lisdexamfetamine Dimesylate,OH,1,T,0
+2019,Methamphetamine Hydrochloride,OH,1,T,0
+2019,Amphetamine,OH,2,F,749
+2019,Amphetamine,OH,2,T,0
+2019,Amphetamine Salt Combination,OH,2,F,103878
+2019,Amphetamine Salt Combination,OH,2,T,0
+2019,Dextroamphetamine Sulfate,OH,2,F,1470
+2019,Dextroamphetamine Sulfate,OH,2,T,0
+2019,Lisdexamfetamine Dimesylate,OH,2,F,42641
+2019,Lisdexamfetamine Dimesylate,OH,2,T,0
+2019,Methamphetamine Hydrochloride,OH,2,T,0
+2019,Amphetamine,OH,3,F,635
+2019,Amphetamine,OH,3,T,0
+2019,Amphetamine Salt Combination,OH,3,F,100394
+2019,Amphetamine Salt Combination,OH,3,T,0
+2019,Dextroamphetamine Sulfate,OH,3,F,1474
+2019,Dextroamphetamine Sulfate,OH,3,T,0
+2019,Lisdexamfetamine Dimesylate,OH,3,F,41101
+2019,Lisdexamfetamine Dimesylate,OH,3,T,0
+2019,Methamphetamine Hydrochloride,OH,3,T,0
+2019,Amphetamine,OH,4,F,674
+2019,Amphetamine,OH,4,T,0
+2019,Amphetamine Salt Combination,OH,4,F,104890
+2019,Amphetamine Salt Combination,OH,4,T,0
+2019,Dextroamphetamine Sulfate,OH,4,F,1495
+2019,Dextroamphetamine Sulfate,OH,4,T,0
+2019,Lisdexamfetamine Dimesylate,OH,4,F,42991
+2019,Lisdexamfetamine Dimesylate,OH,4,T,0
+2019,Methamphetamine Hydrochloride,OH,4,T,0
+2019,Amphetamine,OK,1,F,26
+2019,Amphetamine,OK,1,T,0
+2019,Amphetamine Salt Combination,OK,1,F,10021
+2019,Amphetamine Salt Combination,OK,1,T,0
+2019,Dextroamphetamine Sulfate,OK,1,F,13
+2019,Dextroamphetamine Sulfate,OK,1,T,0
+2019,Lisdexamfetamine Dimesylate,OK,1,F,22889
+2019,Lisdexamfetamine Dimesylate,OK,1,T,0
+2019,Methamphetamine Hydrochloride,OK,1,T,0
+2019,Amphetamine,OK,2,T,0
+2019,Amphetamine Salt Combination,OK,2,F,9712
+2019,Amphetamine Salt Combination,OK,2,T,0
+2019,Dextroamphetamine Sulfate,OK,2,T,0
+2019,Lisdexamfetamine Dimesylate,OK,2,F,21769
+2019,Methamphetamine Hydrochloride,OK,2,T,0
+2019,Amphetamine,OK,3,T,0
+2019,Amphetamine Salt Combination,OK,3,F,9005
+2019,Amphetamine Salt Combination,OK,3,T,0
+2019,Dextroamphetamine Sulfate,OK,3,T,0
+2019,Lisdexamfetamine Dimesylate,OK,3,F,19960
+2019,Methamphetamine Hydrochloride,OK,3,T,0
+2019,Amphetamine,OK,4,T,0
+2019,Amphetamine Salt Combination,OK,4,F,9790
+2019,Amphetamine Salt Combination,OK,4,T,0
+2019,Dextroamphetamine Sulfate,OK,4,T,0
+2019,Lisdexamfetamine Dimesylate,OK,4,F,22895
+2019,Amphetamine,PA,1,F,224
+2019,Amphetamine,PA,1,T,0
+2019,Amphetamine Salt Combination,PA,1,F,83967
+2019,Amphetamine Salt Combination,PA,1,T,0
+2019,Dextroamphetamine Sulfate,PA,1,F,2020
+2019,Dextroamphetamine Sulfate,PA,1,T,0
+2019,Lisdexamfetamine Dimesylate,PA,1,F,42656
+2019,Lisdexamfetamine Dimesylate,PA,1,T,0
+2019,Methamphetamine Hydrochloride,PA,1,T,0
+2019,Amphetamine,PA,2,F,245
+2019,Amphetamine,PA,2,T,0
+2019,Amphetamine Salt Combination,PA,2,F,84081
+2019,Amphetamine Salt Combination,PA,2,T,0
+2019,Dextroamphetamine Sulfate,PA,2,F,1907
+2019,Dextroamphetamine Sulfate,PA,2,T,0
+2019,Lisdexamfetamine Dimesylate,PA,2,F,42064
+2019,Lisdexamfetamine Dimesylate,PA,2,T,0
+2019,Methamphetamine Hydrochloride,PA,2,T,0
+2019,Amphetamine,PA,3,F,229
+2019,Amphetamine,PA,3,T,0
+2019,Amphetamine Salt Combination,PA,3,F,79036
+2019,Amphetamine Salt Combination,PA,3,T,0
+2019,Dextroamphetamine Sulfate,PA,3,F,1822
+2019,Dextroamphetamine Sulfate,PA,3,T,0
+2019,Lisdexamfetamine Dimesylate,PA,3,F,39752
+2019,Lisdexamfetamine Dimesylate,PA,3,T,0
+2019,Methamphetamine Hydrochloride,PA,3,F,15
+2019,Methamphetamine Hydrochloride,PA,3,T,0
+2019,Amphetamine,PA,4,F,233
+2019,Amphetamine,PA,4,T,0
+2019,Amphetamine Salt Combination,PA,4,F,82140
+2019,Amphetamine Salt Combination,PA,4,T,0
+2019,Dextroamphetamine Sulfate,PA,4,F,1934
+2019,Dextroamphetamine Sulfate,PA,4,T,0
+2019,Lisdexamfetamine Dimesylate,PA,4,F,42020
+2019,Lisdexamfetamine Dimesylate,PA,4,T,0
+2019,Methamphetamine Hydrochloride,PA,4,F,18
+2019,Methamphetamine Hydrochloride,PA,4,T,0
 2019,Amphetamine,SC,1,T,0
 2019,Amphetamine Salt Combination,SC,1,F,36191
 2019,Amphetamine Salt Combination,SC,1,T,0
@@ -729,6 +4092,197 @@ year,gennme,state,quarter,suppression,totalRX
 2019,Dextroamphetamine Sulfate,TN,4,T,0
 2019,Lisdexamfetamine Dimesylate,TN,4,F,28611
 2019,Lisdexamfetamine Dimesylate,TN,4,T,0
+2019,Amphetamine,UT,1,F,121
+2019,Amphetamine,UT,1,T,0
+2019,Amphetamine Salt Combination,UT,1,F,8253
+2019,Amphetamine Salt Combination,UT,1,T,0
+2019,Dextroamphetamine Sulfate,UT,1,F,150
+2019,Dextroamphetamine Sulfate,UT,1,T,0
+2019,Lisdexamfetamine Dimesylate,UT,1,F,4790
+2019,Lisdexamfetamine Dimesylate,UT,1,T,0
+2019,Amphetamine,UT,2,F,69
+2019,Amphetamine,UT,2,T,0
+2019,Amphetamine Salt Combination,UT,2,F,8626
+2019,Amphetamine Salt Combination,UT,2,T,0
+2019,Dextroamphetamine Sulfate,UT,2,F,177
+2019,Dextroamphetamine Sulfate,UT,2,T,0
+2019,Lisdexamfetamine Dimesylate,UT,2,F,4566
+2019,Lisdexamfetamine Dimesylate,UT,2,T,0
+2019,Amphetamine,UT,3,F,88
+2019,Amphetamine,UT,3,T,0
+2019,Amphetamine Salt Combination,UT,3,F,8762
+2019,Amphetamine Salt Combination,UT,3,T,0
+2019,Dextroamphetamine Sulfate,UT,3,F,161
+2019,Dextroamphetamine Sulfate,UT,3,T,0
+2019,Lisdexamfetamine Dimesylate,UT,3,F,4372
+2019,Lisdexamfetamine Dimesylate,UT,3,T,0
+2019,Amphetamine,UT,4,F,78
+2019,Amphetamine,UT,4,T,0
+2019,Amphetamine Salt Combination,UT,4,F,9111
+2019,Amphetamine Salt Combination,UT,4,T,0
+2019,Dextroamphetamine Sulfate,UT,4,F,189
+2019,Dextroamphetamine Sulfate,UT,4,T,0
+2019,Lisdexamfetamine Dimesylate,UT,4,F,4638
+2019,Lisdexamfetamine Dimesylate,UT,4,T,0
+2019,Amphetamine,VA,1,F,49
+2019,Amphetamine,VA,1,T,0
+2019,Amphetamine Salt Combination,VA,1,F,33874
+2019,Amphetamine Salt Combination,VA,1,T,0
+2019,Dextroamphetamine Sulfate,VA,1,F,715
+2019,Dextroamphetamine Sulfate,VA,1,T,0
+2019,Lisdexamfetamine Dimesylate,VA,1,F,21481
+2019,Lisdexamfetamine Dimesylate,VA,1,T,0
+2019,Methamphetamine Hydrochloride,VA,1,T,0
+2019,Amphetamine,VA,2,F,93
+2019,Amphetamine,VA,2,T,0
+2019,Amphetamine Salt Combination,VA,2,F,34520
+2019,Amphetamine Salt Combination,VA,2,T,0
+2019,Dextroamphetamine Sulfate,VA,2,F,712
+2019,Dextroamphetamine Sulfate,VA,2,T,0
+2019,Lisdexamfetamine Dimesylate,VA,2,F,21249
+2019,Lisdexamfetamine Dimesylate,VA,2,T,0
+2019,Methamphetamine Hydrochloride,VA,2,T,0
+2019,Amphetamine,VA,3,F,43
+2019,Amphetamine,VA,3,T,0
+2019,Amphetamine Salt Combination,VA,3,F,34290
+2019,Amphetamine Salt Combination,VA,3,T,0
+2019,Dextroamphetamine Sulfate,VA,3,F,633
+2019,Dextroamphetamine Sulfate,VA,3,T,0
+2019,Lisdexamfetamine Dimesylate,VA,3,F,20786
+2019,Lisdexamfetamine Dimesylate,VA,3,T,0
+2019,Methamphetamine Hydrochloride,VA,3,T,0
+2019,Amphetamine,VA,4,F,114
+2019,Amphetamine,VA,4,T,0
+2019,Amphetamine Salt Combination,VA,4,F,34158
+2019,Amphetamine Salt Combination,VA,4,T,0
+2019,Dextroamphetamine Sulfate,VA,4,F,651
+2019,Dextroamphetamine Sulfate,VA,4,T,0
+2019,Lisdexamfetamine Dimesylate,VA,4,F,22615
+2019,Lisdexamfetamine Dimesylate,VA,4,T,0
+2019,Methamphetamine Hydrochloride,VA,4,T,0
+2019,Amphetamine,WA,1,T,0
+2019,Amphetamine Salt Combination,WA,1,F,31629
+2019,Amphetamine Salt Combination,WA,1,T,0
+2019,Dextroamphetamine Sulfate,WA,1,F,1109
+2019,Dextroamphetamine Sulfate,WA,1,T,0
+2019,Lisdexamfetamine Dimesylate,WA,1,F,11495
+2019,Lisdexamfetamine Dimesylate,WA,1,T,0
+2019,Methamphetamine Hydrochloride,WA,1,T,0
+2019,Amphetamine,WA,2,T,0
+2019,Amphetamine Salt Combination,WA,2,F,32264
+2019,Amphetamine Salt Combination,WA,2,T,0
+2019,Dextroamphetamine Sulfate,WA,2,F,1128
+2019,Dextroamphetamine Sulfate,WA,2,T,0
+2019,Lisdexamfetamine Dimesylate,WA,2,F,12100
+2019,Lisdexamfetamine Dimesylate,WA,2,T,0
+2019,Methamphetamine Hydrochloride,WA,2,T,0
+2019,Amphetamine,WA,3,T,0
+2019,Amphetamine Salt Combination,WA,3,F,31164
+2019,Amphetamine Salt Combination,WA,3,T,0
+2019,Dextroamphetamine Sulfate,WA,3,F,1256
+2019,Dextroamphetamine Sulfate,WA,3,T,0
+2019,Lisdexamfetamine Dimesylate,WA,3,F,11752
+2019,Lisdexamfetamine Dimesylate,WA,3,T,0
+2019,Methamphetamine Hydrochloride,WA,3,F,14
+2019,Methamphetamine Hydrochloride,WA,3,T,0
+2019,Amphetamine,WA,4,T,0
+2019,Amphetamine Salt Combination,WA,4,F,30346
+2019,Amphetamine Salt Combination,WA,4,T,0
+2019,Dextroamphetamine Sulfate,WA,4,F,1131
+2019,Dextroamphetamine Sulfate,WA,4,T,0
+2019,Lisdexamfetamine Dimesylate,WA,4,F,12549
+2019,Lisdexamfetamine Dimesylate,WA,4,T,0
+2019,Methamphetamine Hydrochloride,WA,4,F,19
+2019,Amphetamine,WV,1,F,1188
+2019,Amphetamine,WV,1,T,0
+2019,Amphetamine Salt Combination,WV,1,F,10203
+2019,Amphetamine Salt Combination,WV,1,T,0
+2019,Dextroamphetamine Sulfate,WV,1,F,456
+2019,Dextroamphetamine Sulfate,WV,1,T,0
+2019,Lisdexamfetamine Dimesylate,WV,1,F,14599
+2019,Methamphetamine Hydrochloride,WV,1,T,0
+2019,Amphetamine,WV,2,F,837
+2019,Amphetamine Salt Combination,WV,2,F,10547
+2019,Amphetamine Salt Combination,WV,2,T,0
+2019,Dextroamphetamine Sulfate,WV,2,F,419
+2019,Dextroamphetamine Sulfate,WV,2,T,0
+2019,Lisdexamfetamine Dimesylate,WV,2,F,14769
+2019,Methamphetamine Hydrochloride,WV,2,T,0
+2019,Amphetamine,WV,3,F,264
+2019,Amphetamine,WV,3,T,0
+2019,Amphetamine Salt Combination,WV,3,F,9895
+2019,Amphetamine Salt Combination,WV,3,T,0
+2019,Dextroamphetamine Sulfate,WV,3,F,380
+2019,Dextroamphetamine Sulfate,WV,3,T,0
+2019,Lisdexamfetamine Dimesylate,WV,3,F,13109
+2019,Methamphetamine Hydrochloride,WV,3,T,0
+2019,Amphetamine,WV,4,F,326
+2019,Amphetamine Salt Combination,WV,4,F,11147
+2019,Amphetamine Salt Combination,WV,4,T,0
+2019,Dextroamphetamine Sulfate,WV,4,F,524
+2019,Dextroamphetamine Sulfate,WV,4,T,0
+2019,Lisdexamfetamine Dimesylate,WV,4,F,15329
+2019,Methamphetamine Hydrochloride,WV,4,T,0
+2020,Amphetamine,AK,1,T,0
+2020,Amphetamine Salt Combination,AK,1,F,2599
+2020,Amphetamine Salt Combination,AK,1,T,0
+2020,Dextroamphetamine Sulfate,AK,1,F,29
+2020,Dextroamphetamine Sulfate,AK,1,T,0
+2020,Lisdexamfetamine Dimesylate,AK,1,F,1280
+2020,Lisdexamfetamine Dimesylate,AK,1,T,0
+2020,Methamphetamine Hydrochloride,AK,1,T,0
+2020,Amphetamine,AK,2,T,0
+2020,Amphetamine Salt Combination,AK,2,F,2973
+2020,Amphetamine Salt Combination,AK,2,T,0
+2020,Dextroamphetamine Sulfate,AK,2,F,56
+2020,Dextroamphetamine Sulfate,AK,2,T,0
+2020,Lisdexamfetamine Dimesylate,AK,2,F,1467
+2020,Lisdexamfetamine Dimesylate,AK,2,T,0
+2020,Methamphetamine Hydrochloride,AK,2,T,0
+2020,Amphetamine,AK,3,F,15
+2020,Amphetamine Salt Combination,AK,3,F,2742
+2020,Amphetamine Salt Combination,AK,3,T,0
+2020,Dextroamphetamine Sulfate,AK,3,F,62
+2020,Dextroamphetamine Sulfate,AK,3,T,0
+2020,Lisdexamfetamine Dimesylate,AK,3,F,1476
+2020,Lisdexamfetamine Dimesylate,AK,3,T,0
+2020,Methamphetamine Hydrochloride,AK,3,T,0
+2020,Amphetamine,AK,4,T,0
+2020,Amphetamine Salt Combination,AK,4,F,2261
+2020,Amphetamine Salt Combination,AK,4,T,0
+2020,Dextroamphetamine Sulfate,AK,4,F,53
+2020,Dextroamphetamine Sulfate,AK,4,T,0
+2020,Lisdexamfetamine Dimesylate,AK,4,F,1266
+2020,Lisdexamfetamine Dimesylate,AK,4,T,0
+2020,Methamphetamine Hydrochloride,AK,4,T,0
+2020,Amphetamine,AZ,1,T,0
+2020,Amphetamine Salt Combination,AZ,1,F,26956
+2020,Amphetamine Salt Combination,AZ,1,T,0
+2020,Dextroamphetamine Sulfate,AZ,1,F,443
+2020,Dextroamphetamine Sulfate,AZ,1,T,0
+2020,Lisdexamfetamine Dimesylate,AZ,1,F,13102
+2020,Lisdexamfetamine Dimesylate,AZ,1,T,0
+2020,Amphetamine,AZ,2,T,0
+2020,Amphetamine Salt Combination,AZ,2,F,22956
+2020,Amphetamine Salt Combination,AZ,2,T,0
+2020,Dextroamphetamine Sulfate,AZ,2,F,432
+2020,Dextroamphetamine Sulfate,AZ,2,T,0
+2020,Lisdexamfetamine Dimesylate,AZ,2,F,12429
+2020,Lisdexamfetamine Dimesylate,AZ,2,T,0
+2020,Amphetamine,AZ,3,T,0
+2020,Amphetamine Salt Combination,AZ,3,F,23793
+2020,Amphetamine Salt Combination,AZ,3,T,0
+2020,Dextroamphetamine Sulfate,AZ,3,F,395
+2020,Dextroamphetamine Sulfate,AZ,3,T,0
+2020,Lisdexamfetamine Dimesylate,AZ,3,F,12994
+2020,Lisdexamfetamine Dimesylate,AZ,3,T,0
+2020,Amphetamine,AZ,4,T,0
+2020,Amphetamine Salt Combination,AZ,4,F,17767
+2020,Amphetamine Salt Combination,AZ,4,T,0
+2020,Dextroamphetamine Sulfate,AZ,4,F,288
+2020,Dextroamphetamine Sulfate,AZ,4,T,0
+2020,Lisdexamfetamine Dimesylate,AZ,4,F,10364
+2020,Lisdexamfetamine Dimesylate,AZ,4,T,0
 2020,Amphetamine,CO,1,T,0
 2020,Amphetamine Salt Combination,CO,1,F,19811
 2020,Amphetamine Salt Combination,CO,1,T,0
@@ -761,6 +4315,68 @@ year,gennme,state,quarter,suppression,totalRX
 2020,Lisdexamfetamine Dimesylate,CO,4,F,10010
 2020,Lisdexamfetamine Dimesylate,CO,4,T,0
 2020,Methamphetamine Hydrochloride,CO,4,T,0
+2020,Amphetamine,CT,1,F,121
+2020,Amphetamine,CT,1,T,0
+2020,Amphetamine Salt Combination,CT,1,F,21722
+2020,Amphetamine Salt Combination,CT,1,T,0
+2020,Dextroamphetamine Sulfate,CT,1,F,412
+2020,Dextroamphetamine Sulfate,CT,1,T,0
+2020,Lisdexamfetamine Dimesylate,CT,1,F,15291
+2020,Methamphetamine Hydrochloride,CT,1,T,0
+2020,Amphetamine,CT,2,F,96
+2020,Amphetamine,CT,2,T,0
+2020,Amphetamine Salt Combination,CT,2,F,21350
+2020,Amphetamine Salt Combination,CT,2,T,0
+2020,Dextroamphetamine Sulfate,CT,2,F,454
+2020,Dextroamphetamine Sulfate,CT,2,T,0
+2020,Lisdexamfetamine Dimesylate,CT,2,F,14071
+2020,Methamphetamine Hydrochloride,CT,2,T,0
+2020,Amphetamine,CT,3,F,80
+2020,Amphetamine,CT,3,T,0
+2020,Amphetamine Salt Combination,CT,3,F,21866
+2020,Amphetamine Salt Combination,CT,3,T,0
+2020,Dextroamphetamine Sulfate,CT,3,F,461
+2020,Dextroamphetamine Sulfate,CT,3,T,0
+2020,Lisdexamfetamine Dimesylate,CT,3,F,13803
+2020,Methamphetamine Hydrochloride,CT,3,T,0
+2020,Amphetamine,CT,4,F,50
+2020,Amphetamine,CT,4,T,0
+2020,Amphetamine Salt Combination,CT,4,F,23113
+2020,Amphetamine Salt Combination,CT,4,T,0
+2020,Dextroamphetamine Sulfate,CT,4,F,429
+2020,Dextroamphetamine Sulfate,CT,4,T,0
+2020,Lisdexamfetamine Dimesylate,CT,4,F,15167
+2020,Methamphetamine Hydrochloride,CT,4,T,0
+2020,Amphetamine,DE,1,T,0
+2020,Amphetamine Salt Combination,DE,1,F,6206
+2020,Amphetamine Salt Combination,DE,1,T,0
+2020,Dextroamphetamine Sulfate,DE,1,F,108
+2020,Dextroamphetamine Sulfate,DE,1,T,0
+2020,Lisdexamfetamine Dimesylate,DE,1,F,6917
+2020,Lisdexamfetamine Dimesylate,DE,1,T,0
+2020,Methamphetamine Hydrochloride,DE,1,T,0
+2020,Amphetamine,DE,2,T,0
+2020,Amphetamine Salt Combination,DE,2,F,5994
+2020,Amphetamine Salt Combination,DE,2,T,0
+2020,Dextroamphetamine Sulfate,DE,2,F,107
+2020,Dextroamphetamine Sulfate,DE,2,T,0
+2020,Lisdexamfetamine Dimesylate,DE,2,F,6174
+2020,Lisdexamfetamine Dimesylate,DE,2,T,0
+2020,Methamphetamine Hydrochloride,DE,2,T,0
+2020,Amphetamine,DE,3,T,0
+2020,Amphetamine Salt Combination,DE,3,F,5039
+2020,Amphetamine Salt Combination,DE,3,T,0
+2020,Dextroamphetamine Sulfate,DE,3,F,57
+2020,Dextroamphetamine Sulfate,DE,3,T,0
+2020,Lisdexamfetamine Dimesylate,DE,3,F,4996
+2020,Lisdexamfetamine Dimesylate,DE,3,T,0
+2020,Methamphetamine Hydrochloride,DE,3,T,0
+2020,Amphetamine,DE,4,T,0
+2020,Amphetamine Salt Combination,DE,4,F,1874
+2020,Amphetamine Salt Combination,DE,4,T,0
+2020,Dextroamphetamine Sulfate,DE,4,T,0
+2020,Lisdexamfetamine Dimesylate,DE,4,F,1817
+2020,Lisdexamfetamine Dimesylate,DE,4,T,0
 2020,Amphetamine,FL,1,F,738
 2020,Amphetamine,FL,1,T,0
 2020,Amphetamine Salt Combination,FL,1,F,51438
@@ -797,6 +4413,226 @@ year,gennme,state,quarter,suppression,totalRX
 2020,Lisdexamfetamine Dimesylate,FL,4,F,53896
 2020,Lisdexamfetamine Dimesylate,FL,4,T,0
 2020,Methamphetamine Hydrochloride,FL,4,T,0
+2020,Amphetamine Salt Combination,HI,1,F,2538
+2020,Amphetamine Salt Combination,HI,1,T,0
+2020,Dextroamphetamine Sulfate,HI,1,F,66
+2020,Dextroamphetamine Sulfate,HI,1,T,0
+2020,Lisdexamfetamine Dimesylate,HI,1,F,175
+2020,Lisdexamfetamine Dimesylate,HI,1,T,0
+2020,Amphetamine Salt Combination,HI,2,F,2029
+2020,Amphetamine Salt Combination,HI,2,T,0
+2020,Dextroamphetamine Sulfate,HI,2,F,61
+2020,Dextroamphetamine Sulfate,HI,2,T,0
+2020,Lisdexamfetamine Dimesylate,HI,2,F,80
+2020,Lisdexamfetamine Dimesylate,HI,2,T,0
+2020,Amphetamine Salt Combination,HI,3,F,2158
+2020,Amphetamine Salt Combination,HI,3,T,0
+2020,Dextroamphetamine Sulfate,HI,3,F,44
+2020,Dextroamphetamine Sulfate,HI,3,T,0
+2020,Lisdexamfetamine Dimesylate,HI,3,F,123
+2020,Lisdexamfetamine Dimesylate,HI,3,T,0
+2020,Amphetamine Salt Combination,HI,4,F,2136
+2020,Amphetamine Salt Combination,HI,4,T,0
+2020,Dextroamphetamine Sulfate,HI,4,F,95
+2020,Dextroamphetamine Sulfate,HI,4,T,0
+2020,Lisdexamfetamine Dimesylate,HI,4,F,168
+2020,Lisdexamfetamine Dimesylate,HI,4,T,0
+2020,Amphetamine,IL,1,T,0
+2020,Amphetamine Salt Combination,IL,1,F,44755
+2020,Amphetamine Salt Combination,IL,1,T,0
+2020,Dextroamphetamine Sulfate,IL,1,F,313
+2020,Dextroamphetamine Sulfate,IL,1,T,0
+2020,Lisdexamfetamine Dimesylate,IL,1,F,5964
+2020,Lisdexamfetamine Dimesylate,IL,1,T,0
+2020,Methamphetamine Hydrochloride,IL,1,T,0
+2020,Amphetamine,IL,2,T,0
+2020,Amphetamine Salt Combination,IL,2,F,40411
+2020,Amphetamine Salt Combination,IL,2,T,0
+2020,Dextroamphetamine Sulfate,IL,2,F,265
+2020,Dextroamphetamine Sulfate,IL,2,T,0
+2020,Lisdexamfetamine Dimesylate,IL,2,F,5913
+2020,Lisdexamfetamine Dimesylate,IL,2,T,0
+2020,Methamphetamine Hydrochloride,IL,2,T,0
+2020,Amphetamine,IL,3,T,0
+2020,Amphetamine Salt Combination,IL,3,F,40190
+2020,Amphetamine Salt Combination,IL,3,T,0
+2020,Dextroamphetamine Sulfate,IL,3,F,250
+2020,Dextroamphetamine Sulfate,IL,3,T,0
+2020,Lisdexamfetamine Dimesylate,IL,3,F,6592
+2020,Lisdexamfetamine Dimesylate,IL,3,T,0
+2020,Methamphetamine Hydrochloride,IL,3,T,0
+2020,Amphetamine,IL,4,T,0
+2020,Amphetamine Salt Combination,IL,4,F,21090
+2020,Amphetamine Salt Combination,IL,4,T,0
+2020,Dextroamphetamine Sulfate,IL,4,F,104
+2020,Dextroamphetamine Sulfate,IL,4,T,0
+2020,Lisdexamfetamine Dimesylate,IL,4,F,3959
+2020,Lisdexamfetamine Dimesylate,IL,4,T,0
+2020,Methamphetamine Hydrochloride,IL,4,T,0
+2020,Amphetamine,IN,1,F,800
+2020,Amphetamine,IN,1,T,0
+2020,Amphetamine Salt Combination,IN,1,F,39106
+2020,Amphetamine Salt Combination,IN,1,T,0
+2020,Dextroamphetamine Sulfate,IN,1,F,632
+2020,Dextroamphetamine Sulfate,IN,1,T,0
+2020,Lisdexamfetamine Dimesylate,IN,1,F,36863
+2020,Lisdexamfetamine Dimesylate,IN,1,T,0
+2020,Methamphetamine Hydrochloride,IN,1,T,0
+2020,Amphetamine,IN,2,F,641
+2020,Amphetamine,IN,2,T,0
+2020,Amphetamine Salt Combination,IN,2,F,38382
+2020,Amphetamine Salt Combination,IN,2,T,0
+2020,Dextroamphetamine Sulfate,IN,2,F,533
+2020,Dextroamphetamine Sulfate,IN,2,T,0
+2020,Lisdexamfetamine Dimesylate,IN,2,F,32596
+2020,Lisdexamfetamine Dimesylate,IN,2,T,0
+2020,Methamphetamine Hydrochloride,IN,2,F,13
+2020,Methamphetamine Hydrochloride,IN,2,T,0
+2020,Amphetamine,IN,3,F,656
+2020,Amphetamine,IN,3,T,0
+2020,Amphetamine Salt Combination,IN,3,F,40607
+2020,Amphetamine Salt Combination,IN,3,T,0
+2020,Dextroamphetamine Sulfate,IN,3,F,599
+2020,Dextroamphetamine Sulfate,IN,3,T,0
+2020,Lisdexamfetamine Dimesylate,IN,3,F,35035
+2020,Lisdexamfetamine Dimesylate,IN,3,T,0
+2020,Methamphetamine Hydrochloride,IN,3,T,0
+2020,Amphetamine,IN,4,F,614
+2020,Amphetamine,IN,4,T,0
+2020,Amphetamine Salt Combination,IN,4,F,36518
+2020,Amphetamine Salt Combination,IN,4,T,0
+2020,Dextroamphetamine Sulfate,IN,4,F,599
+2020,Dextroamphetamine Sulfate,IN,4,T,0
+2020,Lisdexamfetamine Dimesylate,IN,4,F,33225
+2020,Lisdexamfetamine Dimesylate,IN,4,T,0
+2020,Methamphetamine Hydrochloride,IN,4,T,0
+2020,Amphetamine,KY,1,F,15
+2020,Amphetamine,KY,1,T,0
+2020,Amphetamine Salt Combination,KY,1,F,40553
+2020,Amphetamine Salt Combination,KY,1,T,0
+2020,Dextroamphetamine Sulfate,KY,1,F,903
+2020,Dextroamphetamine Sulfate,KY,1,T,0
+2020,Lisdexamfetamine Dimesylate,KY,1,F,11445
+2020,Lisdexamfetamine Dimesylate,KY,1,T,0
+2020,Amphetamine,KY,2,F,17
+2020,Amphetamine,KY,2,T,0
+2020,Amphetamine Salt Combination,KY,2,F,34251
+2020,Amphetamine Salt Combination,KY,2,T,0
+2020,Dextroamphetamine Sulfate,KY,2,F,823
+2020,Dextroamphetamine Sulfate,KY,2,T,0
+2020,Lisdexamfetamine Dimesylate,KY,2,F,9834
+2020,Lisdexamfetamine Dimesylate,KY,2,T,0
+2020,Methamphetamine Hydrochloride,KY,2,T,0
+2020,Amphetamine,KY,3,T,0
+2020,Amphetamine Salt Combination,KY,3,F,31415
+2020,Amphetamine Salt Combination,KY,3,T,0
+2020,Dextroamphetamine Sulfate,KY,3,F,782
+2020,Dextroamphetamine Sulfate,KY,3,T,0
+2020,Lisdexamfetamine Dimesylate,KY,3,F,9663
+2020,Lisdexamfetamine Dimesylate,KY,3,T,0
+2020,Methamphetamine Hydrochloride,KY,3,T,0
+2020,Amphetamine,KY,4,T,0
+2020,Amphetamine Salt Combination,KY,4,F,26124
+2020,Amphetamine Salt Combination,KY,4,T,0
+2020,Dextroamphetamine Sulfate,KY,4,F,670
+2020,Dextroamphetamine Sulfate,KY,4,T,0
+2020,Lisdexamfetamine Dimesylate,KY,4,F,8606
+2020,Lisdexamfetamine Dimesylate,KY,4,T,0
+2020,Methamphetamine Hydrochloride,KY,4,T,0
+2020,Amphetamine,LA,1,F,296
+2020,Amphetamine,LA,1,T,0
+2020,Amphetamine Salt Combination,LA,1,F,77112
+2020,Amphetamine Salt Combination,LA,1,T,0
+2020,Dextroamphetamine Sulfate,LA,1,F,570
+2020,Dextroamphetamine Sulfate,LA,1,T,0
+2020,Lisdexamfetamine Dimesylate,LA,1,F,41271
+2020,Lisdexamfetamine Dimesylate,LA,1,T,0
+2020,Methamphetamine Hydrochloride,LA,1,T,0
+2020,Amphetamine,LA,2,F,223
+2020,Amphetamine,LA,2,T,0
+2020,Amphetamine Salt Combination,LA,2,F,66969
+2020,Amphetamine Salt Combination,LA,2,T,0
+2020,Dextroamphetamine Sulfate,LA,2,F,422
+2020,Dextroamphetamine Sulfate,LA,2,T,0
+2020,Lisdexamfetamine Dimesylate,LA,2,F,32761
+2020,Lisdexamfetamine Dimesylate,LA,2,T,0
+2020,Methamphetamine Hydrochloride,LA,2,T,0
+2020,Amphetamine,LA,3,F,274
+2020,Amphetamine,LA,3,T,0
+2020,Amphetamine Salt Combination,LA,3,F,66248
+2020,Amphetamine Salt Combination,LA,3,T,0
+2020,Dextroamphetamine Sulfate,LA,3,F,494
+2020,Dextroamphetamine Sulfate,LA,3,T,0
+2020,Lisdexamfetamine Dimesylate,LA,3,F,35720
+2020,Lisdexamfetamine Dimesylate,LA,3,T,0
+2020,Amphetamine,LA,4,F,290
+2020,Amphetamine,LA,4,T,0
+2020,Amphetamine Salt Combination,LA,4,F,68538
+2020,Amphetamine Salt Combination,LA,4,T,0
+2020,Dextroamphetamine Sulfate,LA,4,F,499
+2020,Dextroamphetamine Sulfate,LA,4,T,0
+2020,Lisdexamfetamine Dimesylate,LA,4,F,40522
+2020,Lisdexamfetamine Dimesylate,LA,4,T,0
+2020,Amphetamine,MI,1,F,332
+2020,Amphetamine,MI,1,T,0
+2020,Amphetamine Salt Combination,MI,1,F,86039
+2020,Amphetamine Salt Combination,MI,1,T,0
+2020,Dextroamphetamine Sulfate,MI,1,F,560
+2020,Dextroamphetamine Sulfate,MI,1,T,0
+2020,Lisdexamfetamine Dimesylate,MI,1,F,33456
+2020,Amphetamine,MI,2,F,257
+2020,Amphetamine Salt Combination,MI,2,F,80417
+2020,Amphetamine Salt Combination,MI,2,T,0
+2020,Dextroamphetamine Sulfate,MI,2,F,481
+2020,Dextroamphetamine Sulfate,MI,2,T,0
+2020,Lisdexamfetamine Dimesylate,MI,2,F,28573
+2020,Amphetamine,MI,3,F,237
+2020,Amphetamine Salt Combination,MI,3,F,83270
+2020,Amphetamine Salt Combination,MI,3,T,0
+2020,Dextroamphetamine Sulfate,MI,3,F,521
+2020,Dextroamphetamine Sulfate,MI,3,T,0
+2020,Lisdexamfetamine Dimesylate,MI,3,F,28199
+2020,Methamphetamine Hydrochloride,MI,3,T,0
+2020,Amphetamine,MI,4,F,237
+2020,Amphetamine,MI,4,T,0
+2020,Amphetamine Salt Combination,MI,4,F,89229
+2020,Amphetamine Salt Combination,MI,4,T,0
+2020,Dextroamphetamine Sulfate,MI,4,F,534
+2020,Dextroamphetamine Sulfate,MI,4,T,0
+2020,Lisdexamfetamine Dimesylate,MI,4,F,31431
+2020,Methamphetamine Hydrochloride,MI,4,T,0
+2020,Amphetamine,MO,1,F,442
+2020,Amphetamine,MO,1,T,0
+2020,Amphetamine Salt Combination,MO,1,F,19949
+2020,Amphetamine Salt Combination,MO,1,T,0
+2020,Dextroamphetamine Sulfate,MO,1,F,532
+2020,Dextroamphetamine Sulfate,MO,1,T,0
+2020,Lisdexamfetamine Dimesylate,MO,1,F,17289
+2020,Methamphetamine Hydrochloride,MO,1,T,0
+2020,Amphetamine,MO,2,F,349
+2020,Amphetamine,MO,2,T,0
+2020,Amphetamine Salt Combination,MO,2,F,17065
+2020,Amphetamine Salt Combination,MO,2,T,0
+2020,Dextroamphetamine Sulfate,MO,2,F,434
+2020,Dextroamphetamine Sulfate,MO,2,T,0
+2020,Lisdexamfetamine Dimesylate,MO,2,F,14581
+2020,Lisdexamfetamine Dimesylate,MO,2,T,0
+2020,Methamphetamine Hydrochloride,MO,2,T,0
+2020,Amphetamine,MO,3,F,326
+2020,Amphetamine,MO,3,T,0
+2020,Amphetamine Salt Combination,MO,3,F,19309
+2020,Amphetamine Salt Combination,MO,3,T,0
+2020,Dextroamphetamine Sulfate,MO,3,F,451
+2020,Dextroamphetamine Sulfate,MO,3,T,0
+2020,Lisdexamfetamine Dimesylate,MO,3,F,15897
+2020,Lisdexamfetamine Dimesylate,MO,3,T,0
+2020,Amphetamine,MO,4,F,291
+2020,Amphetamine,MO,4,T,0
+2020,Amphetamine Salt Combination,MO,4,F,20240
+2020,Amphetamine Salt Combination,MO,4,T,0
+2020,Dextroamphetamine Sulfate,MO,4,F,417
+2020,Dextroamphetamine Sulfate,MO,4,T,0
+2020,Lisdexamfetamine Dimesylate,MO,4,F,16631
 2020,Amphetamine,MS,1,F,431
 2020,Amphetamine,MS,1,T,0
 2020,Amphetamine Salt Combination,MS,1,F,12839
@@ -829,6 +4665,268 @@ year,gennme,state,quarter,suppression,totalRX
 2020,Dextroamphetamine Sulfate,MS,4,T,0
 2020,Lisdexamfetamine Dimesylate,MS,4,F,19062
 2020,Lisdexamfetamine Dimesylate,MS,4,T,0
+2020,Amphetamine,NC,1,F,804
+2020,Amphetamine,NC,1,T,0
+2020,Amphetamine Salt Combination,NC,1,F,34137
+2020,Amphetamine Salt Combination,NC,1,T,0
+2020,Dextroamphetamine Sulfate,NC,1,F,740
+2020,Dextroamphetamine Sulfate,NC,1,T,0
+2020,Lisdexamfetamine Dimesylate,NC,1,F,32337
+2020,Amphetamine,NC,2,F,376
+2020,Amphetamine,NC,2,T,0
+2020,Amphetamine Salt Combination,NC,2,F,19263
+2020,Amphetamine Salt Combination,NC,2,T,0
+2020,Dextroamphetamine Sulfate,NC,2,F,343
+2020,Dextroamphetamine Sulfate,NC,2,T,0
+2020,Lisdexamfetamine Dimesylate,NC,2,F,16279
+2020,Methamphetamine Hydrochloride,NC,2,T,0
+2020,Amphetamine,NC,3,F,1739
+2020,Amphetamine Salt Combination,NC,3,F,82399
+2020,Amphetamine Salt Combination,NC,3,T,0
+2020,Dextroamphetamine Sulfate,NC,3,F,1712
+2020,Dextroamphetamine Sulfate,NC,3,T,0
+2020,Lisdexamfetamine Dimesylate,NC,3,F,72764
+2020,Methamphetamine Hydrochloride,NC,3,T,0
+2020,Amphetamine,NC,4,F,898
+2020,Amphetamine,NC,4,T,0
+2020,Amphetamine Salt Combination,NC,4,F,42709
+2020,Amphetamine Salt Combination,NC,4,T,0
+2020,Dextroamphetamine Sulfate,NC,4,F,862
+2020,Dextroamphetamine Sulfate,NC,4,T,0
+2020,Lisdexamfetamine Dimesylate,NC,4,F,38166
+2020,Methamphetamine Hydrochloride,NC,4,T,0
+2020,Amphetamine,NH,1,T,0
+2020,Amphetamine Salt Combination,NH,1,F,9707
+2020,Amphetamine Salt Combination,NH,1,T,0
+2020,Dextroamphetamine Sulfate,NH,1,F,100
+2020,Dextroamphetamine Sulfate,NH,1,T,0
+2020,Lisdexamfetamine Dimesylate,NH,1,F,3933
+2020,Lisdexamfetamine Dimesylate,NH,1,T,0
+2020,Methamphetamine Hydrochloride,NH,1,T,0
+2020,Amphetamine,NH,2,T,0
+2020,Amphetamine Salt Combination,NH,2,F,9682
+2020,Amphetamine Salt Combination,NH,2,T,0
+2020,Dextroamphetamine Sulfate,NH,2,F,64
+2020,Dextroamphetamine Sulfate,NH,2,T,0
+2020,Lisdexamfetamine Dimesylate,NH,2,F,3792
+2020,Lisdexamfetamine Dimesylate,NH,2,T,0
+2020,Methamphetamine Hydrochloride,NH,2,T,0
+2020,Amphetamine,NH,3,T,0
+2020,Amphetamine Salt Combination,NH,3,F,9741
+2020,Amphetamine Salt Combination,NH,3,T,0
+2020,Dextroamphetamine Sulfate,NH,3,F,74
+2020,Dextroamphetamine Sulfate,NH,3,T,0
+2020,Lisdexamfetamine Dimesylate,NH,3,F,4002
+2020,Lisdexamfetamine Dimesylate,NH,3,T,0
+2020,Methamphetamine Hydrochloride,NH,3,T,0
+2020,Amphetamine,NH,4,T,0
+2020,Amphetamine Salt Combination,NH,4,F,9786
+2020,Amphetamine Salt Combination,NH,4,T,0
+2020,Dextroamphetamine Sulfate,NH,4,F,69
+2020,Dextroamphetamine Sulfate,NH,4,T,0
+2020,Lisdexamfetamine Dimesylate,NH,4,F,4057
+2020,Lisdexamfetamine Dimesylate,NH,4,T,0
+2020,Methamphetamine Hydrochloride,NH,4,T,0
+2020,Amphetamine,NJ,1,T,0
+2020,Amphetamine Salt Combination,NJ,1,F,33728
+2020,Amphetamine Salt Combination,NJ,1,T,0
+2020,Dextroamphetamine Sulfate,NJ,1,F,296
+2020,Dextroamphetamine Sulfate,NJ,1,T,0
+2020,Lisdexamfetamine Dimesylate,NJ,1,F,6329
+2020,Lisdexamfetamine Dimesylate,NJ,1,T,0
+2020,Methamphetamine Hydrochloride,NJ,1,F,15
+2020,Methamphetamine Hydrochloride,NJ,1,T,0
+2020,Amphetamine,NJ,2,T,0
+2020,Amphetamine Salt Combination,NJ,2,F,31227
+2020,Amphetamine Salt Combination,NJ,2,T,0
+2020,Dextroamphetamine Sulfate,NJ,2,F,308
+2020,Dextroamphetamine Sulfate,NJ,2,T,0
+2020,Lisdexamfetamine Dimesylate,NJ,2,F,5703
+2020,Lisdexamfetamine Dimesylate,NJ,2,T,0
+2020,Methamphetamine Hydrochloride,NJ,2,T,0
+2020,Amphetamine,NJ,3,T,0
+2020,Amphetamine Salt Combination,NJ,3,F,31399
+2020,Amphetamine Salt Combination,NJ,3,T,0
+2020,Dextroamphetamine Sulfate,NJ,3,F,346
+2020,Dextroamphetamine Sulfate,NJ,3,T,0
+2020,Lisdexamfetamine Dimesylate,NJ,3,F,5207
+2020,Lisdexamfetamine Dimesylate,NJ,3,T,0
+2020,Methamphetamine Hydrochloride,NJ,3,F,16
+2020,Methamphetamine Hydrochloride,NJ,3,T,0
+2020,Amphetamine,NJ,4,T,0
+2020,Amphetamine Salt Combination,NJ,4,F,20772
+2020,Amphetamine Salt Combination,NJ,4,T,0
+2020,Dextroamphetamine Sulfate,NJ,4,F,179
+2020,Dextroamphetamine Sulfate,NJ,4,T,0
+2020,Lisdexamfetamine Dimesylate,NJ,4,F,3370
+2020,Lisdexamfetamine Dimesylate,NJ,4,T,0
+2020,Methamphetamine Hydrochloride,NJ,4,T,0
+2020,Amphetamine,NV,1,F,12
+2020,Amphetamine,NV,1,T,0
+2020,Amphetamine Salt Combination,NV,1,F,8108
+2020,Amphetamine Salt Combination,NV,1,T,0
+2020,Dextroamphetamine Sulfate,NV,1,F,76
+2020,Dextroamphetamine Sulfate,NV,1,T,0
+2020,Lisdexamfetamine Dimesylate,NV,1,F,3449
+2020,Lisdexamfetamine Dimesylate,NV,1,T,0
+2020,Methamphetamine Hydrochloride,NV,1,T,0
+2020,Amphetamine,NV,2,T,0
+2020,Amphetamine Salt Combination,NV,2,F,6101
+2020,Amphetamine Salt Combination,NV,2,T,0
+2020,Dextroamphetamine Sulfate,NV,2,F,68
+2020,Dextroamphetamine Sulfate,NV,2,T,0
+2020,Lisdexamfetamine Dimesylate,NV,2,F,2901
+2020,Lisdexamfetamine Dimesylate,NV,2,T,0
+2020,Methamphetamine Hydrochloride,NV,2,T,0
+2020,Amphetamine,NV,3,T,0
+2020,Amphetamine Salt Combination,NV,3,F,6145
+2020,Amphetamine Salt Combination,NV,3,T,0
+2020,Dextroamphetamine Sulfate,NV,3,F,26
+2020,Dextroamphetamine Sulfate,NV,3,T,0
+2020,Lisdexamfetamine Dimesylate,NV,3,F,2476
+2020,Lisdexamfetamine Dimesylate,NV,3,T,0
+2020,Methamphetamine Hydrochloride,NV,3,T,0
+2020,Amphetamine,NV,4,T,0
+2020,Amphetamine Salt Combination,NV,4,F,5419
+2020,Amphetamine Salt Combination,NV,4,T,0
+2020,Dextroamphetamine Sulfate,NV,4,F,32
+2020,Dextroamphetamine Sulfate,NV,4,T,0
+2020,Lisdexamfetamine Dimesylate,NV,4,F,2234
+2020,Lisdexamfetamine Dimesylate,NV,4,T,0
+2020,Methamphetamine Hydrochloride,NV,4,T,0
+2020,Amphetamine,NY,1,F,16
+2020,Amphetamine,NY,1,T,0
+2020,Amphetamine Salt Combination,NY,1,F,94613
+2020,Amphetamine Salt Combination,NY,1,T,0
+2020,Dextroamphetamine Sulfate,NY,1,F,1948
+2020,Dextroamphetamine Sulfate,NY,1,T,0
+2020,Lisdexamfetamine Dimesylate,NY,1,F,21467
+2020,Lisdexamfetamine Dimesylate,NY,1,T,0
+2020,Methamphetamine Hydrochloride,NY,1,F,15
+2020,Methamphetamine Hydrochloride,NY,1,T,0
+2020,Amphetamine,NY,2,F,14
+2020,Amphetamine,NY,2,T,0
+2020,Amphetamine Salt Combination,NY,2,F,88016
+2020,Amphetamine Salt Combination,NY,2,T,0
+2020,Dextroamphetamine Sulfate,NY,2,F,1862
+2020,Dextroamphetamine Sulfate,NY,2,T,0
+2020,Lisdexamfetamine Dimesylate,NY,2,F,20047
+2020,Lisdexamfetamine Dimesylate,NY,2,T,0
+2020,Methamphetamine Hydrochloride,NY,2,F,17
+2020,Methamphetamine Hydrochloride,NY,2,T,0
+2020,Amphetamine,NY,3,T,0
+2020,Amphetamine Salt Combination,NY,3,F,86653
+2020,Amphetamine Salt Combination,NY,3,T,0
+2020,Dextroamphetamine Sulfate,NY,3,F,2002
+2020,Dextroamphetamine Sulfate,NY,3,T,0
+2020,Lisdexamfetamine Dimesylate,NY,3,F,19641
+2020,Lisdexamfetamine Dimesylate,NY,3,T,0
+2020,Methamphetamine Hydrochloride,NY,3,F,14
+2020,Methamphetamine Hydrochloride,NY,3,T,0
+2020,Amphetamine,NY,4,T,0
+2020,Amphetamine Salt Combination,NY,4,F,75549
+2020,Amphetamine Salt Combination,NY,4,T,0
+2020,Dextroamphetamine Sulfate,NY,4,F,1756
+2020,Dextroamphetamine Sulfate,NY,4,T,0
+2020,Lisdexamfetamine Dimesylate,NY,4,F,17438
+2020,Lisdexamfetamine Dimesylate,NY,4,T,0
+2020,Methamphetamine Hydrochloride,NY,4,F,15
+2020,Methamphetamine Hydrochloride,NY,4,T,0
+2020,Amphetamine,OH,1,F,582
+2020,Amphetamine,OH,1,T,0
+2020,Amphetamine Salt Combination,OH,1,F,94874
+2020,Amphetamine Salt Combination,OH,1,T,0
+2020,Dextroamphetamine Sulfate,OH,1,F,1450
+2020,Dextroamphetamine Sulfate,OH,1,T,0
+2020,Lisdexamfetamine Dimesylate,OH,1,F,43862
+2020,Lisdexamfetamine Dimesylate,OH,1,T,0
+2020,Methamphetamine Hydrochloride,OH,1,T,0
+2020,Amphetamine,OH,2,F,489
+2020,Amphetamine,OH,2,T,0
+2020,Amphetamine Salt Combination,OH,2,F,87197
+2020,Amphetamine Salt Combination,OH,2,T,0
+2020,Dextroamphetamine Sulfate,OH,2,F,1330
+2020,Dextroamphetamine Sulfate,OH,2,T,0
+2020,Lisdexamfetamine Dimesylate,OH,2,F,39776
+2020,Lisdexamfetamine Dimesylate,OH,2,T,0
+2020,Methamphetamine Hydrochloride,OH,2,T,0
+2020,Amphetamine,OH,3,F,443
+2020,Amphetamine,OH,3,T,0
+2020,Amphetamine Salt Combination,OH,3,F,86388
+2020,Amphetamine Salt Combination,OH,3,T,0
+2020,Dextroamphetamine Sulfate,OH,3,F,1362
+2020,Dextroamphetamine Sulfate,OH,3,T,0
+2020,Lisdexamfetamine Dimesylate,OH,3,F,41342
+2020,Lisdexamfetamine Dimesylate,OH,3,T,0
+2020,Methamphetamine Hydrochloride,OH,3,T,0
+2020,Amphetamine,OH,4,F,261
+2020,Amphetamine,OH,4,T,0
+2020,Amphetamine Salt Combination,OH,4,F,60897
+2020,Amphetamine Salt Combination,OH,4,T,0
+2020,Dextroamphetamine Sulfate,OH,4,F,963
+2020,Dextroamphetamine Sulfate,OH,4,T,0
+2020,Lisdexamfetamine Dimesylate,OH,4,F,29834
+2020,Lisdexamfetamine Dimesylate,OH,4,T,0
+2020,Methamphetamine Hydrochloride,OH,4,T,0
+2020,Amphetamine,OK,1,T,0
+2020,Amphetamine Salt Combination,OK,1,F,8964
+2020,Amphetamine Salt Combination,OK,1,T,0
+2020,Dextroamphetamine Sulfate,OK,1,T,0
+2020,Lisdexamfetamine Dimesylate,OK,1,F,21667
+2020,Lisdexamfetamine Dimesylate,OK,1,T,0
+2020,Amphetamine,OK,2,T,0
+2020,Amphetamine Salt Combination,OK,2,F,7921
+2020,Amphetamine Salt Combination,OK,2,T,0
+2020,Dextroamphetamine Sulfate,OK,2,T,0
+2020,Lisdexamfetamine Dimesylate,OK,2,F,18005
+2020,Amphetamine,OK,3,T,0
+2020,Amphetamine Salt Combination,OK,3,F,8410
+2020,Amphetamine Salt Combination,OK,3,T,0
+2020,Dextroamphetamine Sulfate,OK,3,T,0
+2020,Lisdexamfetamine Dimesylate,OK,3,F,19613
+2020,Amphetamine,OK,4,T,0
+2020,Amphetamine Salt Combination,OK,4,F,7775
+2020,Amphetamine Salt Combination,OK,4,T,0
+2020,Dextroamphetamine Sulfate,OK,4,T,0
+2020,Lisdexamfetamine Dimesylate,OK,4,F,20290
+2020,Amphetamine,PA,1,F,200
+2020,Amphetamine,PA,1,T,0
+2020,Amphetamine Salt Combination,PA,1,F,74544
+2020,Amphetamine Salt Combination,PA,1,T,0
+2020,Dextroamphetamine Sulfate,PA,1,F,1919
+2020,Dextroamphetamine Sulfate,PA,1,T,0
+2020,Lisdexamfetamine Dimesylate,PA,1,F,38135
+2020,Lisdexamfetamine Dimesylate,PA,1,T,0
+2020,Methamphetamine Hydrochloride,PA,1,F,16
+2020,Methamphetamine Hydrochloride,PA,1,T,0
+2020,Amphetamine,PA,2,F,148
+2020,Amphetamine,PA,2,T,0
+2020,Amphetamine Salt Combination,PA,2,F,70117
+2020,Amphetamine Salt Combination,PA,2,T,0
+2020,Dextroamphetamine Sulfate,PA,2,F,1803
+2020,Dextroamphetamine Sulfate,PA,2,T,0
+2020,Lisdexamfetamine Dimesylate,PA,2,F,32784
+2020,Lisdexamfetamine Dimesylate,PA,2,T,0
+2020,Methamphetamine Hydrochloride,PA,2,F,15
+2020,Methamphetamine Hydrochloride,PA,2,T,0
+2020,Amphetamine,PA,3,F,187
+2020,Amphetamine,PA,3,T,0
+2020,Amphetamine Salt Combination,PA,3,F,72269
+2020,Amphetamine Salt Combination,PA,3,T,0
+2020,Dextroamphetamine Sulfate,PA,3,F,1887
+2020,Dextroamphetamine Sulfate,PA,3,T,0
+2020,Lisdexamfetamine Dimesylate,PA,3,F,32451
+2020,Lisdexamfetamine Dimesylate,PA,3,T,0
+2020,Methamphetamine Hydrochloride,PA,3,T,0
+2020,Amphetamine,PA,4,F,101
+2020,Amphetamine,PA,4,T,0
+2020,Amphetamine Salt Combination,PA,4,F,42966
+2020,Amphetamine Salt Combination,PA,4,T,0
+2020,Dextroamphetamine Sulfate,PA,4,F,1105
+2020,Dextroamphetamine Sulfate,PA,4,T,0
+2020,Lisdexamfetamine Dimesylate,PA,4,F,20532
+2020,Lisdexamfetamine Dimesylate,PA,4,T,0
+2020,Methamphetamine Hydrochloride,PA,4,T,0
 2020,Amphetamine,SC,1,F,60
 2020,Amphetamine,SC,1,T,0
 2020,Amphetamine Salt Combination,SC,1,F,33075
@@ -896,3 +4994,156 @@ year,gennme,state,quarter,suppression,totalRX
 2020,Lisdexamfetamine Dimesylate,TN,4,F,26774
 2020,Lisdexamfetamine Dimesylate,TN,4,T,0
 2020,Methamphetamine Hydrochloride,TN,4,T,0
+2020,Amphetamine,UT,1,F,57
+2020,Amphetamine,UT,1,T,0
+2020,Amphetamine Salt Combination,UT,1,F,9514
+2020,Amphetamine Salt Combination,UT,1,T,0
+2020,Dextroamphetamine Sulfate,UT,1,F,174
+2020,Dextroamphetamine Sulfate,UT,1,T,0
+2020,Lisdexamfetamine Dimesylate,UT,1,F,4675
+2020,Lisdexamfetamine Dimesylate,UT,1,T,0
+2020,Amphetamine,UT,2,F,27
+2020,Amphetamine,UT,2,T,0
+2020,Amphetamine Salt Combination,UT,2,F,8319
+2020,Amphetamine Salt Combination,UT,2,T,0
+2020,Dextroamphetamine Sulfate,UT,2,F,177
+2020,Dextroamphetamine Sulfate,UT,2,T,0
+2020,Lisdexamfetamine Dimesylate,UT,2,F,4520
+2020,Lisdexamfetamine Dimesylate,UT,2,T,0
+2020,Amphetamine,UT,3,F,23
+2020,Amphetamine,UT,3,T,0
+2020,Amphetamine Salt Combination,UT,3,F,8009
+2020,Amphetamine Salt Combination,UT,3,T,0
+2020,Dextroamphetamine Sulfate,UT,3,F,190
+2020,Dextroamphetamine Sulfate,UT,3,T,0
+2020,Lisdexamfetamine Dimesylate,UT,3,F,4648
+2020,Lisdexamfetamine Dimesylate,UT,3,T,0
+2020,Amphetamine,UT,4,F,39
+2020,Amphetamine,UT,4,T,0
+2020,Amphetamine Salt Combination,UT,4,F,8314
+2020,Amphetamine Salt Combination,UT,4,T,0
+2020,Dextroamphetamine Sulfate,UT,4,F,201
+2020,Dextroamphetamine Sulfate,UT,4,T,0
+2020,Lisdexamfetamine Dimesylate,UT,4,F,5533
+2020,Lisdexamfetamine Dimesylate,UT,4,T,0
+2020,Amphetamine,VA,1,F,96
+2020,Amphetamine,VA,1,T,0
+2020,Amphetamine Salt Combination,VA,1,F,35310
+2020,Amphetamine Salt Combination,VA,1,T,0
+2020,Dextroamphetamine Sulfate,VA,1,F,693
+2020,Dextroamphetamine Sulfate,VA,1,T,0
+2020,Lisdexamfetamine Dimesylate,VA,1,F,23695
+2020,Lisdexamfetamine Dimesylate,VA,1,T,0
+2020,Methamphetamine Hydrochloride,VA,1,T,0
+2020,Amphetamine,VA,2,F,53
+2020,Amphetamine,VA,2,T,0
+2020,Amphetamine Salt Combination,VA,2,F,31341
+2020,Amphetamine Salt Combination,VA,2,T,0
+2020,Dextroamphetamine Sulfate,VA,2,F,648
+2020,Dextroamphetamine Sulfate,VA,2,T,0
+2020,Lisdexamfetamine Dimesylate,VA,2,F,19258
+2020,Lisdexamfetamine Dimesylate,VA,2,T,0
+2020,Methamphetamine Hydrochloride,VA,2,T,0
+2020,Amphetamine,VA,3,F,62
+2020,Amphetamine,VA,3,T,0
+2020,Amphetamine Salt Combination,VA,3,F,30428
+2020,Amphetamine Salt Combination,VA,3,T,0
+2020,Dextroamphetamine Sulfate,VA,3,F,666
+2020,Dextroamphetamine Sulfate,VA,3,T,0
+2020,Lisdexamfetamine Dimesylate,VA,3,F,19810
+2020,Lisdexamfetamine Dimesylate,VA,3,T,0
+2020,Methamphetamine Hydrochloride,VA,3,T,0
+2020,Amphetamine,VA,4,F,31
+2020,Amphetamine,VA,4,T,0
+2020,Amphetamine Salt Combination,VA,4,F,30483
+2020,Amphetamine Salt Combination,VA,4,T,0
+2020,Dextroamphetamine Sulfate,VA,4,F,713
+2020,Dextroamphetamine Sulfate,VA,4,T,0
+2020,Lisdexamfetamine Dimesylate,VA,4,F,21256
+2020,Lisdexamfetamine Dimesylate,VA,4,T,0
+2020,Methamphetamine Hydrochloride,VA,4,T,0
+2020,Amphetamine,WA,1,T,0
+2020,Amphetamine Salt Combination,WA,1,F,32364
+2020,Amphetamine Salt Combination,WA,1,T,0
+2020,Dextroamphetamine Sulfate,WA,1,F,1165
+2020,Dextroamphetamine Sulfate,WA,1,T,0
+2020,Lisdexamfetamine Dimesylate,WA,1,F,13063
+2020,Lisdexamfetamine Dimesylate,WA,1,T,0
+2020,Methamphetamine Hydrochloride,WA,1,F,18
+2020,Amphetamine,WA,2,T,0
+2020,Amphetamine Salt Combination,WA,2,F,28963
+2020,Amphetamine Salt Combination,WA,2,T,0
+2020,Dextroamphetamine Sulfate,WA,2,F,1165
+2020,Dextroamphetamine Sulfate,WA,2,T,0
+2020,Lisdexamfetamine Dimesylate,WA,2,F,12127
+2020,Lisdexamfetamine Dimesylate,WA,2,T,0
+2020,Methamphetamine Hydrochloride,WA,2,F,13
+2020,Amphetamine,WA,3,T,0
+2020,Amphetamine Salt Combination,WA,3,F,27947
+2020,Amphetamine Salt Combination,WA,3,T,0
+2020,Dextroamphetamine Sulfate,WA,3,F,1218
+2020,Dextroamphetamine Sulfate,WA,3,T,0
+2020,Lisdexamfetamine Dimesylate,WA,3,F,12336
+2020,Lisdexamfetamine Dimesylate,WA,3,T,0
+2020,Methamphetamine Hydrochloride,WA,3,F,14
+2020,Amphetamine,WA,4,T,0
+2020,Amphetamine Salt Combination,WA,4,F,26397
+2020,Amphetamine Salt Combination,WA,4,T,0
+2020,Dextroamphetamine Sulfate,WA,4,F,1152
+2020,Dextroamphetamine Sulfate,WA,4,T,0
+2020,Lisdexamfetamine Dimesylate,WA,4,F,12297
+2020,Lisdexamfetamine Dimesylate,WA,4,T,0
+2020,Methamphetamine Hydrochloride,WA,4,F,16
+2020,Amphetamine,WV,1,F,276
+2020,Amphetamine,WV,1,T,0
+2020,Amphetamine Salt Combination,WV,1,F,9646
+2020,Amphetamine Salt Combination,WV,1,T,0
+2020,Dextroamphetamine Sulfate,WV,1,F,406
+2020,Dextroamphetamine Sulfate,WV,1,T,0
+2020,Lisdexamfetamine Dimesylate,WV,1,F,14462
+2020,Methamphetamine Hydrochloride,WV,1,T,0
+2020,Amphetamine,WV,2,F,251
+2020,Amphetamine,WV,2,T,0
+2020,Amphetamine Salt Combination,WV,2,F,8203
+2020,Amphetamine Salt Combination,WV,2,T,0
+2020,Dextroamphetamine Sulfate,WV,2,F,362
+2020,Dextroamphetamine Sulfate,WV,2,T,0
+2020,Lisdexamfetamine Dimesylate,WV,2,F,12684
+2020,Methamphetamine Hydrochloride,WV,2,T,0
+2020,Amphetamine,WV,3,F,236
+2020,Amphetamine,WV,3,T,0
+2020,Amphetamine Salt Combination,WV,3,F,7871
+2020,Amphetamine Salt Combination,WV,3,T,0
+2020,Dextroamphetamine Sulfate,WV,3,F,390
+2020,Dextroamphetamine Sulfate,WV,3,T,0
+2020,Lisdexamfetamine Dimesylate,WV,3,F,12442
+2020,Methamphetamine Hydrochloride,WV,3,T,0
+2020,Amphetamine,WV,4,F,231
+2020,Amphetamine,WV,4,T,0
+2020,Amphetamine Salt Combination,WV,4,F,7481
+2020,Amphetamine Salt Combination,WV,4,T,0
+2020,Dextroamphetamine Sulfate,WV,4,F,385
+2020,Dextroamphetamine Sulfate,WV,4,T,0
+2020,Lisdexamfetamine Dimesylate,WV,4,F,12950
+2020,Methamphetamine Hydrochloride,WV,4,T,0
+2020,Amphetamine Salt Combination,WY,1,F,908
+2020,Amphetamine Salt Combination,WY,1,T,0
+2020,Dextroamphetamine Sulfate,WY,1,T,0
+2020,Lisdexamfetamine Dimesylate,WY,1,F,1094
+2020,Lisdexamfetamine Dimesylate,WY,1,T,0
+2020,Amphetamine Salt Combination,WY,2,F,627
+2020,Amphetamine Salt Combination,WY,2,T,0
+2020,Dextroamphetamine Sulfate,WY,2,T,0
+2020,Lisdexamfetamine Dimesylate,WY,2,F,918
+2020,Lisdexamfetamine Dimesylate,WY,2,T,0
+2020,Amphetamine Salt Combination,WY,3,F,581
+2020,Amphetamine Salt Combination,WY,3,T,0
+2020,Dextroamphetamine Sulfate,WY,3,T,0
+2020,Lisdexamfetamine Dimesylate,WY,3,F,971
+2020,Lisdexamfetamine Dimesylate,WY,3,T,0
+2020,Amphetamine Salt Combination,WY,4,F,530
+2020,Amphetamine Salt Combination,WY,4,T,0
+2020,Dextroamphetamine Sulfate,WY,4,T,0
+2020,Lisdexamfetamine Dimesylate,WY,4,F,1118
+2020,Lisdexamfetamine Dimesylate,WY,4,T,0
+2020,Methamphetamine Hydrochloride,WY,4,T,0
