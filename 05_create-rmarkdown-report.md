@@ -1,4 +1,4 @@
-SDUD Stimulants 2005 - 2010
+SDUD Stimulants 2015 - 2010
 ================
 Michael Quinn Maguire, MS
 6/9/2021
@@ -146,21 +146,37 @@ states
     ## # ... with 40 more rows
 
 ``` r
+statesFile <-
+  readxl::read_xlsx(
+    path = "./data/raw/statesSDUDanalyses.xlsx"
+  ) %>%
+  select(State) %>%
+  filter(State != "Minnesota")
+
 statesOfInterest <-
-  states %>%
-    filter(
-      state %in% c("Florida", "Colorado", "Tennessee", "South Carolina", "Tennessee", "Mississippi") 
+  statesFile %>%
+    inner_join(
+      states,
+      by = c("State" = "state")
     ) %>%
-    select(
-      abbreviation
-    ) %>%
+  select(abbreviation) %>%
   as_vector()
 
 statesOfInterest
 ```
 
-    ## abbreviation1 abbreviation2 abbreviation3 abbreviation4 abbreviation5 
-    ##          "CO"          "FL"          "MS"          "SC"          "TN"
+    ##  abbreviation1  abbreviation2  abbreviation3  abbreviation4  abbreviation5 
+    ##           "AK"           "AZ"           "CO"           "CT"           "DE" 
+    ##  abbreviation6  abbreviation7  abbreviation8  abbreviation9 abbreviation10 
+    ##           "FL"           "HI"           "IL"           "IN"           "KY" 
+    ## abbreviation11 abbreviation12 abbreviation13 abbreviation14 abbreviation15 
+    ##           "LA"           "MI"           "MS"           "MO"           "NV" 
+    ## abbreviation16 abbreviation17 abbreviation18 abbreviation19 abbreviation20 
+    ##           "NH"           "NJ"           "NY"           "NC"           "OH" 
+    ## abbreviation21 abbreviation22 abbreviation23 abbreviation24 abbreviation25 
+    ##           "OK"           "PA"           "SC"           "TN"           "UT" 
+    ## abbreviation26 abbreviation27 abbreviation28 abbreviation29 
+    ##           "VA"           "WA"           "WV"           "WY"
 
 ### Examine spreadsheet with requested NDC’s
 
@@ -302,7 +318,7 @@ yrSt <-
   ]
 ```
 
-### Check to ensure all years/quarters from 2017 to 2020 are included.
+### Check to ensure all years/quarters from 2015 to 2020 are included.
 
 ``` r
 yrSt %>%
@@ -442,13 +458,13 @@ drugsAggStateGeneric %>%
         fill = gennme
       )
     ) +
-  labs(
-    fill = "Generic Name"
-  ) +
-  scale_fill_viridis_d() +
-  theme_ipsum_rc(grid = "XY") +
-  ggtitle("Total Prescriptions by Year, Quarter, and Generic Name") +
-  scale_y_continuous(labels = scales::comma)
+    labs(
+      fill = "Generic Name"
+    ) +
+    scale_fill_viridis_d() +
+    theme_ipsum_rc(grid = "XY") +
+    ggtitle("Total Prescriptions by Year, Quarter, and Generic Name") +
+    scale_y_continuous(labels = scales::comma)
 ```
 
 ![](05_create-rmarkdown-report_files/figure-gfm/drugsYearQuarterGenericPlot-1.png)<!-- -->
@@ -473,6 +489,9 @@ drugsAggStateGeneric %>%
     ) +
     scale_fill_viridis_d() +
     theme_ipsum_rc(grid = "XY") +
+    theme(
+      axis.text.x = element_text(angle = 90, size = 8, vjust = 0.5)
+    ) +
     ggtitle("Total Prescriptions by State, Year, Quarter, and Generic Name") +
     scale_y_continuous(labels = scales::comma)
 ```
@@ -484,10 +503,11 @@ drugsAggStateGeneric %>%
 ``` r
 drugsAggStateProdnme %>%
   filter(suppression == "F") %>%
-    mutate(
-      yearQuarter = paste0(year, "-", quarter),
-      prodnme = stringr::str_to_title(prodnme)) %>%
-    ggplot() +
+  mutate(
+    yearQuarter = paste0(year, "-", quarter),
+    prodnme = stringr::str_to_title(prodnme)
+  ) %>%
+  ggplot() +
     geom_col(
       mapping = aes(
         x    = yearQuarter,
@@ -513,7 +533,8 @@ drugsAggStateProdnme %>%
   filter(suppression == "F") %>%
   mutate(
     yearQuarter = paste0(year, "-", quarter),
-    prodnme = stringr::str_to_title(prodnme)) %>%
+    prodnme = stringr::str_to_title(prodnme)
+  ) %>%
   ggplot() +
     geom_col(
       mapping = aes(
@@ -529,7 +550,7 @@ drugsAggStateProdnme %>%
     scale_fill_viridis_d() +
     theme_ipsum_rc(grid = "XY") +
     theme(
-      axis.text.x = element_text(angle = 90, size = 9, vjust = 0.5)
+      axis.text.x = element_text(angle = 90, size = 7, vjust = 0.5)
     ) +
     ggtitle("Total Prescriptions by State, Year, Quarter, and Brand Name") +
     scale_y_continuous(labels = scales::comma)
